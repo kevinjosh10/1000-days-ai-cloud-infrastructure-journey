@@ -6,8 +6,8 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-59_Days-fire?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Streak](https://img.shields.io/badge/Streak-81_Days-fire?style=for-the-badge)
 
 ---
 
@@ -25,11 +25,11 @@ My long-term mission is to become an **AI Cloud Infrastructure Engineer**. This 
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 59 / 1000** | Unbroken consistency in daily execution logs |
-| **Milestone** | **Week 8 Completed** | Fully completed 8 weeks of intensive roadmaps |
-| **Projects Built** | **7 Infrastructure Systems** | From Linux bash automation to AWS CLI tools |
-| **Python Scripts** | **17 Automation Modules** | Focused on system health, APIs, config, and `boto3` |
-| **Current Phase** | **Python & AWS Automation** | Transitioning from scripting to OOP-driven cloud tools |
+| **Current Day** | **Day 81 / 1000** | Unbroken consistency in daily execution logs |
+| **Milestone** | **Week 11 Completed** | Successfully cleared Linux, Python, and AWS Core phases |
+| **Projects Built** | **12 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
+| **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
+| **Current Phase** | **AWS Architecture & CI/CD** | Transitioning from automation to production-grade cloud deployments |
 
 ---
 
@@ -37,40 +37,42 @@ My long-term mission is to become an **AI Cloud Infrastructure Engineer**. This 
 
 I am building a foundational stack designed for large-scale operations, avoiding GUI clicks in favor of pure code and automation.
 
-### 🐧 Linux & Systems Administration
-- **Process Management:** `systemd`, `cron`, resource monitoring (`top`, `htop`).
-- **Security & Access:** SSH keys, UFW/Firewall rules, secure user/group permissions.
-- **Automation:** Advanced Bash scripting for log rotation and backups.
+### ☁️ AWS & Cloud Architecture
+- **Compute & Storage:** EC2 (AMIs, families, sizing), EBS volumes, persistent block storage, Snapshots.
+- **Security:** Layered Security Groups, SSH Key Pairs, IMDSv2 Metadata Security.
+- **Orchestration:** `boto3` infrastructure provisioning, bootstrapping with EC2 User Data, Multi-tier architecture.
 
-### 🌐 Networking Fundamentals
-- **Core Protocols:** TCP/IP, DNS (`dig`), DHCP, HTTP.
-- **Architecture:** Subnetting, CIDR calculations (`ipcalc`), NAT routing, packet tracing (`traceroute`).
-- **Cloud Networks:** Designing secure AWS VPCs, Route Tables, and Security Groups.
+### 🔄 CI/CD & DevOps
+- **Pipeline Automation:** GitHub Actions workflows (`.yml`), YAML syntax, continuous integration.
+- **Code Quality:** Automated linting (`flake8`), automated testing (`pytest`).
+- **Version Control:** Advanced Git operations, branching strategies, and repository management.
 
-### 🐍 Python & Cloud Automation
+### 🐧 Linux & Networking
+- **Systems Admin:** `systemd`, `cron`, resource monitoring (`top`, `htop`), log rotation.
+- **Security:** UFW/Firewall rules, secure user permissions, reverse proxy design (Nginx).
+- **Networking:** TCP/IP, DNS (`dig`), Subnetting, NAT routing, custom AWS VPC design.
+
+### 🐍 Python Automation
 - **Software Engineering:** Object-Oriented Programming (OOP), modular design, `argparse` CLI tools.
-- **Resilience:** Comprehensive Error Handling (`try/except`), file logging, and exception catching.
-- **Configuration:** Decoupling logic using YAML/JSON configuration files.
-- **AWS Orchestration:** Using `boto3` to programmatically manage EC2 instances, S3 buckets, and IAM.
+- **Resilience:** Comprehensive Error Handling (`try/except`), file logging, decoupling via YAML/JSON.
 
 ---
 
 ## 🏗️ Real-World Infrastructure Projects
 
-I believe in learning by doing. Instead of watching lectures, I build systems. Here are the 7 major projects engineered during this journey:
+I believe in learning by doing. Instead of watching lectures, I build systems. Here are highlights from the 12 major projects engineered during this journey:
 
-### 🌩️ Cloud & Automation
-1. **☁️ Cloud Multi-Tool CLI:** A production-grade CLI built in Python utilizing `boto3` and `argparse`. It parses YAML configurations to fetch GitHub repositories via REST API, list S3 buckets, and dynamically generate multi-region EC2 reports.
-2. **🛡️ Infrastructure Health Monitor:** A custom Python utility script designed to actively monitor CPU, memory, disk usage, and system logs, acting as an automated watchdog.
+### 🌩️ Cloud Architecture & CI/CD (Weeks 9-11)
+1. **⚙️ Python CI/CD Automation Pipeline:** Engineered a professional GitHub Actions pipeline to automatically lint code (`flake8`) and run unit tests (`pytest`) on every push/PR, simulating production DevOps workflows.
+2. **🏗️ Production 3-Tier AWS Architecture:** Designed and deployed a complete cloud system featuring a Web Tier (Nginx), App Tier (Flask), and Database Tier (SQLite) using `boto3` automation and strict Security Group isolation.
+3. **🔐 EC2 Advanced Security & Metadata Lab:** Hardened cloud instances using custom AMIs, IMDSv2 token-based metadata authentication, and automated python application bootstrapping via User Data scripts.
 
-### 🕸️ Networking
-3. **🌐 Cloud VPC Design & Implementation:** Architected a secure cloud network from scratch, defining public/private subnets, Internet Gateways, Route Tables, and granular Security Groups.
-4. **🔍 Local-to-Cloud Network Simulator:** A deep-dive network analysis lab where I traced packet flows from local clients to cloud servers, debugged NAT routing, and extensively tested DNS resolution paths.
-
-### 🐧 Linux Systems
-5. **⚙️ Linux Server Automation:** Deployed NGINX on an AWS EC2 instance, configuring robust SSH access and automating background health-check tasks using `cron` and `systemd`.
-6. **🔒 Linux Security & Administration:** Hardened server environments by implementing strict UFW firewall policies, managing SSH identities, and securing file access controls.
-7. **📜 Shell Scripting & Automation:** Developed pure Bash pipelines for critical administrative tasks like automated backups, log rotation, and server reporting.
+### 🕸️ Networking & Automation (Weeks 1-8)
+4. **☁️ Cloud Multi-Tool CLI:** A production-grade CLI built in Python utilizing `boto3` and `argparse` to fetch GitHub repositories via REST API, list S3 buckets, and dynamically generate multi-region EC2 reports.
+5. **🛡️ Infrastructure Health Monitor:** A custom Python utility script designed to actively monitor CPU, memory, disk usage, and system logs, acting as an automated watchdog.
+6. **🌐 Cloud VPC Design & Implementation:** Architected a secure cloud network from scratch, defining public/private subnets, Internet Gateways, Route Tables, and granular Security Groups.
+7. **🔍 Local-to-Cloud Network Simulator:** Traced packet flows from local clients to cloud servers, debugged NAT routing, and extensively tested DNS resolution paths.
+8. **🐧 Linux Server Automation:** Deployed NGINX on an AWS EC2 instance, configuring robust SSH access and automating background health-check tasks using `cron` and `systemd`.
 
 ---
 
@@ -80,13 +82,14 @@ This repository acts as my second brain, carefully organized to track progress a
 
 ```text
 📦 ai-cloud-infrastructure-journey
- ┣ 📂 daily-logs/      # 59 days of unbroken execution logs (concepts, commands, bugs)
+ ┣ 📂 daily-logs/      # 81 days of unbroken execution logs (concepts, commands, bugs)
  ┃ ┣ 📂 march-2026/    # Days 1-30
- ┃ ┗ 📂 april-2026/    # Days 31-59
- ┣ 📂 projects/        # The 7 real-world implementations & labs listed above
- ┣ 📂 python-codes/    # 17 days of Python automation code (APIs, OOP, boto3)
+ ┃ ┣ 📂 april-2026/    # Days 31-59
+ ┃ ┗ 📂 may-2026/      # Days 60-81
+ ┣ 📂 projects/        # 12 real-world implementations, CI/CD pipelines & AWS labs
+ ┣ 📂 python-codes/    # 20 days of Python automation code (APIs, OOP, boto3)
  ┣ 📂 notes/           # Deep-dive documentation and concept breakdowns
- ┣ 📂 roadmap/         # 8 weeks of strategic, granular learning plans
+ ┣ 📂 roadmap/         # 11 weeks of strategic, granular learning plans
  ┗ 📜 README.md        # You are here
 ```
 
@@ -96,47 +99,44 @@ This repository acts as my second brain, carefully organized to track progress a
 
 A core focus of this journey is writing code and building infrastructure that survives in production environments. I strictly adhere to:
 
-- **Observability:** Implementing comprehensive console and file logging (`INFO`, `DEBUG`, `ERROR`).
-- **Fault Tolerance:** Building resilient applications that gracefully catch API timeouts and config errors.
 - **Config-Driven Development:** Decoupling hardcoded values from logic using YAML and environment variables.
+- **Continuous Integration:** Validating all commits automatically through GitHub Action pipelines.
+- **Immutable Infrastructure:** Pre-baking infrastructure requirements into custom AMIs rather than configuring servers manually.
 - **Testing & Mocking:** Validating infrastructure logic using `pytest` and `unittest.mock` to simulate AWS services.
 - **Clean Architecture:** Utilizing Object-Oriented Programming (OOP) to ensure system components remain modular and extensible.
 
 ---
 
-## 📊 Sample Work (Python CLI Automation)
+## 📊 Sample Work (Automated CI Pipeline)
 
-**Config-Driven AWS EC2 CLI Tool (Extract from `day-17.md`):**
+**Extract from `.github/workflows/ci.yml` (Day 69 Project):**
 
-```python
-import argparse
-import yaml
+```yaml
+name: CI Pipeline
 
-def load_config(path):
-    with open(path, "r") as file:
-        return yaml.safe_load(file)
+on:
+  push:
+  pull_request:
 
-def list_instances(args, config):
-    # Dynamic parameter resolution: CLI args > YAML config > Defaults
-    region = args.region if args.region else config.get("regions", [None])[0]
-    state = args.state if args.state else config.get("filters", {}).get("instance_state")
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install flake8
+      - run: flake8 .
 
-    print(f"[INFO] Listing instances in region: {region}")
-    print(f"[INFO] Applied Filter State: {state}")
-    # Integration with boto3 execution...
-```
-
-**Execution via Terminal:**
-```bash
-$ python ec2_tool_config.py list --region ap-south-1
-
-[INFO] Loading configuration from config.yaml...
-[INFO] Listing instances in region: ap-south-1
-[INFO] Applied Filter State: running
-
-Instance ID   | Type      | State   | Public IP
---------------|-----------|---------|---------------
-i-0abcd12345  | t3.micro  | running | 192.168.1.100
+  test:
+    needs: lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install pytest
+      - run: pytest
 ```
 
 ---
@@ -146,11 +146,12 @@ i-0abcd12345  | t3.micro  | running | 192.168.1.100
 - [x] **Phase 1:** Linux Administration & System Deep Dives
 - [x] **Phase 2:** Networking Fundamentals (TCP/IP, DNS, Subnetting, VPCs)
 - [x] **Phase 3:** Python Programming & OOP Design
-- [x] **Phase 4:** AWS API Automation (`boto3`)
-- [ ] **Phase 5:** Containerization (Docker) & Orchestration (Kubernetes)
-- [ ] **Phase 6:** Infrastructure as Code (Terraform)
-- [ ] **Phase 7:** CI/CD Pipelines (GitHub Actions / Jenkins)
-- [ ] **Phase 8:** AI Model Deployment Infrastructure & GPU Compute Environments
+- [x] **Phase 4:** Advanced Git & CI/CD Pipelines (GitHub Actions)
+- [x] **Phase 5:** AWS Core Services & API Automation (`boto3`, EC2, IAM)
+- [ ] **Phase 6:** Containerization (Docker) & Orchestration (Kubernetes)
+- [ ] **Phase 7:** Infrastructure as Code (Terraform)
+- [ ] **Phase 8:** Serverless Architecture & Monitoring (CloudWatch, Prometheus)
+- [ ] **Phase 9:** AI Model Deployment Infrastructure & GPU Compute Environments
 
 ---
 
@@ -163,7 +164,7 @@ Motivation is fleeting, but discipline builds empires. I show up and log my prog
 Tutorial hell is a trap. The only way to truly understand a system is to break it, debug the logs, and build it from scratch.
 
 **Systems Thinking.**  
-I don't just memorize isolated terminal commands; I strive to understand how the entire ecosystem—from the Linux kernel processes, through the NAT gateway, to the cloud load balancer—interacts seamlessly.
+I don't just memorize isolated terminal commands; I strive to understand how the entire ecosystem—from the Linux kernel processes, through the CI/CD pipeline, to the cloud load balancer—interacts seamlessly.
 
 ---
 
