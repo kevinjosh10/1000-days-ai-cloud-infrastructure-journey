@@ -7,7 +7,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-81_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-91_Days-fire?style=for-the-badge)
 
 ---
 
@@ -25,9 +25,9 @@ My long-term mission is to become an **AI Cloud Infrastructure Engineer**. This 
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 81 / 1000** | Unbroken consistency in daily execution logs |
-| **Milestone** | **Week 11 Completed** | Successfully cleared Linux, Python, and AWS Core phases |
-| **Projects Built** | **12 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
+| **Current Day** | **Day 91 / 1000** | Unbroken consistency in daily execution logs |
+| **Milestone** | **Week 13 Completed** | Successfully cleared Linux, Python, and AWS Core & Security phases |
+| **Projects Built** | **14 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
 | **Current Phase** | **AWS Architecture & CI/CD** | Transitioning from automation to production-grade cloud deployments |
 
@@ -60,7 +60,7 @@ I am building a foundational stack designed for large-scale operations, avoiding
 
 ## 🏗️ Real-World Infrastructure Projects
 
-I believe in learning by doing. Instead of watching lectures, I build systems. Here are highlights from the 12 major projects engineered during this journey:
+I believe in learning by doing. Instead of watching lectures, I build systems. Here are highlights from the 14 major projects engineered during this journey:
 
 ### 🌩️ Cloud Architecture & CI/CD (Weeks 9-11)
 1. **⚙️ Python CI/CD Automation Pipeline:** Engineered a professional GitHub Actions pipeline to automatically lint code (`flake8`) and run unit tests (`pytest`) on every push/PR, simulating production DevOps workflows.
@@ -82,11 +82,12 @@ This repository acts as my second brain, carefully organized to track progress a
 
 ```text
 📦 ai-cloud-infrastructure-journey
- ┣ 📂 daily-logs/      # 81 days of unbroken execution logs (concepts, commands, bugs)
- ┃ ┣ 📂 march-2026/    # Days 1-30
- ┃ ┣ 📂 april-2026/    # Days 31-59
- ┃ ┗ 📂 may-2026/      # Days 60-81
- ┣ 📂 projects/        # 12 real-world implementations, CI/CD pipelines & AWS labs
+ ┣ 📂 daily-logs/      # 91 days of unbroken execution logs (concepts, commands, bugs)
+ ┃ ┗ 📂 2026/
+ ┃   ┣ 📂 march-2026/    # Days 1-31
+ ┃   ┣ 📂 april-2026/    # Days 32-60
+ ┃   ┗ 📂 may-2026/      # Days 61-91
+ ┣ 📂 projects/        # 14 real-world implementations, CI/CD pipelines & AWS labs
  ┣ 📂 python-codes/    # 20 days of Python automation code (APIs, OOP, boto3)
  ┣ 📂 notes/           # Deep-dive documentation and concept breakdowns
  ┣ 📂 roadmap/         # 11 weeks of strategic, granular learning plans
