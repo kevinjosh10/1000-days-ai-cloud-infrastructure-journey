@@ -1,13 +1,19 @@
-# 125-Day DSA + Golang + System Design + Behavioral Mastery Roadmap
-**The Elite FAANG & Cloud Infrastructure Engineering Preparation System — Version 2.0**
+# 🚀 125-Day DSA + Golang + System Design Mastery Roadmap
 
-Designed for ambitious engineers aiming for Google, Amazon, Meta, Netflix, Palantir, Stripe, and Top-Tier Cloud Infrastructure Roles. This is a military-grade execution system built for mastery, pattern recognition, and problem-solving intuition.
+> **The Elite FAANG & Cloud Infrastructure Engineering Preparation System — Version 2.0**
 
-*Upgraded from 100 days. All 16 planned improvements applied: 3 missing sections written, Phase 10 expanded from 3 to 6 days, Phase 11 expanded with a Go+DSA bridge, Phase 12 expanded from 5 to 11 mock days, Phase 13 (System Design, 10 days) added, Phase 14 (Behavioral Prep, 3 days) added, Mistake Log and Pattern Cheat Sheet formats defined, resources section added, and all LeetCode Premium problems flagged with free alternatives.*
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Target](https://img.shields.io/badge/Target-FAANG%20%7C%20Unicorns-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-System_Design%20%7C%20DSA%20%7C%20Golang-orange?style=for-the-badge)
+
+Designed for ambitious engineers aiming for **Google, Amazon, Meta, Netflix, Palantir, Stripe**, and Top-Tier Cloud Infrastructure Roles. This is a military-grade execution system built for mastery, pattern recognition, and problem-solving intuition.
+
+> [!NOTE]
+> *Upgraded from 100 days. All 16 planned improvements applied: 3 missing sections written, Phase 10 expanded from 3 to 6 days, Phase 11 expanded with a Go+DSA bridge, Phase 12 expanded from 5 to 11 mock days, Phase 13 (System Design, 10 days) added, Phase 14 (Behavioral Prep, 3 days) added, Mistake Log and Pattern Cheat Sheet formats defined, resources section added, and all LeetCode Premium problems flagged with free alternatives.*
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 1. [Rules of the Journey](#rules-of-the-journey)
 2. [FAANG Problem Solving Framework](#faang-problem-solving-framework)
@@ -35,18 +41,19 @@ Designed for ambitious engineers aiming for Google, Amazon, Meta, Netflix, Palan
 
 ---
 
-## Rules of the Journey
+## 📜 Rules of the Journey
 
-1. **Time-box your struggle.** Spend exactly 20 minutes struggling with an approach before looking at a hint. Spend 35 minutes before looking at the solution.
-2. **Never copy-paste.** Even if you look at a solution, type it out line by line. If you cannot explain a line, you do not understand it.
-3. **Internalize, don't memorize.** Internalize the pattern: "Multiple sorted streams require a Min-Heap."
-4. **Re-solve in 3 days.** If you fail a problem or need the solution, mark it. You must re-solve it from absolute scratch 3 days later. Then again on Day 7. Then again on Day 14.
-5. **Complexity First.** Before you write a single line of code, verbally state your time and space complexity.
-6. **Maintain the Mistake Log every single day.** A roadmap without a written record of failures is just a wish list.
+> [!IMPORTANT]
+> 1. **Time-box your struggle.** Spend exactly 20 minutes struggling with an approach before looking at a hint. Spend 35 minutes before looking at the solution.
+> 2. **Never copy-paste.** Even if you look at a solution, type it out line by line. If you cannot explain a line, you do not understand it.
+> 3. **Internalize, don't memorize.** Internalize the pattern: "Multiple sorted streams require a Min-Heap."
+> 4. **Re-solve in 3 days.** If you fail a problem or need the solution, mark it. You must re-solve it from absolute scratch 3 days later. Then again on Day 7. Then again on Day 14.
+> 5. **Complexity First.** Before you write a single line of code, verbally state your time and space complexity.
+> 6. **Maintain the Mistake Log every single day.** A roadmap without a written record of failures is just a wish list.
 
 ---
 
-## FAANG Problem Solving Framework
+## 🧠 FAANG Problem Solving Framework
 
 1. **Clarify (3 mins):** Read the problem twice. What are the constraints? Are there negative numbers? Is the input sorted? State the edge cases.
 2. **Brute Force (3 mins):** State the naive O(n²) or O(2ⁿ) solution out loud. This proves you understand the baseline.
@@ -57,7 +64,7 @@ Designed for ambitious engineers aiming for Google, Amazon, Meta, Netflix, Palan
 
 ---
 
-## Daily Study System
+## 📅 Daily Study System
 
 **Target: 1 hour 45 minutes per day.** Every day, every phase, no exceptions.
 
@@ -81,7 +88,7 @@ Designed for ambitious engineers aiming for Google, Amazon, Meta, Netflix, Palan
 
 ---
 
-## Weekly Revision System
+## 🔄 Weekly Revision System
 
 **The Spaced Repetition Schedule.** This is what separates engineers who retain patterns from engineers who re-learn the same problems every week.
 
@@ -116,7 +123,7 @@ On the last Sunday of each month, pick 5 random problems from your Mistake Log t
 
 ---
 
-## Technical Interview Communication Checklist
+## 🗣️ Technical Interview Communication Checklist
 
 Use this checklist as a mental script during every timed mock and every real interview. The goal is never to be silent for more than 15 seconds.
 
@@ -151,7 +158,7 @@ Use this checklist as a mental script during every timed mock and every real int
 
 ---
 
-## Mistake Log Format
+## ❌ Mistake Log Format
 
 Create this as a spreadsheet or Markdown table. Begin it on Day 1. Update it the same day, not the next morning.
 
@@ -167,7 +174,7 @@ Create this as a spreadsheet or Markdown table. Begin it on Day 1. Update it the
 
 ---
 
-## Pattern Cheat Sheet Format
+## 📋 Pattern Cheat Sheet Format
 
 Maintain one page per pattern. Each entry has five fields. Build this incrementally — add entries as you encounter each pattern. By Day 100, you will have 20+ fully populated entries.
 
@@ -203,7 +210,7 @@ CANONICAL PROBLEMS: Longest Substring Without Repeating Characters, Minimum Wind
 
 ---
 
-## Recommended Resources
+## 📚 Recommended Resources
 
 **Problem Practice:**
 - **NeetCode.io** — Video solutions for every problem in this roadmap. Watch only after your own genuine attempt. The explanations match the "Detailed Concepts" column precisely.
@@ -229,7 +236,7 @@ CANONICAL PROBLEMS: Longest Substring Without Repeating Characters, Minimum Wind
 
 ---
 
-## Phase Difficulty Overview
+## 📊 Phase Difficulty Overview
 
 This heatmap tells you what to expect before you arrive at each phase. The candidates who abandon this roadmap almost always do so at Phase 9. Knowing the terrain is your advantage.
 
@@ -250,15 +257,17 @@ This heatmap tells you what to expect before you arrive at each phase. The candi
 | 13 System Design | 113–122 | Medium–Hard | 2h | Conceptual, not algorithmic. Slower reading pace is fine. |
 | 14 Behavioral Prep | 123–125 | Light | 1h30m | Reflection-heavy. Do not skip this — FAANG rejects strong coders on behavioral. |
 
-**The critical warning:** The jump from Phase 8 (Graphs) to Phase 9 (DP) is the steepest difficulty increase in the entire roadmap. If you arrive at Day 71 on schedule, you are doing well. If you arrive tired, add one rest day before Phase 9 — do not enter it exhausted.
+> [!WARNING]
+> **The critical warning:** The jump from Phase 8 (Graphs) to Phase 9 (DP) is the steepest difficulty increase in the entire roadmap. If you arrive at Day 71 on schedule, you are doing well. If you arrive tired, add one rest day before Phase 9 — do not enter it exhausted.
 
 ---
 
-*(Note: The "Detailed Concepts to Learn" column provides a highly concentrated conceptual breakdown. You can read it directly, or copy/paste it into an AI to request a deeper 30-minute interactive lesson before tackling the day's problems. Problems marked [PREMIUM] are behind LeetCode's paywall — free alternatives are listed in the Recommended Resources section or noted inline.)*
+> [!TIP]
+> *(Note: The "Detailed Concepts to Learn" column provides a highly concentrated conceptual breakdown. You can read it directly, or copy/paste it into an AI to request a deeper 30-minute interactive lesson before tackling the day's problems. Problems marked [PREMIUM] are behind LeetCode's paywall — free alternatives are listed in the Recommended Resources section or noted inline.)*
 
 ---
 
-## Phase 1: Arrays & Hashing (Days 1–8)
+## 🟢 Phase 1: Arrays & Hashing (Days 1–8)
 
 **Estimated daily time: 1h30m. Difficulty: Easy.**
 This is your warm-up phase. Build the Mistake Log habit here, not later. Every day that you skip the log is a day that future-you loses.
@@ -276,7 +285,7 @@ This is your warm-up phase. Build the Mistake Log habit here, not later. Every d
 
 ---
 
-## Phase 2: Two Pointers & Sliding Window (Days 9–16)
+## 🟢 Phase 2: Two Pointers & Sliding Window (Days 9–16)
 
 **Estimated daily time: 1h30m. Difficulty: Easy–Medium.**
 The sliding window pattern trips most people on Day 14–15. Pay close attention to the difference between "never need to shrink" (Day 14) and "must shrink" (Day 13).
@@ -294,7 +303,7 @@ The sliding window pattern trips most people on Day 14–15. Pay close attention
 
 ---
 
-## Phase 3: Stack & Binary Search (Days 17–24)
+## 🟡 Phase 3: Stack & Binary Search (Days 17–24)
 
 **Estimated daily time: 1h45m. Difficulty: Medium.**
 Monotonic stack is abstract on first contact. Spend extra time on Days 19–20. Draw the stack state for every element as you trace through examples.
@@ -312,7 +321,7 @@ Monotonic stack is abstract on first contact. Spend extra time on Days 19–20. 
 
 ---
 
-## Phase 4: Linked Lists (Days 25–32)
+## 🟡 Phase 4: Linked Lists (Days 25–32)
 
 **Estimated daily time: 1h45m. Difficulty: Medium.**
 Pointer management is mechanical. Draw every pointer state before writing a single line of code. This habit will save you from bugs that are otherwise invisible.
@@ -330,7 +339,7 @@ Pointer management is mechanical. Draw every pointer state before writing a sing
 
 ---
 
-## Phase 5: Trees & BST (Days 33–44)
+## 🟠 Phase 5: Trees & BST (Days 33–44)
 
 **Estimated daily time: 2h. Difficulty: Medium–Hard.**
 Twelve days for a reason. The recursive DFS patterns you build here are the exact mental model you'll reuse in Dynamic Programming. Do not rush Phase 5.
@@ -352,7 +361,7 @@ Twelve days for a reason. The recursive DFS patterns you build here are the exac
 
 ---
 
-## Phase 6: Heaps & Tries (Days 45–52)
+## 🟠 Phase 6: Heaps & Tries (Days 45–52)
 
 **Estimated daily time: 2h. Difficulty: Medium–Hard.**
 
@@ -369,7 +378,7 @@ Twelve days for a reason. The recursive DFS patterns you build here are the exac
 
 ---
 
-## Phase 7: Backtracking & Recursion (Days 53–60)
+## 🔴 Phase 7: Backtracking & Recursion (Days 53–60)
 
 **Estimated daily time: 2h15m. Difficulty: Hard.**
 Decision tree thinking is a new mental model for most people. Slow down here. Draw the recursion tree on paper before touching the keyboard on every single day of this phase.
@@ -387,7 +396,7 @@ Decision tree thinking is a new mental model for most people. Slow down here. Dr
 
 ---
 
-## Phase 8: Graphs (Days 61–70)
+## 🔴 Phase 8: Graphs (Days 61–70)
 
 **Estimated daily time: 2h15m. Difficulty: Hard.**
 Union-Find (Days 66–67) must be memorized perfectly — this is a script, not a concept you derive from scratch. Write it out from memory 5 times until you can produce it in under 3 minutes cold.
@@ -407,7 +416,7 @@ Union-Find (Days 66–67) must be memorized perfectly — this is a script, not 
 
 ---
 
-## Phase 9: Dynamic Programming (Days 71–83)
+## 💀 Phase 9: Dynamic Programming (Days 71–83)
 
 **Estimated daily time: 2h45m. Difficulty: Very Hard.**
 This is the hardest phase. Most candidates who abandon this roadmap do so here. The correct response to struggling is not to slow down — it is to draw the decision tree and trust the process. Every DP problem is recursion + caching. Start there, always.
@@ -430,7 +439,7 @@ This is the hardest phase. Most candidates who abandon this roadmap do so here. 
 
 ---
 
-## Phase 10: Advanced Graphs & Hard Problems (Days 84–89)
+## 🔴 Phase 10: Advanced Graphs & Hard Problems (Days 84–89)
 
 **Estimated daily time: 2h. Difficulty: Hard.**
 Expanded from 3 to 6 days. Days 84–86 are from the original roadmap. Days 87–89 add Floyd-Warshall, Bipartite Detection, and Tarjan's SCC — three algorithms that appear at FAANG and are directly relevant to infrastructure dependency problems.
@@ -446,7 +455,7 @@ Expanded from 3 to 6 days. Days 84–86 are from the original roadmap. Days 87�
 
 ---
 
-## Phase 11: Golang for Cloud Infrastructure (Days 90–101)
+## 🔵 Phase 11: Golang for Cloud Infrastructure (Days 90–101)
 
 *Golang is the language of the Cloud (Docker, Kubernetes, Terraform). In these 12 days, you will map your programming logic to Go's highly opinionated, concurrent-first architecture — and in the final 2 days (Days 100–101), bridge it directly back to DSA by re-solving canonical problems in Go.*
 
@@ -469,7 +478,7 @@ Expanded from 3 to 6 days. Days 84–86 are from the original roadmap. Days 87�
 
 ---
 
-## Phase 12: FAANG Interview Endgame (Days 102–112)
+## ⏳ Phase 12: FAANG Interview Endgame (Days 102–112)
 
 *No new learning. Pure execution. Simulating the brutal pressure of a FAANG interview. Expanded from 5 to 11 days — 4 days of solo topic mocks, 4 days of mixed and pressure mocks, 2 days of pair mocks, and 1 final reset day.*
 
@@ -489,7 +498,7 @@ Expanded from 3 to 6 days. Days 84–86 are from the original roadmap. Days 87�
 
 ---
 
-## Phase 13: System Design (Days 113–122)
+## 🏗️ Phase 13: System Design (Days 113–122)
 
 *For cloud infrastructure roles, the system design round often weighs as much as — or more than — the coding round. These 10 days are structured around AWS-native architectures. Your Cloud-Morph and s3-backup-tool projects are direct real-world evidence of these patterns. Reference them in every design conversation.*
 
@@ -511,7 +520,7 @@ Expanded from 3 to 6 days. Days 84–86 are from the original roadmap. Days 87�
 
 ---
 
-## Phase 14: Behavioral Prep (Days 123–125)
+## 🤝 Phase 14: Behavioral Prep (Days 123–125)
 
 *FAANG rejects strong coders on the behavioral round routinely. Three days is the minimum. Amazon specifically uses behavioral questions to evaluate culture fit against 14 named Leadership Principles — this is not casual conversation, it is a structured rubric. Prepare accordingly.*
 
