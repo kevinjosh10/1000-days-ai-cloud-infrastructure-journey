@@ -25,11 +25,11 @@ My long-term mission is to become an **AI Cloud Infrastructure Engineer**. This 
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 107 / 1000** | 🔥 Transitioned into the Elite FAANG Engineering Roadmap |
-| **Milestone** | **Phase 1: DSA Started** | Commenced the 125-Day DSA, Golang, and System Design Mastery plan |
+| **Current Day** | **Day 107 / 1000** | 🔥 Continuing AWS Architecture (Auto Scaling & High Availability) |
+| **Milestone** | **Week 15 / AWS Adv.**| Mastering EC2 Auto Scaling Groups & Load Balancing |
 | **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
-| **Current Phase** | **FAANG DSA & System Design** | Building algorithm mastery (Arrays, Hashing, Two Pointers) |
+| **Current Phase** | **AWS Cloud Architecture** | Building highly available, self-healing cloud infrastructure |
 
 ---
 
@@ -147,7 +147,7 @@ jobs:
 
 - [x] **Phase 1-5:** Cloud Foundations (Linux, Networking, Python, CI/CD, AWS)
 - [ ] **Phase 6:** Elite FAANG Roadmap ➡️ [125-Day DSA, Golang, & System Design](roadmap/125-day-faang-roadmap.md)
-  - *Currently executing Phase 1 (Arrays & Hashing) of the elite roadmap.*
+  - *Staged as the next major phase of the journey.*
 - [ ] **Phase 7:** Containerization (Docker) & Kubernetes
 - [ ] **Phase 8:** Infrastructure as Code (Terraform)
 - [ ] **Phase 9:** AI Model Deployment Infrastructure & GPU Compute Environments
