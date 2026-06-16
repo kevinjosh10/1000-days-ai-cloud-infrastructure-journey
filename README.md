@@ -11,13 +11,26 @@
 
 ---
 
+## 📑 Table of Contents
+- [📌 The Mission](#-the-mission)
+- [📈 The Journey in Numbers](#-the-journey-in-numbers)
+- [🧠 Core Engineering Stack](#-core-engineering-stack)
+- [🏗️ Real-World Infrastructure Projects](#-real-world-infrastructure-projects)
+- [📂 Repository Architecture](#-repository-architecture)
+- [🧪 Professional Engineering Practices](#-professional-engineering-practices)
+- [🛣️ The Roadmap Ahead](#️-the-roadmap-ahead)
+- [💭 Philosophy / Mindset](#-philosophy--mindset)
+
+---
+
 ## 📌 The Mission
 
-Welcome to my central engineering hub. 
-
-I started this repository because I noticed a massive gap in the tech industry: many engineers know how to *build* AI models, but far fewer know how to **deploy, scale, and manage** the robust infrastructure required to run them in production. 
-
-My long-term mission is to become an **AI Cloud Infrastructure Engineer**. This repository is not just a collection of simple tutorials; it is a meticulously documented, 1000-day journey of mastering Cloud Computing, Distributed Systems, Networking, and Infrastructure Automation from the absolute ground up.
+> [!NOTE]
+> **Welcome to my central engineering hub.**
+>
+> I started this repository because I noticed a massive gap in the tech industry: many engineers know how to *build* AI models, but far fewer know how to **deploy, scale, and manage** the robust infrastructure required to run them in production. 
+> 
+> My long-term mission is to become an **AI Cloud Infrastructure Engineer**. This repository is not just a collection of simple tutorials; it is a meticulously documented, 1000-day journey of mastering Cloud Computing, Distributed Systems, Networking, and Infrastructure Automation from the absolute ground up.
 
 ---
 
@@ -156,14 +169,17 @@ jobs:
 
 ## 💭 Philosophy / Mindset
 
-**Consistency over Motivation.**  
-Motivation is fleeting, but discipline builds empires. I show up and log my progress every single day, whether I feel like it or not. 
+> [!IMPORTANT]
+> **Consistency over Motivation**  
+> Motivation is fleeting, but discipline builds empires. I show up and log my progress every single day, whether I feel like it or not. 
 
-**Building over Consuming.**  
-Tutorial hell is a trap. The only way to truly understand a system is to break it, debug the logs, and build it from scratch.
+> [!WARNING]
+> **Building over Consuming**  
+> Tutorial hell is a trap. The only way to truly understand a system is to break it, debug the logs, and build it from scratch.
 
-**Systems Thinking.**  
-I don't just memorize isolated terminal commands; I strive to understand how the entire ecosystem—from the Linux kernel processes, through the CI/CD pipeline, to the cloud load balancer—interacts seamlessly.
+> [!TIP]
+> **Systems Thinking**  
+> I don't just memorize isolated terminal commands; I strive to understand how the entire ecosystem—from the Linux kernel processes, through the CI/CD pipeline, to the cloud load balancer—interacts seamlessly.
 
 ---
 
