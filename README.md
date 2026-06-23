@@ -38,11 +38,11 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 114 / 1000** | 🔥 Continuing AWS Architecture (Serverless & Event-Driven) |
-| **Milestone** | **Week 15 / AWS Adv.**| Designing Serverless APIs with Amazon API Gateway |
+| **Current Day** | **Day 114 / 1000** | 🔥 Advanced Observability & Intelligent Operations |
+| **Milestone** | **Week 16 / AWS Ops.**| CloudWatch Agent, Container Insights & Anomaly Detection |
 | **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
-| **Current Phase** | **AWS Cloud Architecture** | Building serverless, event-driven cloud workflows |
+| **Current Phase** | **AWS Observability** | Advanced Monitoring, Metric Math & Anomaly Detection |
 
 ---
 
