@@ -75,6 +75,10 @@ I am building a foundational stack designed for large-scale operations, avoiding
 
 I believe in learning by doing. Instead of watching lectures, I build systems. Here are highlights from the 15 major projects engineered during this journey:
 
+### 🚀 Featured Platforms & MLOps
+1. **[CloudTrain](https://github.com/kevinjosh10/CloudTrain):** A production-grade serverless MLOps platform that automates machine learning training, model governance, and real-time inference using AWS Lambda, S3, API Gateway, Firebase, and Python.
+2. **[GitWrapped](https://github.com/kevinjosh10/GitWrapped):** Turn any GitHub profile into a beautiful developer story with analytics, achievements, GitHub Wrapped reports, battles, and visual insights.
+
 ### 🌩️ Cloud Architecture & CI/CD (Weeks 9-11)
 1. **⚙️ Python CI/CD Automation Pipeline:** Engineered a professional GitHub Actions pipeline to automatically lint code (`flake8`) and run unit tests (`pytest`) on every push/PR, simulating production DevOps workflows.
 2. **🏗️ Production 3-Tier AWS Architecture:** Designed and deployed a complete cloud system featuring a Web Tier (Nginx), App Tier (Flask), and Database Tier (SQLite) using `boto3` automation and strict Security Group isolation.
