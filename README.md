@@ -7,7 +7,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-114_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-118_Days-fire?style=for-the-badge)
 
 ---
 
@@ -38,11 +38,11 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 114 / 1000** | 🔥 Advanced Observability & Intelligent Operations |
-| **Milestone** | **Week 16 / AWS Ops.**| CloudWatch Agent, Container Insights & Anomaly Detection |
+| **Current Day** | **Day 118 / 1000** | 🔥 AWS Cost Optimization & FinOps |
+| **Milestone** | **Week 17 / AWS FinOps**| AWS Cost Explorer, Budgets, Compute Optimizer & S3 Tiering |
 | **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
-| **Current Phase** | **AWS Observability** | Advanced Monitoring, Metric Math & Anomaly Detection |
+| **Current Phase** | **AWS Cost Optimization** | Right-Sizing, Spot Instances, Storage Lens & Infracost |
 
 ---
 
@@ -102,12 +102,12 @@ This repository acts as my second brain, carefully organized to track progress a
 
 ```text
 📦 ai-cloud-infrastructure-journey
- ┣ 📂 daily-logs/      # 114 days of unbroken execution logs (concepts, commands, bugs)
+ ┣ 📂 daily-logs/      # 118 days of unbroken execution logs (concepts, commands, bugs)
  ┃ ┗ 📂 2026/
  ┃   ┣ 📂 march-2026/    # Days 1-31
  ┃   ┣ 📂 april-2026/    # Days 32-60
  ┃   ┣ 📂 may-2026/      # Days 61-91
- ┃   ┗ 📂 june-2026/     # Days 92-114
+ ┃   ┗ 📂 june-2026/     # Days 92-118
  ┣ 📂 projects/        # 15 real-world implementations, CI/CD pipelines & AWS labs
  ┣ 📂 python-codes/    # 20 days of Python automation code (APIs, OOP, boto3)
  ┣ 📂 notes/           # Deep-dive documentation and concept breakdowns
