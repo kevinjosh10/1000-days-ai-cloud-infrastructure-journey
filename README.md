@@ -7,7 +7,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-118_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-119_Days-fire?style=for-the-badge)
 
 ---
 
@@ -38,11 +38,11 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 118 / 1000** | 🔥 AWS Cost Optimization & FinOps |
-| **Milestone** | **Week 17 / AWS FinOps**| AWS Cost Explorer, Budgets, Compute Optimizer & S3 Tiering |
+| **Current Day** | **Day 119 / 1000** | 🔥 AWS SAA Exam Prep III: Monitoring, Storage & Cost Optimization |
+| **Milestone** | **Week 17 / AWS Monitoring & Storage**| CloudWatch, CloudTrail, Config, EFS, FSx, Storage Gateway & Cost Optimization |
 | **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
-| **Current Phase** | **AWS Cost Optimization** | Right-Sizing, Spot Instances, Storage Lens & Infracost |
+| **Current Phase** | **AWS Observability & FinOps** | CloudWatch, AWS Config, Hybrid Storage, Compute Optimizer & Infracost |
 
 ---
 
@@ -107,7 +107,7 @@ This repository acts as my second brain, carefully organized to track progress a
  ┃   ┣ 📂 march-2026/    # Days 1-31
  ┃   ┣ 📂 april-2026/    # Days 32-60
  ┃   ┣ 📂 may-2026/      # Days 61-91
- ┃   ┗ 📂 june-2026/     # Days 92-118
+ ┃   ┗ 📂 june-2026/     # Days 92-119
  ┣ 📂 projects/        # 15 real-world implementations, CI/CD pipelines & AWS labs
  ┣ 📂 python-codes/    # 20 days of Python automation code (APIs, OOP, boto3)
  ┣ 📂 notes/           # Deep-dive documentation and concept breakdowns
