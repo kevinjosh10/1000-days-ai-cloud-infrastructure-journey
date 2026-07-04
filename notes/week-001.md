@@ -82,7 +82,7 @@ Security best practices:
 - Apply **least privilege access**
 
 ---
-
+  
 ### VPC (Virtual Private Cloud)
 
 A VPC is a **private network inside AWS**.
