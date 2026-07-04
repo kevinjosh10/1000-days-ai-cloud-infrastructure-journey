@@ -8,7 +8,7 @@
 ## 🎯 Objective
 
 Practice basic Python programming by writing simple scripts using variables, data types, user input, and formatted output.
-
+     
 ---
 
 ## 🧾 hello.py
