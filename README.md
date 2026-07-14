@@ -39,7 +39,7 @@
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
 | **Current Day** | **Day 135 / 1000** | 🔥 Phase 2 Orientation: Infrastructure as Code (Terraform) |
-| **Milestone** | **Week 20 / Phase 2: IaC**| SAA-C03 Retake Prep, Terraform Installation, HCL Fundamentals |
+| **Milestone** | **Week 20 / Phase 2: IaC**| AWS SAA-C03 Prep, Terraform Installation, HCL Fundamentals |
 | **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
 | **Current Phase** | **Infrastructure as Code (Terraform)** | Terraform Providers, State, HCL Syntax, AWS VPC Project Planning |
