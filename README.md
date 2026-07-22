@@ -7,7 +7,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-135_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-143_Days-fire?style=for-the-badge)
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 135 / 1000** | 🔥 Phase 2 Orientation: Infrastructure as Code (Terraform) |
-| **Milestone** | **Week 20 / Phase 2: IaC**| AWS SAA-C03 Prep, Terraform Installation, HCL Fundamentals |
+| **Current Day** | **Day 143 / 1000** | 🔥 Phase 2: Infrastructure as Code (Terraform State & HCL) |
+| **Milestone** | **Week 21 / Phase 2: IaC**| Terraform Fundamentals, Dynamic Data, State Management |
 | **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
 | **Current Phase** | **Infrastructure as Code (Terraform)** | Terraform Providers, State, HCL Syntax, AWS VPC Project Planning |
@@ -108,7 +108,8 @@ This repository acts as my second brain, carefully organized to track progress a
  ┃   ┣ 📂 april-2026/    # Days 32-60
  ┃   ┣ 📂 may-2026/      # Days 61-91
  ┃   ┣ 📂 june-2026/     # Days 92-121
- ┃   ┗ 📂 july-2026/     # Days 122-135
+ ┃   ┗ 📂 july-2026/     # Days 122-143
+ ┣ 📂 cloud-infrastructure/ # Phase 2 repositories (terraform, docker, kubernetes, ci-cd, monitoring)
  ┣ 📂 projects/        # 15 real-world implementations, CI/CD pipelines & AWS labs
  ┣ 📂 python-codes/    # 20 days of Python automation code (APIs, OOP, boto3)
  ┣ 📂 notes/           # Deep-dive documentation and concept breakdowns
