@@ -104,12 +104,12 @@ This repository acts as my second brain, carefully organized to track progress a
 📦 ai-cloud-infrastructure-journey
  ┣ 📂 daily-logs/      # 153 days of unbroken execution logs (concepts, commands, bugs)
  ┃ ┗ 📂 2026/
- ┃   ┣ 📂 march-2026/    # Days 1-31
- ┃   ┣ 📂 april-2026/    # Days 32-60
- ┃   ┣ 📂 may-2026/      # Days 61-91
- ┃   ┣ 📂 june-2026/     # Days 92-121
- ┃   ┣ 📂 july-2026/     # Days 122-152
- ┃   ┗ 📂 august-2026/   # Days 153-183
+ ┃   ┣ 📂 1] march-2026/    # Days 1-31
+ ┃   ┣ 📂 2] april-2026/    # Days 32-60
+ ┃   ┣ 📂 3] may-2026/      # Days 61-91
+ ┃   ┣ 📂 4] june-2026/     # Days 92-121
+ ┃   ┣ 📂 5] july-2026/     # Days 122-152
+ ┃   ┗ 📂 6] august-2026/   # Days 153-183
  ┣ 📂 cloud-infrastructure/ # Phase 2 repositories (terraform, docker, kubernetes, ci-cd, monitoring)
  ┣ 📂 projects/        # 15 real-world implementations, CI/CD pipelines & AWS labs
  ┣ 📂 python-codes/    # 20 days of Python automation code (APIs, OOP, boto3)
