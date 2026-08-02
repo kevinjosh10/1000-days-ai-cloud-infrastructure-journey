@@ -1,0 +1,37 @@
+name: "Terraform CI"
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'projects/terraform/aws-3tier-architecture/**'
+  pull_request:
+    paths:
+      - 'projects/terraform/aws-3tier-architecture/**'
+
+jobs:
+  terraform:
+    name: "Terraform Format and Validate"
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: projects/terraform/aws-3tier-architecture/environments/prod
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: "1.5.0"
+
+      - name: Terraform Init
+        run: terraform init -backend=false
+
+      - name: Terraform Format
+        run: terraform fmt -check -recursive ../../
+
+      - name: Terraform Validate
+        run: terraform validate
