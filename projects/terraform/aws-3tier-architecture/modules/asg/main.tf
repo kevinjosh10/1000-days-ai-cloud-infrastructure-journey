@@ -8,7 +8,7 @@ resource "aws_security_group" "app_sg" {
     protocol        = "tcp"
     security_groups = [var.alb_security_group_id]
   }
-  
+
   egress {
     from_port   = 0
     to_port     = 0
@@ -21,11 +21,11 @@ resource "aws_launch_template" "this" {
   name_prefix   = "web-lt"
   image_id      = "ami-0c55b159cbfafe1f0" # Amazon Linux 2 (us-east-1)
   instance_type = "t3.micro"
-  
+
   network_interfaces {
     security_groups = [aws_security_group.app_sg.id]
   }
-  
+
   user_data = base64encode(<<-EOF
               #!/bin/bash
               yum update -y
