@@ -36,3 +36,12 @@ public class Mainclass {
         System.out.println("SQUARE AREA:" + sq.area());
     } 
 }
+
+/*
+SUMMARY:
+This Java program demonstrates the concept of Packages and multiple classes within a single file.
+- It declares a package named `Mainpack`, which is a mechanism to encapsulate a group of classes, sub-packages, and interfaces.
+- It defines three distinct classes: `Rectangle`, `Square`, and `Mainclass`. 
+- Only `Mainclass` is declared as `public` (as per Java rules, a file can only have one public class and the filename must match it).
+- The program instantiates objects for `Rectangle` and `Square` and calls their respective methods to calculate and print the area, demonstrating simple object interaction.
+*/

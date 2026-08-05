@@ -34,3 +34,12 @@ int main() // Main function
     
     return 0; // Terminate program successfully
 }
+
+/*
+SUMMARY:
+This program aims to demonstrate Operator Overloading for strings.
+- In this specific implementation, it overloads the unary `+` operator to perform a concatenation action using `strcat` from the C-string library.
+- The `AddString` class stores two C-style character arrays (`s1` and `s2`).
+- When the `+` operator is applied to the object (`+a1`), the overloaded function merges `s2` into `s1` and outputs the result.
+- While functionally performing string concatenation, syntactically the code uses unary operator overloading to trigger the action.
+*/

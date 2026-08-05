@@ -56,3 +56,13 @@ int main() // Main function
     
     return 0; // Terminate program successfully
 }
+
+/*
+SUMMARY:
+This program demonstrates Unary Operator Overloading in C++.
+- Operator overloading allows developers to redefine the way operators work for user-defined data types (classes).
+- The unary `+` and `-` operators (which typically operate on a single operand) are overloaded inside the `Overload` class.
+- When `-M1` is called, the overloaded `operator -()` function is executed, negating the internal state of the object.
+- When `+M2` is called, the overloaded `operator +()` function is executed.
+- The code proves that standard operators can be customized to perform specific operations on class members seamlessly.
+*/

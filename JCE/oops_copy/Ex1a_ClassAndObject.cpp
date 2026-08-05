@@ -34,3 +34,12 @@ int main() { // The main function where execution begins
     cout << endl; // Print an extra newline character for formatting
     return 0; // Return 0 to indicate successful program termination
 }
+
+/*
+SUMMARY:
+This program demonstrates the fundamental concepts of Object-Oriented Programming (OOP) in C++: Classes and Objects.
+- It defines a `Student` class that encapsulates the data (age, Name, Rollno) and the methods that operate on that data.
+- It uses a parameterized constructor to initialize the member variables when an object is created.
+- In the `main` function, a single `Student` object named `s` is instantiated with specific values.
+- The `displayDetails` method is then called on the object to print its internal state to the console.
+*/

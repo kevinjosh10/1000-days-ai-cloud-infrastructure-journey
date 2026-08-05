@@ -60,3 +60,12 @@ int main(){ // Main function
     
     return 0; // Terminate program successfully
 }
+
+/*
+SUMMARY:
+This program demonstrates the use of static data members and static member functions in C++.
+- A static variable `count` is shared across all instances of the `Student` class. It acts as a global tracker for the class rather than being tied to a specific object.
+- The `count` increments every time a new object is created (inside the constructor) and decrements when destroyed (inside the destructor).
+- The static method `getCount()` allows access to the static variable without needing to instantiate an object, utilizing the scope resolution operator `Student::getCount()`.
+- It dynamically assigns a unique object ID (`id`) based on the current count at the time of creation.
+*/

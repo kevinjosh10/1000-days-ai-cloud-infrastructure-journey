@@ -69,3 +69,12 @@ public class Main {
         vb.country(); // Calls Volleyball's implementation of country()
     }
 }
+
+/*
+SUMMARY:
+This Java program demonstrates Abstraction and Interfaces.
+- An interface `Playable` is defined as a blueprint. It contains two abstract method signatures (`play()` and `country()`) without any method body.
+- Three distinct classes (`Basketball`, `Football`, `Volleyball`) implement the `Playable` interface.
+- According to Java rules, each implementing class *must* provide a concrete implementation (via `@Override`) for all abstract methods declared in the interface.
+- In the `main` method, objects of the specific classes are instantiated but are referenced using the interface type (`Playable bb = new Basketball()`), showcasing runtime polymorphism and loose coupling.
+*/

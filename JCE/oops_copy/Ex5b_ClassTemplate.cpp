@@ -29,3 +29,12 @@ int main() // Main function
     
     return 0; // Terminate program successfully
 }
+
+/*
+SUMMARY:
+This program continues the demonstration of Templates, specifically focusing on type flexibility.
+- It defines a template function `myMax` that accepts three parameters of a generic type `T`.
+- It uses the ternary operator `? :` to efficiently compute the maximum value among the three inputs.
+- In the `main` function, `myMax` is invoked multiple times, explicitly defining the type parameter within angle brackets (`<int>`, `<float>`, `<char>`, `<string>`).
+- This showcases how generic functions can safely and consistently compare different primitives and object types (like std::string) using the same underlying logic.
+*/

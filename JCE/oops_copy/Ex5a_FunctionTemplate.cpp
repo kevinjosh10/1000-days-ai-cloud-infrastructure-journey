@@ -56,3 +56,12 @@ int main() // Main function
     
     return 0; // Terminate program successfully
 }
+
+/*
+SUMMARY:
+This program demonstrates the use of Function Templates in C++.
+- Templates are the foundation of generic programming, allowing functions to operate with generic types.
+- The `swap_numbers` function is defined with a template parameter `<class T>`, meaning `T` can be substituted with `int`, `double`, or `string` at compile time.
+- This allows a single function definition to handle the swapping logic for multiple data types, heavily reducing code duplication.
+- The program also provides a second template `swap_char` to explicitly demonstrate generic swapping using user input.
+*/

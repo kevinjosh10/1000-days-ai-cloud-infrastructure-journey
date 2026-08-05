@@ -31,3 +31,12 @@ public class Calculator { // Define a public class named Calculator
         scanner.close();
     }
 }
+
+/*
+SUMMARY:
+This Java program acts as a basic mathematical calculator.
+- It utilizes the `java.util.Scanner` class to accept user input from the console.
+- Two double-precision floating-point numbers are requested from the user.
+- The program sequentially performs standard arithmetic operations: addition (+), subtraction (-), multiplication (*), division (/), and modulus/remainder (%).
+- Finally, it outputs the results of all five calculations. It demonstrates basic Java I/O and arithmetic operators.
+*/

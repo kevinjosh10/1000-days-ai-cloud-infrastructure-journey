@@ -60,3 +60,12 @@ int main() // Main function
     
     return 0; // Terminate program successfully
 }
+
+/*
+SUMMARY:
+This program illustrates Exception Handling in C++ using try, catch, and throw blocks.
+- Exception handling is used to handle runtime errors gracefully without crashing the program.
+- The first part demonstrates throwing a `std::runtime_error` if a division by zero is attempted. The exception is caught by a `catch` block that prints a safe error message.
+- The second part demonstrates array bounds checking. It artificially forces an out-of-bounds array access and intentionally throws a `std::out_of_range` exception.
+- This teaches robust programming practices by predicting points of failure and capturing errors securely.
+*/

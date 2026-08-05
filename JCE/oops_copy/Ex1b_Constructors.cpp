@@ -60,3 +60,13 @@ int main() { // Main function where execution starts
     
     return 0; // Terminate program successfully
 }
+
+/*
+SUMMARY:
+This program illustrates the different types of constructors and a destructor in C++.
+- A Default Constructor `Student()` initializes the object with default values (0 and 0.0f).
+- A Parameterized Constructor `Student(int r, float p)` initializes the object with values provided during instantiation.
+- A Copy Constructor `Student(Student &c)` creates a new object by copying the data from an existing object.
+- A Destructor `~Student()` is defined to show when an object goes out of scope and is destroyed.
+- In `main`, it creates three distinct objects showcasing each constructor type and calls a method to display their data.
+*/

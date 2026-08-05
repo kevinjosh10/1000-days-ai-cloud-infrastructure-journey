@@ -40,3 +40,11 @@ public class Rectangle { // Define a public class named Rectangle
         r.displayDimensions();
     }
 }
+
+/*
+SUMMARY:
+This Java program demonstrates the usage of the `this` keyword and method overriding.
+- The `this` keyword is a reference to the current object. It is used in the constructor to distinguish between class instance variables and parameters with the same names (`this.length = length`).
+- The `getCurrentInstance()` method returns `this`, effectively returning a reference to the object that called the method.
+- It overrides the standard `toString()` method inherited from the base `Object` class. By doing so, when the object is printed, it outputs a readable string of its dimensions rather than a memory address hash.
+*/

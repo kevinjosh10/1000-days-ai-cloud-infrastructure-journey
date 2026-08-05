@@ -174,3 +174,13 @@ public class SalaryProgram {
         sc.close(); // Close Scanner to prevent leaks
     }
 }
+
+/*
+SUMMARY:
+This Java program is a comprehensive demonstration of Inheritance, Polymorphism, and the `super` keyword.
+- It defines a base superclass `Employee` containing shared attributes (id, name, salary components) and methods for calculating and displaying salary details.
+- It defines three subclasses (`Programmer`, `AssistantProfessor`, `Professor`) that extend `Employee`.
+- Each subclass inherits the common attributes but also introduces its own unique attributes (like `hike`, `researchAllowance`, `publicationBonus`).
+- The `super()` keyword is utilized in the subclass constructors to invoke the parent class constructor for initializing shared fields.
+- Polymorphism is demonstrated by overriding the `calculateBenefits()` method in each subclass to provide a role-specific calculation for basic salary.
+*/

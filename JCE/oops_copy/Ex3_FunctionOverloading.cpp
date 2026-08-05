@@ -74,3 +74,12 @@ int main() // Main function
     
     return 0; // Terminate program successfully
 }
+
+/*
+SUMMARY:
+This program demonstrates Function Overloading in C++, which is a feature of compile-time polymorphism.
+- Function overloading allows multiple functions to have the same name (`print`) as long as their parameter lists (number or type of parameters) are different.
+- The `Area` class contains three `print` methods: one taking a single integer (for a square), one taking two integers (for a rectangle), and one taking an integer and a float (for a circle).
+- The compiler automatically determines which `print` function to invoke based on the arguments passed to it.
+- A switch-case menu system is used to allow the user to select which shape's area they want to calculate at runtime.
+*/
