@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-class area
+
+class Area
 {
 public:
     int side;
@@ -8,46 +9,58 @@ public:
     int breadth;
     float pi;
     int radius;
-    void squareprint()
+
+    Area()
     {
-        cout<<"ENTER THE SIDES OF SQUARE:"<<side<<endl;
+        pi = 3.14;
     }
-    void rectangleprint()
+
+    int print(int side)
     {
-        cout<<"ENTER THE LENGTH AND BREADTH:"<<length<<breadth<<endl;
+        return side * side;
     }
-    void circleprint()
+
+    int print(int length, int breadth)
     {
-        cout<<"ENTER THE RADIUS:"<<radius<<endl;
-        cout<<"ENTER THE PI VALUE:"<<pi<<endl;
+        return length * breadth;
+    }
+
+    float print(int radius, float pi)
+    {
+        return pi * radius * radius;
     }
 };
+
 int main()
 {
     int choice;
-    float pi=3.14,r,a; 
-    a=pi*r*2; 
-    
-    area a_obj;
-    cout<<"1.SQUARE"<<endl;
-    cout<<"2.RECTANGLE"<<endl;
-    cout<<"3.CIRCLE"<<endl;
-    cout<<"ENTER YOUR CHOICE(1-3):"<<endl;
-    cin>>choice;
-    switch(choice)
+    Area a;
+    cout << "1. Square" << endl;
+    cout << "2. Rectangle" << endl;
+    cout << "3. Circle" << endl;
+    cout << "Enter Your choice (1-3): ";
+    cin >> choice;
+
+    switch (choice)
     {
         case 1:
-            cout<<"AREA OF SQUARE :"; 
+            cout << "Enter the side of Square: ";
+            cin >> a.side;
+            cout << "Area of Square: " << a.print(a.side) << endl;
             break;
         case 2:
-            cout<<"AREA OF RECTANGLE :";
+            cout << "Enter the length and Breadth: ";
+            cin >> a.length >> a.breadth;
+            cout << "Area of Rectangle: " << a.print(a.length, a.breadth) << endl;
             break;
         case 3:
-            cout<<"AREA OF CIRCLE:";
+            cout << "Enter the Radius: ";
+            cin >> a.radius;
+            cout << "Area of Circle: " << a.print(a.radius, a.pi) << endl;
             break;
         default:
-            cout<<"INVALID CHOICE"<<endl;
-            return 0;
+            cout << "Invalid choice" << endl;
     }
+    
     return 0;
 }
