@@ -1,46 +1,58 @@
-#include<iostream>
-using namespace std;
-class Overload
+#include<iostream> // Include the standard input/output stream library
+using namespace std; // Use the standard namespace
+
+class Overload // Define a class named 'Overload'
 {
-private:
-    int a;
-    int b;
-    int c;
-    int d;
-public:
-    Overload(int f,int i)
+private: // Private access specifier
+    int a; // Integer variable a
+    int b; // Integer variable b
+    int c; // Integer variable c
+    int d; // Integer variable d
+public: // Public access specifier
+    // Parameterized constructor to initialize 'a' and 'b'
+    Overload(int f, int i)
     {
-        a = f;
-        b = i;
+        a = f; // Assign parameter 'f' to 'a'
+        b = i; // Assign parameter 'i' to 'b'
     }
+    
+    // Method to display the values of 'a' and 'b'
     void display()
     {
-        cout <<"A:"<<a<<" B:"<<b<<endl;
+        cout << "A:" << a << " B:" << b << endl; // Print values
     }
+    
+    // Overload the unary '+' operator
     Overload operator +()
     {
-        a = +a;
-        b = +b;
-        c = a + b;
-        cout << "\nC: " <<c;
-        return Overload(a,b); 
+        a = +a; // Apply unary plus to 'a' (doesn't really change the value)
+        b = +b; // Apply unary plus to 'b'
+        c = a + b; // Calculate the sum and store in 'c'
+        cout << "\nC: " << c; // Print the sum 'c'
+        return Overload(a, b); // Return a new Overload object with the updated values
     }
+    
+    // Overload the unary '-' operator
     Overload operator -()
     {
-        a = -a; 
-        b = -b;
-        d = a - b;
-        cout<<"\nD:"<<d;
-        return Overload(a,b);
+        a = -a; // Apply unary minus to 'a' (negate it)
+        b = -b; // Apply unary minus to 'b' (negate it)
+        d = a - b; // Calculate the difference and store in 'd'
+        cout << "\nD:" << d; // Print the difference 'd'
+        return Overload(a, b); // Return a new Overload object with the updated values
     }
 };
 
-int main()
+int main() // Main function
 {
-    Overload M1(5, 4) , M2(-2, -8) ; 
-    -M1;
-    M1.display();
-    +M2;
-    M2.display();
-    return 0;
+    // Create two Overload objects with initial values
+    Overload M1(5, 4), M2(-2, -8); 
+    
+    -M1; // Apply overloaded unary minus operator on M1
+    M1.display(); // Display the updated values of M1
+    
+    +M2; // Apply overloaded unary plus operator on M2
+    M2.display(); // Display the updated values of M2
+    
+    return 0; // Terminate program successfully
 }
