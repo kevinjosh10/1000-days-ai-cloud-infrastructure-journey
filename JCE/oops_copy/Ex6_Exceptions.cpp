@@ -62,6 +62,19 @@ int main() // Main function
 }
 
 /*
+CODE FLOW:
+1. Execution begins in `main()`. 
+2. The code enters a `try` block and calls the `Division(12.5, 0)` function.
+3. Inside `Division`, the `if (den == 0)` condition is true, so a `runtime_error` exception is thrown using the `throw` keyword.
+4. The normal flow is immediately interrupted (the quotient is never printed), and control jumps to the `catch (runtime_error &e)` block.
+5. The catch block prints the exception message using `e.what()`.
+6. The program continues to the next section and initializes an array of size 5.
+7. It enters an infinite `while (true)` loop enclosed in a `try` block.
+8. The loop iterates 5 times, successfully printing the array values for indexes 0 through 4.
+9. On the 6th iteration (index = 5), the `if (index < Maxsize)` condition fails, triggering the `else` block.
+10. An `out_of_range` exception is thrown. Control immediately jumps to the corresponding `catch (const std::out_of_range &e)` block, printing the error.
+11. The program gracefully exits.
+
 SUMMARY:
 This program illustrates Exception Handling in C++ using try, catch, and throw blocks.
 - Exception handling is used to handle runtime errors gracefully without crashing the program.

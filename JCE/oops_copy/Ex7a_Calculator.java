@@ -33,6 +33,16 @@ public class Calculator { // Define a public class named Calculator
 }
 
 /*
+CODE FLOW:
+1. Execution starts in the `main` method of the `Calculator` class.
+2. A `Scanner` object is instantiated to read input from the console (`System.in`).
+3. The user is prompted to enter the first number. The program halts and waits for input via `scanner.nextDouble()`, storing it in `num1`.
+4. The user is prompted to enter the second number, which is stored in `num2`.
+5. The program sequentially calculates the sum, difference, product, quotient, and remainder by evaluating arithmetic expressions using `num1` and `num2`.
+6. Each calculated result is immediately assigned to its respective double variable.
+7. The `System.out.println` statements are executed to output the calculated results in a formatted manner to the console.
+8. The `Scanner` object is closed to free up system resources, and the program terminates.
+
 SUMMARY:
 This Java program acts as a basic mathematical calculator.
 - It utilizes the `java.util.Scanner` class to accept user input from the console.

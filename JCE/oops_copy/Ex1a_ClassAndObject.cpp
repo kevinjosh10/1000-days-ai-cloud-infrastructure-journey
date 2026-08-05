@@ -36,6 +36,15 @@ int main() { // The main function where execution begins
 }
 
 /*
+CODE FLOW:
+1. The program execution begins in the `main()` function.
+2. A `Student` object named `s` is instantiated, passing "JOHN", 18, and 20 as arguments.
+3. The parameterized constructor of the `Student` class is invoked automatically.
+4. Inside the constructor, the member variables (`Name`, `age`, `Rollno`) are initialized with the provided values.
+5. The `s.displayDetails()` method is explicitly called from `main()`.
+6. Control transfers to the `displayDetails()` method, which prints the student's Name, age, and Rollno to the console.
+7. Control returns to `main()`, which then returns 0, terminating the program.
+
 SUMMARY:
 This program demonstrates the fundamental concepts of Object-Oriented Programming (OOP) in C++: Classes and Objects.
 - It defines a `Student` class that encapsulates the data (age, Name, Rollno) and the methods that operate on that data.

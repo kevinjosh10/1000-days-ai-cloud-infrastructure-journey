@@ -31,6 +31,15 @@ int main() // Main function
 }
 
 /*
+CODE FLOW:
+1. Execution begins in `main()`.
+2. The `myMax<int>(3, 7, 2)` template function is explicitly called for the `int` type. 
+3. Inside the function, the ternary operator `(x > y) ? x : y` finds the max between 3 and 7 (which is 7). Then `(max_xy > z) ? max_xy : z` compares 7 and 2, returning 7. The result is printed.
+4. The `myMax<float>(3.0, 7.0, 4.0)` function is called for the `float` type. The same logic executes with floats, returning 7.0, which is printed.
+5. The `myMax<char>('R', 'V', 'A')` function is called for the `char` type. It evaluates ASCII values, finding 'V' as the maximum, which is printed.
+6. The `myMax<string>("R", "A", "V")` function is called for `std::string`. It evaluates alphabetical order, finding "V" as the maximum, which is printed.
+7. The program terminates successfully.
+
 SUMMARY:
 This program continues the demonstration of Templates, specifically focusing on type flexibility.
 - It defines a template function `myMax` that accepts three parameters of a generic type `T`.

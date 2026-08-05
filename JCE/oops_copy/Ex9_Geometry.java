@@ -38,6 +38,16 @@ public class Mainclass {
 }
 
 /*
+CODE FLOW:
+1. Execution starts in the `main` method of the `Mainclass` public class.
+2. A `Rectangle` object `rec` is instantiated. The default member variables (`width = 10`, `length = 20`) are allocated in memory.
+3. The `rec.area()` method is called within a `System.out.println` statement.
+4. Execution transfers to `Rectangle.area()`, which calculates `10 * 20 = 200` and returns it to `main`, where it is printed.
+5. Next, a `Square` object `sq` is instantiated. Its default member variable (`side = 5`) is allocated in memory.
+6. The `sq.area()` method is called within another `System.out.println` statement.
+7. Execution transfers to `Square.area()`, which calculates `5 * 5 = 25` and returns it to `main`, where it is printed.
+8. The `main` method completes and the program terminates.
+
 SUMMARY:
 This Java program demonstrates the concept of Packages and multiple classes within a single file.
 - It declares a package named `Mainpack`, which is a mechanism to encapsulate a group of classes, sub-packages, and interfaces.

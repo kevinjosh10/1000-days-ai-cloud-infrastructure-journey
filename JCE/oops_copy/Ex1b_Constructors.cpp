@@ -62,6 +62,16 @@ int main() { // Main function where execution starts
 }
 
 /*
+CODE FLOW:
+1. Execution starts in the `main()` function.
+2. `Student s2;` is declared. The default constructor is called automatically, setting `s2`'s `rollno` to 0 and `percentage` to 0.0.
+3. `s2.display()` is called, printing 0 and 0.
+4. `Student s3(101, 85.5);` is declared. The parameterized constructor is called, setting `s3`'s `rollno` to 101 and `percentage` to 85.5.
+5. `s3.display()` is called, printing 101 and 85.5.
+6. `Student s4 = s3;` is declared. The copy constructor is called, copying the values from `s3` into `s4`.
+7. `s4.display()` is called, printing 101 and 85.5.
+8. The `main()` function finishes. As the objects (`s4`, `s3`, `s2`) go out of scope, their destructors are called automatically in reverse order of creation.
+
 SUMMARY:
 This program illustrates the different types of constructors and a destructor in C++.
 - A Default Constructor `Student()` initializes the object with default values (0 and 0.0f).

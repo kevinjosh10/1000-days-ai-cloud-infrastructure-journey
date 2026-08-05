@@ -58,6 +58,18 @@ int main() // Main function
 }
 
 /*
+CODE FLOW:
+1. Execution begins in `main()`. Two integers (`a=10`, `b=20`) are declared.
+2. The `swap_numbers(a, b)` function is called. The compiler deduces `T` as `int` and generates an integer version of the template function, which swaps the values.
+3. The swapped integer values are printed.
+4. Two doubles (`c=10.5`, `d=20.5`) are declared. `swap_numbers(c, d)` is called. The compiler deduces `T` as `double` and swaps them.
+5. The swapped double values are printed.
+6. Two strings (`e="APPLE"`, `f="BALL"`) are declared. `swap_numbers(e, f)` is called. The compiler deduces `T` as `std::string` and swaps them.
+7. The swapped string values are printed.
+8. The program then asks the user to input two characters.
+9. `swap_char(ch1, ch2)` is called. The compiler deduces `T` as `char` and swaps them.
+10. The swapped characters are printed, and the program ends.
+
 SUMMARY:
 This program demonstrates the use of Function Templates in C++.
 - Templates are the foundation of generic programming, allowing functions to operate with generic types.

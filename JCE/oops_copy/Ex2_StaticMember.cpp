@@ -62,6 +62,15 @@ int main(){ // Main function
 }
 
 /*
+CODE FLOW:
+1. Before `main()` executes, the static variable `count` is initialized to 0 in memory.
+2. Execution starts in `main()`.
+3. Three `Student` objects (`obj1`, `obj2`, `obj3`) are instantiated using the default constructor.
+4. For each instantiation, the default constructor increments the static `count` by 1 and assigns that updated `count` to the object's unique `id`.
+5. The static method `Student::getCount()` is called directly using the class name, returning the final `count` (which is 3), and it is printed to the console.
+6. The `display()` method is called sequentially for `obj1`, `obj2`, and `obj3`, printing their respective IDs.
+7. As the program terminates, the objects go out of scope and their destructors are called, decrementing the static `count` back down.
+
 SUMMARY:
 This program demonstrates the use of static data members and static member functions in C++.
 - A static variable `count` is shared across all instances of the `Student` class. It acts as a global tracker for the class rather than being tied to a specific object.

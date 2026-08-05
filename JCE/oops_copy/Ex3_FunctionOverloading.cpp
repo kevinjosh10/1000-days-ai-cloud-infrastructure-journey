@@ -76,6 +76,15 @@ int main() // Main function
 }
 
 /*
+CODE FLOW:
+1. Execution begins in `main()`. An `Area` object `a` is instantiated, and its default constructor initializes `pi` to 3.14.
+2. A text menu is displayed to the user via `cout`, prompting them to choose a shape (Square, Rectangle, Circle).
+3. The user inputs their `choice`, which is evaluated in a `switch` statement.
+4. If choice is 1: The program asks for a side length, reads it into `a.side`, and calls `a.print(a.side)`. The compiler matches this to the `print(int)` method.
+5. If choice is 2: The program asks for length and breadth, reads them, and calls `a.print(a.length, a.breadth)`. The compiler matches this to the `print(int, int)` method.
+6. If choice is 3: The program asks for a radius, reads it, and calls `a.print(a.radius, a.pi)`. The compiler matches this to the `print(int, float)` method.
+7. The appropriate calculated area is returned and printed, and the program terminates.
+
 SUMMARY:
 This program demonstrates Function Overloading in C++, which is a feature of compile-time polymorphism.
 - Function overloading allows multiple functions to have the same name (`print`) as long as their parameter lists (number or type of parameters) are different.

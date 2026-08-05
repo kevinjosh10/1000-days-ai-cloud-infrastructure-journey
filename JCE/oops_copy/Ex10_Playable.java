@@ -71,6 +71,17 @@ public class Main {
 }
 
 /*
+CODE FLOW:
+1. Execution starts in the `main` method of the `Main` class.
+2. A `Basketball` object is created but assigned to a reference variable of type `Playable` named `bb`.
+3. The `bb.play()` method is called. Since `bb` references a `Basketball` object at runtime, the overridden `play()` method inside the `Basketball` class is executed, printing its specific string.
+4. The `bb.country()` method is called, executing the overridden `country()` method inside the `Basketball` class.
+5. Next, a `Football` object is created and assigned to the `Playable` reference `fb`. 
+6. `fb.play()` and `fb.country()` are called, routing execution to the overridden methods inside the `Football` class due to dynamic method dispatch.
+7. Finally, a `Volleyball` object is created and assigned to the `Playable` reference `vb`.
+8. `vb.play()` and `vb.country()` are called, executing the methods inside the `Volleyball` class.
+9. The program terminates successfully.
+
 SUMMARY:
 This Java program demonstrates Abstraction and Interfaces.
 - An interface `Playable` is defined as a blueprint. It contains two abstract method signatures (`play()` and `country()`) without any method body.

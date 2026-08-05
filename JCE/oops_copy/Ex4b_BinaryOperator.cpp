@@ -36,6 +36,15 @@ int main() // Main function
 }
 
 /*
+CODE FLOW:
+1. Execution starts in `main()`. Two character arrays, `str1` ("GOOD") and `str2` (" MORNING"), are created.
+2. An `AddString` object `a1` is instantiated, passing the two character arrays as arguments to its constructor.
+3. The constructor uses `strcpy` to copy the contents of `str1` and `str2` into the object's internal character arrays `s1` and `s2`.
+4. The statement `+a1;` is executed. This triggers the overloaded unary `operator +()` function for the `a1` object.
+5. Inside the overloaded function, the C-string function `strcat(s1, s2)` is called. This appends the contents of `s2` to the end of `s1`.
+6. The concatenated result ("GOOD MORNING") is printed directly to the console.
+7. The program terminates successfully.
+
 SUMMARY:
 This program aims to demonstrate Operator Overloading for strings.
 - In this specific implementation, it overloads the unary `+` operator to perform a concatenation action using `strcat` from the C-string library.

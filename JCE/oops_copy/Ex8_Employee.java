@@ -176,6 +176,17 @@ public class SalaryProgram {
 }
 
 /*
+CODE FLOW:
+1. Execution begins in the `main` method of `SalaryProgram`.
+2. A `Scanner` is used to capture various inputs from the user: name, ID, profession, and base salary components (Gross, HRA, Medical, etc.).
+3. The program evaluates the `profession` string using an `if-else if` chain.
+4. If "Programmer" is entered, the program prompts for the `hike` value. It then creates a `Programmer` object `p`, which triggers its constructor. The constructor uses `super()` to pass the base details up to the `Employee` constructor.
+5. The `p.call()` method is executed. 
+6. Inside `call()`, the inherited `getDetails()` method is invoked to print the base employee information. 
+7. Then, the inherited `display()` method is invoked. Inside `display()`, it calls `calculateBenefits()`. Due to polymorphism, the overridden `calculateBenefits()` inside the `Programmer` class is executed, returning the `hike` amount.
+8. The final basic salary is calculated and printed.
+9. This exact flow replicates identically if "AssistantProfessor" or "Professor" is chosen, just using their respective subclasses and overridden benefit calculations.
+
 SUMMARY:
 This Java program is a comprehensive demonstration of Inheritance, Polymorphism, and the `super` keyword.
 - It defines a base superclass `Employee` containing shared attributes (id, name, salary components) and methods for calculating and displaying salary details.
