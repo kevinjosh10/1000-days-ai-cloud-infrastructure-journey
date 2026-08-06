@@ -7,7 +7,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-150_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-158_Days-fire?style=for-the-badge)
 
 ---
 
@@ -38,11 +38,11 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 154 / 1000** | 🔥 Phase 2: IaC (Enterprise Standards) |
-| **Milestone** | **Week 22 / Phase 2: IaC**| Terraform Modules, Remote State Composition, DRY VPCs |
+| **Current Day** | **Day 158 / 1000** | 🔥 Phase 2: IaC (Advanced Patterns & Governance) |
+| **Milestone** | **Week 23 / Phase 2: IaC**| Terragrunt, Terratest, Policy as Code (OPA/Sentinel) |
 | **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
-| **Current Phase** | **Infrastructure as Code (Terraform)** | Terraform Providers, State, HCL Syntax, AWS VPC Project Planning |
+| **Current Phase** | **Infrastructure as Code (Terraform)** | Advanced Data Sources, DRY Orchestration, Infrastructure Testing |
 
 ---
 
@@ -82,8 +82,9 @@ I believe in learning by doing. Instead of watching lectures, I build systems. H
 4. **[Cloud-Morph](https://github.com/kevinjosh10/Cloud-Morph):** A serverless, event-driven file processing platform built on AWS that transforms PDFs, CSVs, and text files into meaningful insights using automated cloud workflows. Hosted via GitHub Pages with a fully scalable backend powered by Lambda and S3.
 5. **[AWS Static Website Platform](https://github.com/kevinjosh10/aws-static-website-platform):** Production-grade static website hosting on AWS using S3, CloudFront, ACM, boto3 automation, lifecycle policies, and GitHub Actions CI/CD.
 
-### 🏗️ Infrastructure as Code (Weeks 21-22)
+### 🏗️ Infrastructure as Code (Weeks 21-23)
 1. **[Enterprise Modular AWS Architecture](projects/terraform/aws-3tier-architecture/):** A production-grade, fully modular 3-tier AWS architecture orchestrated entirely in Terraform. Features independent state-driven modules for VPC, RDS (Multi-AZ), ALB, and ASG, enforcing zero-trust Security Groups, dynamic AMI lookups, automated `terraform-docs`, strict Semantic Versioning (`CHANGELOG.md`), and GitHub Actions CI pipelines (`terraform validate` & `fmt`).
+2. **Advanced IaC Orchestration & Governance:** Scaled the architecture using **Terragrunt** for DRY backends and dependency mapping, integrated **Terratest** (Golang) for automated end-to-end infrastructure testing, and enforced security standards using **Open Policy Agent (OPA)** and **HashiCorp Sentinel** directly within the CI/CD pipeline.
 
 ### 🌩️ Cloud Architecture & CI/CD (Weeks 9-11)
 1. **⚙️ Python CI/CD Automation Pipeline:** Engineered a professional GitHub Actions pipeline to automatically lint code (`flake8`) and run unit tests (`pytest`) on every push/PR, simulating production DevOps workflows.
