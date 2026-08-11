@@ -7,7 +7,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-158_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-163_Days-fire?style=for-the-badge)
 
 ---
 
@@ -38,11 +38,11 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 158 / 1000** | 🔥 Phase 2: IaC (Advanced Patterns & Governance) |
-| **Milestone** | **Week 23 / Phase 2: IaC**| Terragrunt, Terratest, Policy as Code (OPA/Sentinel) |
+| **Current Day** | **Day 163 / 1000** | 🔥 Phase 7: Containerization (Docker) |
+| **Milestone** | **Week 24 / Phase 7: Docker**| Docker Architecture, Images, Containers, Port Mapping |
 | **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
 | **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
-| **Current Phase** | **Infrastructure as Code (Terraform)** | Advanced Data Sources, DRY Orchestration, Infrastructure Testing |
+| **Current Phase** | **Containerization (Docker)** | Core Concepts, CLI, Dockerfiles, Port Mapping, Images vs Containers |
 
 ---
 
@@ -175,8 +175,8 @@ jobs:
 - [x] **Phase 1-5:** Cloud Foundations (Linux, Networking, Python, CI/CD, AWS)
 - [ ] **Phase 6:** Elite FAANG Roadmap ➡️ [125-Day DSA, Golang, & System Design](roadmap/125-day-faang-roadmap.md)
   - *Staged as the next major phase of the journey.*
-- [ ] **Phase 7:** Containerization (Docker) & Kubernetes
-- [ ] **Phase 8:** Infrastructure as Code (Terraform)
+- [ ] **Phase 7:** Containerization (Docker) & Kubernetes (Current)
+- [x] **Phase 8:** Infrastructure as Code (Terraform)
 - [ ] **Phase 9:** AI Model Deployment Infrastructure & GPU Compute Environments
 
 ---
