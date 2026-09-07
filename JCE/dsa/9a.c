@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Function to perform bubble sort on an array
 void bubbleSort(int list1[], int n) {
     int i, j, temp;
     for (i = 0; i < n - 1; i++) {
@@ -9,12 +8,6 @@ void bubbleSort(int list1[], int n) {
                 temp = list1[j];
                 list1[j] = list1[j + 1];
                 list1[j + 1] = temp;
-                
-                printf("The intermediate list is: ");
-                for (int k = 0; k < n; k++) {
-                    printf("%d ", list1[k]);
-                }
-                printf("\n");
             }
         }
     }

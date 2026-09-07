@@ -43,12 +43,10 @@ struct Node* delete(struct Node* root, int data) {
     } else if (data > root->data) {
         root->right = delete(root->right, data);
     } else {
-        // Case 1: No child
         if (root->left == NULL && root->right == NULL) {
             free(root);
             root = NULL;
         }
-        // Case 2: One child
         else if (root->left == NULL) {
             struct Node* temp = root;
             root = root->right;
@@ -58,7 +56,6 @@ struct Node* delete(struct Node* root, int data) {
             root = root->left;
             free(temp);
         }
-        // Case 3: Two children
         else {
             struct Node* temp = findMin(root->right);
             root->data = temp->data;
