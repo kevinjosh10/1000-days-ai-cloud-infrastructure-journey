@@ -1,13 +1,16 @@
 # 🚀 AI Cloud Infrastructure Journey
 
-> **Engineering the highly scalable, distributed systems that power modern AI.**
+> **Engineering the highly scalable, distributed systems and cloud-native platforms that power modern AI.**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-Package_Manager-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-163_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-195_Days-fire?style=for-the-badge)
 
 ---
 
@@ -20,6 +23,7 @@
 - [🧪 Professional Engineering Practices](#-professional-engineering-practices)
 - [🛣️ The Roadmap Ahead](#️-the-roadmap-ahead)
 - [💭 Philosophy / Mindset](#-philosophy--mindset)
+- [🤝 Connect With Me](#-connect-with-me)
 
 ---
 
@@ -28,9 +32,9 @@
 > [!NOTE]
 > **Welcome to my central engineering hub.**
 >
-> I started this repository because I noticed a massive gap in the tech industry: many engineers know how to *build* AI models, but far fewer know how to **deploy, scale, and manage** the robust infrastructure required to run them in production. 
+> I started this repository because I noticed a massive gap in the tech industry: many engineers know how to *build* AI models, but far fewer know how to **deploy, scale, secure, and manage** the robust infrastructure required to run them in production. 
 > 
-> My long-term mission is to become an **AI Cloud Infrastructure Engineer**. This repository is not just a collection of simple tutorials; it is a meticulously documented, 1000-day journey of mastering Cloud Computing, Distributed Systems, Networking, and Infrastructure Automation from the absolute ground up.
+> My long-term mission is to become an **AI Cloud Infrastructure Engineer**. This repository is not just a collection of simple tutorials; it is a meticulously documented, 1000-day journey of mastering Cloud Computing, Distributed Systems, Container Orchestration, Networking, and Infrastructure Automation from the absolute ground up.
 
 ---
 
@@ -38,146 +42,112 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 163 / 1000** | 🔥 Phase 7: Containerization (Docker) |
-| **Milestone** | **Week 24 / Phase 7: Docker**| Docker Architecture, Images, Containers, Port Mapping |
-| **Projects Built** | **15 Infrastructure Systems** | From Linux bash automation to fully automated AWS CI/CD pipelines |
-| **Python Scripts** | **20 Automation Modules** | Focused on system health, APIs, config, and `boto3` automation |
-| **Current Phase** | **Containerization (Docker)** | Core Concepts, CLI, Dockerfiles, Port Mapping, Images vs Containers |
+| **Current Day** | **Day 195 / 1000** | 🔥 Phase 7: Kubernetes & Cloud-Native Orchestration |
+| **Milestone** | **Week 28 / Kubernetes III** | Advanced Networking, Ingress, StorageClasses, & Helm Package Management |
+| **Projects & Labs** | **22+ Systems Built** | From Terraform IaC & AWS 3-Tier setups to multi-replica Kubernetes microservices |
+| **Automation Modules**| **25+ Automation Scripts** | AWS `boto3` audits, containerized CronJobs, Linux monitoring watchdogs |
+| **Current Focus** | **Helm & Production K8s** | Custom Chart Authoring, Go Templating, Ingress L7 Routing, Zero-Trust NetworkPolicies |
 
 ---
 
 ## 🧠 Core Engineering Stack
 
-I am building a foundational stack designed for large-scale operations, avoiding GUI clicks in favor of pure code and automation.
+I am building a foundational stack designed for large-scale operations, avoiding manual GUI clicks in favor of pure code, declarative state, and automation.
+
+### ☸️ Kubernetes & Cloud-Native Containerization
+- **Core Architecture:** Control Plane (`kube-apiserver`, `etcd`, `kube-scheduler`, `kube-controller-manager`), Worker Nodes (`kubelet`, `containerd` CRI, `kube-proxy`).
+- **Workloads & Controllers:** Pods, Deployments (Zero-Downtime RollingUpdates, anti-affinity), StatefulSets (`volumeClaimTemplates`), DaemonSets, Jobs & CronJobs.
+- **Configuration & Security:** Decoupled ConfigMaps (hot-reloading volume mounts), Kubernetes Secrets, External Secrets Operator (AWS Secrets Manager integration), Least-Privilege NetworkPolicies (Calico/Cilium CNI).
+- **Storage Engineering:** PersistentVolumes (PV), PersistentVolumeClaims (PVC), EBS CSI `gp3` StorageClasses (`WaitForFirstConsumer`), CSI VolumeSnapshots & point-in-time recovery.
+- **Networking & Ingress:** ClusterIP, NodePort, Cloud LoadBalancers (AWS ELB/ALB), NGINX Ingress Controller (L7 host/path routing, SSL termination, cert-manager).
+- **Package Management & Scaling:** Helm 3 chart authoring, Go templating (`_helpers.tpl`, `nindent`), Horizontal Pod Autoscaler (HPA), KEDA (Event-Driven ML autoscaling).
+
+### 🏗️ Infrastructure as Code (IaC)
+- **Terraform & Terragrunt:** Modular multi-environment architectures (VPC, RDS Multi-AZ, ALB, ASG), remote state locking (S3/DynamoDB), DRY Terragrunt configurations.
+- **Testing & Governance:** Automated end-to-end infrastructure testing with Terratest (Golang), policy enforcement via Open Policy Agent (OPA) and HashiCorp Sentinel.
 
 ### ☁️ AWS & Cloud Architecture
-- **Compute & Storage:** EC2 (AMIs, families, sizing), EBS volumes, persistent block storage, Snapshots.
-- **Security:** Layered Security Groups, SSH Key Pairs, IMDSv2 Metadata Security.
-- **Orchestration:** `boto3` infrastructure provisioning, bootstrapping with EC2 User Data, Multi-tier architecture.
+- **Compute & Networking:** EC2 (AMIs, instance sizing), VPC (Public/Private subnets, NAT Gateways, Route Tables), Elastic Load Balancing (ALB/NLB).
+- **Storage & Security:** S3 (lifecycle policies, cross-region replication), EBS (`gp3`), KMS encryption at rest, IMDSv2 metadata protection, Security Groups.
+- **Orchestration & Serverless:** AWS EKS, Lambda, API Gateway, CloudWatch logs, Amazon ECR container registries, `boto3` Python automation.
 
 ### 🔄 CI/CD & DevOps
-- **Pipeline Automation:** GitHub Actions workflows (`.yml`), YAML syntax, continuous integration.
-- **Code Quality:** Automated linting (`flake8`), automated testing (`pytest`).
-- **Version Control:** Advanced Git operations, branching strategies, and repository management.
+- **Pipeline Automation:** GitHub Actions workflows (`.yml`), automated linting (`hadolint`, `flake8`, `tflint`), automated unit testing (`pytest`).
+- **Security Scanning:** Container vulnerability scanning with Trivy (failing on CRITICAL/HIGH CVEs), Docker Content Trust (DCT).
 
-### 🐧 Linux & Networking
-- **Systems Admin:** `systemd`, `cron`, resource monitoring (`top`, `htop`), log rotation.
-- **Security:** UFW/Firewall rules, secure user permissions, reverse proxy design (Nginx).
-- **Networking:** TCP/IP, DNS (`dig`), Subnetting, NAT routing, custom AWS VPC design.
-
-### 🐍 Python Automation
-- **Software Engineering:** Object-Oriented Programming (OOP), modular design, `argparse` CLI tools.
-- **Resilience:** Comprehensive Error Handling (`try/except`), file logging, decoupling via YAML/JSON.
+### 🐧 Linux & Systems Engineering
+- **Systems Administration:** `systemd`, `cron`, process management, memory allocation, cgroups, namespace isolation, resource monitoring (`top`, `htop`, `kubectl top`).
+- **Networking Foundations:** TCP/IP model, DNS resolution (`dig`, CoreDNS), iptables/IPVS routing, virtual ethernet (`veth`) pairs, overlay networks (VXLAN, BGP).
 
 ---
 
 ## 🏗️ Real-World Infrastructure Projects
 
-I believe in learning by doing. Instead of watching lectures, I build systems. Here are highlights from the 15 major projects engineered during this journey:
+I believe in learning by doing. Here are highlights from major platforms and projects engineered during this journey:
 
 ### 🚀 Featured Platforms & MLOps
 1. **[CloudTrain](https://github.com/kevinjosh10/CloudTrain):** A production-grade serverless MLOps platform that automates machine learning training, model governance, and real-time inference using AWS Lambda, S3, API Gateway, Firebase, and Python.
-2. **[GitWrapped](https://github.com/kevinjosh10/GitWrapped):** Turn any GitHub profile into a beautiful developer story with analytics, achievements, GitHub Wrapped reports, battles, and visual insights.
+2. **[GitWrapped](https://github.com/kevinjosh10/GitWrapped):** Turn any GitHub profile into a developer story with analytics, achievements, GitHub Wrapped reports, battles, and visual insights.
 3. **[S3 Backup Tool](https://github.com/kevinjosh10/s3-backup-tool):** Automated S3 backup tool with incremental sync (MD5 vs ETag), lifecycle management, and secure encrypted storage using Python and AWS.
-4. **[Cloud-Morph](https://github.com/kevinjosh10/Cloud-Morph):** A serverless, event-driven file processing platform built on AWS that transforms PDFs, CSVs, and text files into meaningful insights using automated cloud workflows. Hosted via GitHub Pages with a fully scalable backend powered by Lambda and S3.
+4. **[Cloud-Morph](https://github.com/kevinjosh10/Cloud-Morph):** A serverless, event-driven file processing platform built on AWS that transforms PDFs, CSVs, and text files into meaningful insights using automated cloud workflows.
 5. **[AWS Static Website Platform](https://github.com/kevinjosh10/aws-static-website-platform):** Production-grade static website hosting on AWS using S3, CloudFront, ACM, boto3 automation, lifecycle policies, and GitHub Actions CI/CD.
 
-### 🏗️ Infrastructure as Code (Weeks 21-23)
-1. **[Enterprise Modular AWS Architecture](projects/terraform/aws-3tier-architecture/):** A production-grade, fully modular 3-tier AWS architecture orchestrated entirely in Terraform. Features independent state-driven modules for VPC, RDS (Multi-AZ), ALB, and ASG, enforcing zero-trust Security Groups, dynamic AMI lookups, automated `terraform-docs`, strict Semantic Versioning (`CHANGELOG.md`), and GitHub Actions CI pipelines (`terraform validate` & `fmt`).
-2. **Advanced IaC Orchestration & Governance:** Scaled the architecture using **Terragrunt** for DRY backends and dependency mapping, integrated **Terratest** (Golang) for automated end-to-end infrastructure testing, and enforced security standards using **Open Policy Agent (OPA)** and **HashiCorp Sentinel** directly within the CI/CD pipeline.
-
-### 🌩️ Cloud Architecture & CI/CD (Weeks 9-11)
-1. **⚙️ Python CI/CD Automation Pipeline:** Engineered a professional GitHub Actions pipeline to automatically lint code (`flake8`) and run unit tests (`pytest`) on every push/PR, simulating production DevOps workflows.
-2. **🏗️ Production 3-Tier AWS Architecture:** Designed and deployed a complete cloud system featuring a Web Tier (Nginx), App Tier (Flask), and Database Tier (SQLite) using `boto3` automation and strict Security Group isolation.
-3. **🔐 EC2 Advanced Security & Metadata Lab:** Hardened cloud instances using custom AMIs, IMDSv2 token-based metadata authentication, and automated python application bootstrapping via User Data scripts.
-
-### 🕸️ Networking & Automation (Weeks 1-8)
-4. **☁️ Cloud Multi-Tool CLI:** A production-grade CLI built in Python utilizing `boto3` and `argparse` to fetch GitHub repositories via REST API, list S3 buckets, and dynamically generate multi-region EC2 reports.
-5. **🛡️ Infrastructure Health Monitor:** A custom Python utility script designed to actively monitor CPU, memory, disk usage, and system logs, acting as an automated watchdog.
-6. **🌐 Cloud VPC Design & Implementation:** Architected a secure cloud network from scratch, defining public/private subnets, Internet Gateways, Route Tables, and granular Security Groups.
-7. **🔍 Local-to-Cloud Network Simulator:** Traced packet flows from local clients to cloud servers, debugged NAT routing, and extensively tested DNS resolution paths.
-8. **🐧 Linux Server Automation:** Deployed NGINX on an AWS EC2 instance, configuring robust SSH access and automating background health-check tasks using `cron` and `systemd`.
+### 🏗️ Infrastructure as Code & Orchestration
+1. **[Enterprise Modular AWS Architecture](projects/terraform/aws-3tier-architecture/):** A production-grade, fully modular 3-tier AWS architecture orchestrated in Terraform. Features independent state-driven modules for VPC, RDS (Multi-AZ), ALB, and ASG, enforcing zero-trust Security Groups and automated CI checks.
+2. **Advanced IaC Orchestration & Governance:** Scaled architecture using **Terragrunt** for DRY backends, integrated **Terratest** (Golang) for automated end-to-end testing, and enforced compliance with OPA/Sentinel.
+3. **Kubernetes 3-Tier Production Stack:** Deployed complete microservice stacks on Kubernetes with NGINX Ingress Layer 7 routing, Flask APIs, PostgreSQL StatefulSets with persistent EBS CSI `gp3` volumes, automated HPA autoscaling, and custom Helm charts.
 
 ---
 
 ## 📂 Repository Architecture
 
-This repository acts as my second brain, carefully organized to track progress and scale as a knowledge base:
+This repository acts as my second brain, carefully organized to track progress and scale as an engineering knowledge base:
 
 ```text
-📦 ai-cloud-infrastructure-journey
- ┣ 📂 daily-logs/      # 154 days of unbroken execution logs (concepts, commands, bugs)
+📦 1000-days-ai-cloud-infrastructure-journey
+ ┣ 📂 daily-logs/      # 195 days of unbroken execution logs (concepts, code, debugging)
  ┃ ┗ 📂 2026/
- ┃   ┣ 📂 1] march-2026/    # Days 1-31
- ┃   ┣ 📂 2] april-2026/    # Days 32-60
- ┃   ┣ 📂 3] may-2026/      # Days 61-91
- ┃   ┣ 📂 4] june-2026/     # Days 92-121
- ┃   ┣ 📂 5] july-2026/     # Days 122-152
- ┃   ┗ 📂 6] august-2026/   # Days 153-183
- ┣ 📂 cloud-infrastructure/ # Phase 2 repositories (terraform, docker, kubernetes, ci-cd, monitoring)
- ┣ 📂 projects/        # 15 real-world implementations, CI/CD pipelines & AWS labs
- ┣ 📂 python-codes/    # 20 days of Python automation code (APIs, OOP, boto3)
- ┣ 📂 notes/           # Deep-dive documentation and concept breakdowns
- ┣ 📂 roadmap/         # Strategic 125-Day FAANG & Cloud Engineering Roadmap
- ┗ 📜 README.md        # You are here
+ ┃   ┣ 📂 1] march-2026/    # Days 1-31: Linux & Networking Foundations
+ ┃   ┣ 📂 2] april-2026/    # Days 32-60: Python Automation & boto3
+ ┃   ┣ 📂 3] may-2026/      # Days 61-91: AWS Architecture & Security Labs
+ ┃   ┣ 📂 4] june-2026/     # Days 92-121: CI/CD & Advanced Cloud Projects
+ ┃   ┣ 📂 5] july-2026/     # Days 122-152: Infrastructure as Code (Terraform)
+ ┃   ┣ 📂 6] august-2026/   # Days 153-183: Docker Mastery & Kubernetes Architecture
+ ┃   ┗ 📂 7] september-2026/# Days 184-213+: K8s Workloads, Storage, Ingress & Helm
+ ┣ 📂 notes/           # High-density technical summaries organized by week (Weeks 1-27+)
+ ┣ 📂 roadmap/         # Weekly roadmaps and 125-Day FAANG & Cloud Engineering Roadmap
+ ┣ 📂 recap/           # Weekly milestones and architectural paradigm shifts
+ ┣ 📂 resources/       # Official documentation links, books, and essential tooling
+ ┣ 📂 projects/        # Real-world implementations, IaC modules, CI/CD pipelines & AWS labs
+ ┣ 📂 python-codes/    # Python automation scripts (APIs, OOP, boto3, Cloud Watchdogs)
+ ┗ 📜 README.md        # Central engineering hub & repository overview
 ```
 
 ---
 
 ## 🧪 Professional Engineering Practices
 
-A core focus of this journey is writing code and building infrastructure that survives in production environments. I strictly adhere to:
+A core focus of this journey is building systems that thrive in production environments:
 
-- **Config-Driven Development:** Decoupling hardcoded values from logic using YAML and environment variables.
-- **Continuous Integration:** Validating all commits automatically through GitHub Action pipelines.
-- **Immutable Infrastructure:** Pre-baking infrastructure requirements into custom AMIs rather than configuring servers manually.
-- **Testing & Mocking:** Validating infrastructure logic using `pytest` and `unittest.mock` to simulate AWS services.
-- **Clean Architecture:** Utilizing Object-Oriented Programming (OOP) to ensure system components remain modular and extensible.
-
----
-
-## 📊 Sample Work (Automated CI Pipeline)
-
-**Extract from `.github/workflows/ci.yml` (Day 69 Project):**
-
-```yaml
-name: CI Pipeline
-
-on:
-  push:
-  pull_request:
-
-jobs:
-  lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
-      - run: pip install flake8
-      - run: flake8 .
-
-  test:
-    needs: lint
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
-      - run: pip install pytest
-      - run: pytest
-```
+- **Declarative Infrastructure & GitOps:** Managing state via version-controlled manifests (Terraform, Kubernetes YAML, Helm Charts) rather than manual imperative tweaks.
+- **Zero-Trust Security:** Enforcing default-deny NetworkPolicies in Kubernetes, least-privilege IAM roles, KMS volume encryption, and secret synchronization via External Secrets Operator.
+- **Resilience & Zero-Downtime:** Designing rolling update strategies with strict probe health checks (`liveness`, `readiness`, `startup`) and pod anti-affinity across availability zones.
+- **Automated Validation:** Continuous integration pipelines with automated linting (`tflint`, `helm lint`, `flake8`), image vulnerability scanning (Trivy), and automated unit tests (`pytest`, `Terratest`).
 
 ---
 
 ## 🛣️ The Roadmap Ahead
 
-- [x] **Phase 1-5:** Cloud Foundations (Linux, Networking, Python, CI/CD, AWS)
-- [ ] **Phase 6:** Elite FAANG Roadmap ➡️ [125-Day DSA, Golang, & System Design](roadmap/125-day-faang-roadmap.md)
-  - *Staged as the next major phase of the journey.*
-- [ ] **Phase 7:** Containerization (Docker) & Kubernetes (Current)
-- [x] **Phase 8:** Infrastructure as Code (Terraform)
-- [ ] **Phase 9:** AI Model Deployment Infrastructure & GPU Compute Environments
+- [x] **Phase 1-5:** Cloud Foundations (Linux, Networking, Python, CI/CD, AWS Architecture)
+- [x] **Phase 6:** Infrastructure as Code (Terraform, Terragrunt, Terratest, OPA/Sentinel)
+- [x] **Phase 7:** Containerization (Docker Multi-Stage, ECR, Trivy, Production Patterns)
+- [ ] **Phase 8:** Kubernetes & Cloud-Native Architecture (In Progress — Weeks 26-29)
+  - [x] Control Plane & Worker Node Internals (Week 26)
+  - [x] Workloads, ConfigMaps, Secrets, Storage & Autoscaling (Week 27)
+  - [x] Advanced Networking, Ingress, StorageClasses & Helm (Week 28 - Current)
+  - [ ] Production AWS EKS, AWS Load Balancer Controller & GitOps (Week 29)
+- [ ] **Phase 9:** Observability & Production Operations (Prometheus, Grafana, OpenTelemetry, Istio)
+- [ ] **Phase 10:** AI Model Deployment Infrastructure, GPU Slicing, Triton & Distributed Training Clusters
 
 ---
 
@@ -185,21 +155,21 @@ jobs:
 
 > [!IMPORTANT]
 > **Consistency over Motivation**  
-> Motivation is fleeting, but discipline builds empires. I show up and log my progress every single day, whether I feel like it or not. 
+> Motivation is fleeting, but discipline builds systems. I show up and log my progress every single day, whether I feel like it or not.
 
 > [!WARNING]
 > **Building over Consuming**  
-> Tutorial hell is a trap. The only way to truly understand a system is to break it, debug the logs, and build it from scratch.
+> Tutorial hell is a trap. The only way to truly master cloud infrastructure is to break configurations, analyze kernel/system logs, and build resilient architectures from scratch.
 
 > [!TIP]
 > **Systems Thinking**  
-> I don't just memorize isolated terminal commands; I strive to understand how the entire ecosystem—from the Linux kernel processes, through the CI/CD pipeline, to the cloud load balancer—interacts seamlessly.
+> I don't just memorize isolated CLI commands; I strive to understand how the entire ecosystem—from Linux kernel cgroups and network namespaces to the cloud load balancer and distributed control plane—interacts seamlessly.
 
 ---
 
 ## 🤝 Connect With Me
 
-If you're building resilient infrastructure, recruiting for cloud engineering roles, or just want to talk distributed systems, let's connect:
+If you're building resilient infrastructure, recruiting for cloud / DevOps / MLOps engineering roles, or just want to talk distributed systems, let's connect:
 
 - **GitHub:** [@kevinjosh10](https://github.com/kevinjosh10)
 - **LinkedIn:** [Kevin Joshua](https://www.linkedin.com/in/kevin-josh10)
