@@ -49,8 +49,8 @@ All scripts authored during Week 29 follow defensive Bash standards (`set -euo p
 
 | Script / Module | Path | Day | Purpose & Features |
 |---|---|---|---|
-| **`fs_auditor.sh`** | [`fs-auditor/fs_auditor.sh`](../fs-auditor/fs_auditor.sh) | Day 203 | **Week 1 Capstone Security Suite:** Automated auditor scanning for world-writable files, SUID/SGID non-standard binaries, broken symlinks, and POSIX ACLs with timestamped reports and cron scheduling. |
-| **`fs-auditor README`** | [`fs-auditor/README.md`](../fs-auditor/README.md) | Day 203 | Comprehensive project documentation, audit check explanations, sample report streams, and compliance guides. |
+| **`fs_auditor.sh`** | [`projects/linux/fs-auditor/fs_auditor.sh`](../projects/linux/fs-auditor/fs_auditor.sh) | Day 203 | **Week 1 Capstone Security Suite:** Automated auditor scanning for world-writable files, SUID/SGID non-standard binaries, broken symlinks, and POSIX ACLs with timestamped reports and cron scheduling. |
+| **`fs-auditor README`** | [`projects/linux/fs-auditor/README.md`](../projects/linux/fs-auditor/README.md) | Day 203 | Comprehensive project documentation, audit check explanations, sample report streams, and compliance guides. |
 | **`setup_practice_env.sh`** | `~/linux-mastery/day-02/` | Day 198 | Automated nested directory and file scaffold builder using brace expansions, directory error traps, and audit logs. |
 | **`link_auditor.sh`** | `~/linux-mastery/day-03/` | Day 199 | Orphaned symbolic link detector (`find -xtype l`) and hard-link candidate collision reporter (`find -printf '%i %p'`). |
 | **`secure_dir_setup.sh`** | `~/linux-mastery/day-04/` | Day 200 | Principle of Least Privilege provisioning script demonstrating `700` private, `750` shared, `640` configs, and `1777` Sticky Bit dropboxes. |

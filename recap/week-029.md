@@ -36,7 +36,7 @@
 ### 6. Built the `fs-auditor` Security Suite Mini-Project (Day 203)
 - Consolidated Week 1 into an automated, non-destructive security auditing utility: **`fs_auditor.sh`**.
 - Implemented automated scans for world-writable files, SUID/SGID binaries (with non-standard path review), orphaned symlinks, and extended POSIX ACLs.
-- Structured automated daily compliance reporting via cron (`0 2 * * *`) and authored complete project documentation in [`fs-auditor/README.md`](../fs-auditor/README.md).
+- Structured automated daily compliance reporting via cron (`0 2 * * *`) and authored complete project documentation in [`projects/linux/fs-auditor/README.md`](../projects/linux/fs-auditor/README.md).
 
 ---
 

@@ -100,5 +100,5 @@ Build an enterprise-grade Linux systems and security foundation. Master the File
   - [x] Implement scan 4: Extended POSIX ACL discovery across `/home`, `/opt`, and `/var`.
   - [x] Generate live formatted stdout streams and timestamped persistent audit logs in `$HOME/reports/fs_audit_YYYY-MM-DD_HH-MM-SS.txt`.
   - [x] Automate continuous compliance via daily cron scheduling: `0 2 * * * /path/to/fs_auditor.sh`.
-  - [x] Author comprehensive project documentation in `fs-auditor/README.md`.
+  - [x] Author comprehensive project documentation in `projects/linux/fs-auditor/README.md`.
   - [x] Commit and publish the complete auditing suite to GitHub.

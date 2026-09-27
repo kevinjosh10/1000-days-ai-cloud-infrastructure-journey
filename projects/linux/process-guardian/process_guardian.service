@@ -1,0 +1,14 @@
+[Unit]
+Description=Process Guardian - Automated Process Supervision Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/process_guardian.sh /etc/process-guardian/processes_to_guard.cfg
+Restart=always
+RestartSec=5
+KillMode=mixed
+TimeoutStopSec=10
+
+[Install]
+WantedBy=multi-user.target
