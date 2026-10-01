@@ -69,9 +69,24 @@ By the end of today, I should be able to:
 - **Linux Progress:** Day 11 / 30  
 - **Theme:** Stop running repetitive tasks manually. Make Linux schedule and execute them automatically.  
 - **Focus:** Cron, Crontab, One-Time Jobs (`at`), Anacron & Scheduled Automation  
+
+---
+
+## Day 12 — Systemd Services & Timers (Part 1)
 - **Linux Mastery:** Day 12 / 30
 - **Cloud Infrastructure Journey:** Day 208 / 1000
 - **Focus:** Systemd Services, Service Units, Dependencies, Restart Policies & Socket Activation
+
+### Objective
+Understand how `systemd` manages Linux services, how service unit files are structured, how dependencies and restart policies work, and how to create and manage a custom Linux service.
+
+
+
+---
+
+---
+
+## Day 13 — Systemd Timers (Part 2) & Journal Introduction
 - **Linux Mastery:** Day 13 / 30
 - **AI Cloud Infrastructure Journey:** Day 209 / 1000
 - **Focus:** Systemd Timers, Scheduled Services & Journalctl
@@ -81,15 +96,49 @@ By the end of today, I should be able to:
 - **Main Topics:** * Systemd timers
 - **Deliverables:** ```text
 - **Core takeaway:** > A cloud infrastructure engineer needs to know not only how to run workloads, but also how to schedule them, observe them, investigate failures, and automate repetitive operations.
+
+### Objective
+Today I learned how to automate Linux tasks using **systemd timers** and investigate system activity using the **systemd journal**.
+
+The main goal was to understand:
+
+* How systemd timers schedule services
+* How `OnCalendar` works
+* How persistent timers behave
+* How systemd services and timers work together
+* How to inspect logs using `journalctl`
+* How to filter logs by service and priority
+* How to follow logs in real time
+* How to export journal entries as JSON
+* How to manage journal disk usage
+
+---
+
+---
+
+## Day 14 — Week 2 Review & Integration Project
 - **Linux Mastery:** Day 14 / 30
 - **AI Cloud Infrastructure Journey:** Day 210 / 1000
 - **Focus:** Process Automation + systemd Integration
 - **Duration:** ~3 Hours
 
 ### Objective
-Understand how `systemd` manages Linux services, how service unit files are structured, how dependencies and restart policies work, and how to create and manage a custom Linux service.
+Review everything learned during Week 2 of Linux process management and integrate it into a practical project.
 
+Today's goal is to build **Process Guardian** — a Bash-based process monitoring and recovery system managed by `systemd`.
 
+The guardian will:
+
+* Monitor critical processes
+* Detect when a process stops
+* Restart failed processes
+* Support systemd services and direct commands
+* Log restart events to the system journal
+* Detect repeated failures
+* Generate an alert after 3 restarts within 5 minutes
+* Gracefully shut down when receiving `SIGTERM`
+* Run continuously as a systemd service
+* Automatically restart if the guardian itself crashes
 
 ---
 

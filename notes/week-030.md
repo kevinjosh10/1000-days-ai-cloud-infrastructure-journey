@@ -11,6 +11,10 @@
 
 ---
 
+## 🎯 Objective
+
+
+
 # 1. What Is a Process?
 
 A **process is a running instance of a program**.
@@ -1206,6 +1210,10 @@ systemd / PID 1
 
 
 ---
+
+## 🎯 Objective
+
+
 
 # 1. What Is a Process?
 
@@ -4124,20 +4132,18 @@ AI Cloud Infrastructure:     Day 207 / 1000 [████░░░░░░░�
 **Day 11/30 → Cron & Scheduled Automation Complete! ✅**  
 **Day 207 / 1000 → 20.7% of the journey**
 
-
-# Day 12 — Systemd Services & Timers (Part 1)
-
-
-
-
-
-
-
-
-
-
-
 ---
+
+## Day 12 — Systemd Services & Timers (Part 1)
+---
+
+
+
+## 🎯 Objective
+
+
+
+
 
 
 
@@ -6771,15 +6777,14 @@ Wants=      → weak dependency
 
 **Day 208 / 1000 — Cloud Infrastructure Journey**  #
 
-
-# Day 13 — Systemd Timers (Part 2) & Journal Introduction
-
-
-
-
-
-
 ---
+
+## Day 13 — Systemd Timers (Part 2) & Journal Introduction
+---
+
+## 🎯 Objective
+
+
 
 # 1. Systemd Timers
 
@@ -7976,17 +7981,14 @@ backup.sh
 system_scheduler.sh
 ```
 
-
-
-
-# Day 14 — Week 2 Review & Integration Project
-
-
-
-
-
-
 ---
+
+## Day 14 — Week 2 Review & Integration Project
+---
+
+## 🎯 Objective
+
+
 
 # 📚 1. Week 2 Review
 

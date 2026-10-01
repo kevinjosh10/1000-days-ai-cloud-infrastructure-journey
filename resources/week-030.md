@@ -1941,6 +1941,10 @@ log "Log maintenance completed successfully."
 Linux Mastery:                 Day 11 / 30  [███████████░░░░░░░░░░░░░░░░░░░] 36.7%
 AI Cloud Infrastructure:     Day 207 / 1000 [████░░░░░░░░░░░░░░░░░░░░░░░░░░] 20.7%
 ```
+
+---
+
+## Day 12 — Systemd Services & Timers (Part 1)
 ```text
 
                     systemd
@@ -2978,6 +2982,10 @@ Requires=   → strong dependency
 Wants=      → weak dependency
 
 ```
+
+---
+
+## Day 13 — Systemd Timers (Part 2) & Journal Introduction
 ```text
 Timer
   ↓
@@ -3590,6 +3598,10 @@ backup.timer
 backup.sh
 system_scheduler.sh
 ```
+
+---
+
+## Day 14 — Week 2 Review & Integration Project
 ```bash
 ps aux
 ps -ef
