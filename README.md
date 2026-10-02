@@ -10,7 +10,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-195_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-210_Days-fire?style=for-the-badge)
 
 ---
 
@@ -42,11 +42,11 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 195 / 1000** | 🔥 Phase 7: Kubernetes & Cloud-Native Orchestration |
-| **Milestone** | **Week 28 / Kubernetes III** | Advanced Networking, Ingress, StorageClasses, & Helm Package Management |
-| **Projects & Labs** | **22+ Systems Built** | From Terraform IaC & AWS 3-Tier setups to multi-replica Kubernetes microservices |
-| **Automation Modules**| **25+ Automation Scripts** | AWS `boto3` audits, containerized CronJobs, Linux monitoring watchdogs |
-| **Current Focus** | **Helm & Production K8s** | Custom Chart Authoring, Go Templating, Ingress L7 Routing, Zero-Trust NetworkPolicies |
+| **Current Day** | **Day 210 / 1000** | 🔥 Phase 9: Linux Mastery & Deep Systems Engineering |
+| **Milestone** | **Week 30 / Linux Mastery** | Process Management, Systemd, Scheduling, & Process Guardians |
+| **Projects & Labs** | **24+ Systems Built** | From Terraform IaC & AWS 3-Tier setups to Linux automated watchdogs |
+| **Automation Modules**| **28+ Automation Scripts** | AWS `boto3` audits, Process Guardian Bash Scripts, CronJobs, Systemd Timers |
+| **Current Focus** | **Linux Systems** | Job Control, Signals, `systemd` Services, Graceful Shutdowns, `at` & `cron` |
 
 ---
 
@@ -105,7 +105,7 @@ This repository acts as my second brain, carefully organized to track progress a
 
 ```text
 📦 1000-days-ai-cloud-infrastructure-journey
- ┣ 📂 daily-logs/      # 195 days of unbroken execution logs (concepts, code, debugging)
+ ┣ 📂 daily-logs/      # 210 days of unbroken execution logs (concepts, code, debugging)
  ┃ ┗ 📂 2026/
  ┃   ┣ 📂 1] march-2026/    # Days 1-31: Linux & Networking Foundations
  ┃   ┣ 📂 2] april-2026/    # Days 32-60: Python Automation & boto3
@@ -141,13 +141,15 @@ A core focus of this journey is building systems that thrive in production envir
 - [x] **Phase 1-5:** Cloud Foundations (Linux, Networking, Python, CI/CD, AWS Architecture)
 - [x] **Phase 6:** Infrastructure as Code (Terraform, Terragrunt, Terratest, OPA/Sentinel)
 - [x] **Phase 7:** Containerization (Docker Multi-Stage, ECR, Trivy, Production Patterns)
-- [ ] **Phase 8:** Kubernetes & Cloud-Native Architecture (In Progress — Weeks 26-29)
+- [ ] **Phase 8:** Kubernetes & Cloud-Native Architecture (In Progress — Weeks 26-28)
   - [x] Control Plane & Worker Node Internals (Week 26)
   - [x] Workloads, ConfigMaps, Secrets, Storage & Autoscaling (Week 27)
-  - [x] Advanced Networking, Ingress, StorageClasses & Helm (Week 28 - Current)
-  - [ ] Production AWS EKS, AWS Load Balancer Controller & GitOps (Week 29)
-- [ ] **Phase 9:** Observability & Production Operations (Prometheus, Grafana, OpenTelemetry, Istio)
-- [ ] **Phase 10:** AI Model Deployment Infrastructure, GPU Slicing, Triton & Distributed Training Clusters
+  - [x] Advanced Networking, Ingress, StorageClasses & Helm (Week 28)
+- [ ] **Phase 9:** Linux Mastery & Deep Systems Engineering (In Progress - Weeks 29-30)
+  - [x] Linux Kernel, Filesystems, Storage, Boot Process (Week 29)
+  - [x] Process Management, Systemd, Scheduling, Signals (Week 30 - Current)
+- [ ] **Phase 10:** Observability & Production Operations (Prometheus, Grafana, OpenTelemetry, Istio)
+- [ ] **Phase 11:** AI Model Deployment Infrastructure, GPU Slicing, Triton & Distributed Training Clusters
 
 ---
 
