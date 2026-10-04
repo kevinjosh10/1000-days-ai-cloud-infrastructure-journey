@@ -1,0 +1,11 @@
+# ==============================================================================
+# Sudoers Configuration Template
+# Format: %<group_name> ALL=(<runas_user>) <command_path>
+# ==============================================================================
+
+# Least-privilege service management for developers
+%developers ALL=(root) /usr/bin/systemctl restart nginx
+%developers ALL=(root) /usr/bin/systemctl status nginx
+
+# Least-privilege service management for DevOps
+# %devops ALL=(root) /usr/bin/systemctl *

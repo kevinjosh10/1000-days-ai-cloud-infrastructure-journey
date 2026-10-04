@@ -1,0 +1,7 @@
+# ==============================================================================
+# Auditd Rule Template for User Onboarding
+# Format: -w <path> -p <permissions> -k <audit_key>
+# ==============================================================================
+
+# Monitor writes (w) and attribute changes (a) in user home directories
+-w /home/{{USERNAME}} -p wa -k user_home_{{USERNAME}}

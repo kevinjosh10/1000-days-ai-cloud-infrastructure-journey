@@ -1,0 +1,23 @@
+$ sudo ./onboard_user.sh alice developers keys/alice.pub
+[2026-10-04 16:45:10] Creating group: developers
+[2026-10-04 16:45:10] Creating user: alice
+[2026-10-04 16:45:11] Adding user alice to group developers
+[2026-10-04 16:45:11] Configuring SSH key authentication for alice
+[2026-10-04 16:45:11] Enforcing password aging policies for alice
+[2026-10-04 16:45:11] Configuring auditd rule for /home/alice
+[2026-10-04 16:45:12] Configuring least-privilege sudo rule for group developers
+[2026-10-04 16:45:12] Sudo rule successfully applied and verified.
+============================================================
+              USER ONBOARDING SUMMARY REPORT
+============================================================
+Timestamp:       2026-10-04 16:45:12
+Username:        alice
+Primary/Group:   developers
+Home Directory:  /home/alice
+Shell:           /bin/bash
+SSH Auth:        Configured (/home/alice/.ssh/authorized_keys)
+Password Policy: Max Age 90 days, Warning 14 days
+Auditd Watch:    -w /home/alice -p wa -k user_home_alice
+Sudo Privilege:  %developers ALL=(root) /usr/bin/systemctl restart nginx
+============================================================
+[2026-10-04 16:45:12] User onboarding completed successfully. Summary: /tmp/alice_onboarding_summary.txt
