@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-10-13 14:30:00 UTC",
+  "hostname": "ubuntu-cloud-node-01",
+  "kernel": "5.15.0-89-generic",
+  "uptime": "up 14 days, 3 hours",
+  "overall_health": "NORMAL",
+  "cpu": {
+    "status": "NORMAL",
+    "utilization_percent": 18.4,
+    "load_average": {
+      "1m": 0.42,
+      "5m": 0.38,
+      "15m": 0.35
+    },
+    "cores_count": 4
+  },
+  "memory": {
+    "status": "NORMAL",
+    "total_mb": 16000,
+    "available_mb": 9264,
+    "used_mb": 6736,
+    "usage_percent": 42.1,
+    "swap_total_mb": 4096,
+    "swap_used_mb": 48,
+    "swap_usage_percent": 1.2
+  },
+  "disk": {
+    "status": "NORMAL",
+    "max_filesystem_usage_percent": 40,
+    "io": {
+      "available": true,
+      "tps": 32.4,
+      "read_kb_per_sec": 124.5,
+      "write_kb_per_sec": 480.2,
+      "utilization_percent": 4.2
+    }
+  },
+  "network": {
+    "listening_tcp_sockets": 18,
+    "established_tcp_connections": 46
+  },
+  "processes": {
+    "total_count": 184,
+    "zombie_count": 0,
+    "zombie_status": "NORMAL"
+  },
+  "journal": {
+    "accessible": true,
+    "error_entries_found": 0
+  }
+}

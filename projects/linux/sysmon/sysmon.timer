@@ -1,0 +1,12 @@
+[Unit]
+Description=Run Production System Monitor Every 5 Minutes
+Documentation=https://github.com/kevinjosh10/1000-days-ai-cloud-infrastructure-journey
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=5min
+AccuracySec=30s
+Unit=sysmon.service
+
+[Install]
+WantedBy=timers.target

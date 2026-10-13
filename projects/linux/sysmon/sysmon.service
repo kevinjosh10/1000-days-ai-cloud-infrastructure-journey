@@ -1,0 +1,14 @@
+[Unit]
+Description=Production Linux System Monitor
+Documentation=https://github.com/kevinjosh10/1000-days-ai-cloud-infrastructure-journey
+After=network.target
+
+[Service]
+Type=oneshot
+User=root
+ExecStart=/bin/bash /opt/sysmon/sysmon.sh
+StandardOutput=append:/var/log/sysmon.log
+StandardError=append:/var/log/sysmon.log
+
+[Install]
+WantedBy=multi-user.target

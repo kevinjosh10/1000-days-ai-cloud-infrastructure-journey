@@ -1,0 +1,56 @@
+==============================================================================
+             🚀 PRODUCTION LINUX SYSTEM MONITOR (sysmon.sh)                   
+==============================================================================
+ Host:           ubuntu-cloud-node-01           Kernel:         5.15.0-89-generic
+ Timestamp:      2026-10-13 14:30:00 UTC        Uptime:         up 14 days, 3 hours
+ System Health:  [ NORMAL ]
+------------------------------------------------------------------------------
+[1] CPU PERFORMANCE & LOAD [ NORMAL ]
+  Utilization:   18.4%        Load Average:  0.42, 0.38, 0.35 (1m, 5m, 15m)
+  Logical Cores: 4            Thresholds:    Warn: 70% | Crit: 90%
+  Per-Core Usage:
+    • Core 0: 22.1%
+    • Core 1: 15.3%
+    • Core 2: 19.8%
+    • Core 3: 16.4%
+  Top CPU Processes:
+    PID      USER         COMMAND              %CPU    
+    1248     prometheus   prometheus           8.5%    
+    1842     node_exp     node_exporter        3.2%    
+    892      root         systemd-journal      1.4%    
+
+[2] MEMORY & SWAP HEALTH [ NORMAL ]
+  RAM Usage:     42.1%        (6736 MB used / 16000 MB total | 9264 MB avail)
+  Swap Usage:    1.2%         (48 MB used / 4096 MB total)
+  Thresholds:    Warn: 80% | Crit: 95%
+  Top Memory Processes:
+    PID      USER         COMMAND              %MEM     RSS (KB)  
+    1248     prometheus   prometheus           12.4%    1984000   
+    2401     app          java                 18.2%    2912000   
+    950      postgres     postgres             6.8%     1088000   
+
+[3] DISK CAPACITY & I/O PERFORMANCE [ NORMAL ]
+  Filesystem Mounts:
+    MOUNT              DEVICE          TOTAL    USED     AVAIL    USE%     STATUS    
+    /                  /dev/nvme0n1p1  100G     38G      58G      40%      [ NORMAL ]
+    /data              /dev/nvme1n1    500G     185G     290G     39%      [ NORMAL ]
+  Disk I/O Throughput:
+    Read Throughput:   124.5 kB/s      Write Throughput: 480.2 kB/s
+    I/O Transactions:  32.4 tps        Max Device Util:  4.2%
+
+[4] NETWORK SICKNESS & SOCKETS
+  Listening TCP Sockets:      18         (Active listeners waiting for incoming traffic)
+  Established TCP Sessions:   46         (Active connected sessions)
+
+[5] PROCESS INVENTORY & RUNTIME [ NORMAL ]
+  Total Active Processes:     184        Zombie Processes: 0
+  Longest Elapsed Running Processes:
+    PID      USER         RUNTIME            COMMAND             
+    1        root         14d 03h 12m        systemd             
+    420      root         14d 03h 10m        systemd-udevd       
+    550      systemd-res  14d 03h 10m        systemd-resolve     
+
+[6] SYSTEMD JOURNAL ERROR LOGS (Last 5)
+  ✔ No error-level (priority err) log events found in recent journal logs.
+==============================================================================
+Run './sysmon.sh --help' for options or './sysmon.sh --json' for cloud exporter integration.
