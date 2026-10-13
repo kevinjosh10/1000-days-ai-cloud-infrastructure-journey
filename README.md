@@ -8,9 +8,9 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-Package_Manager-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Mastery_Completed-black?style=for-the-badge&logo=linux&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Streak](https://img.shields.io/badge/Streak-210_Days-fire?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-226_Days-fire?style=for-the-badge)
 
 ---
 
@@ -42,11 +42,11 @@
 
 | Metric | Current Status | Details |
 | :--- | :--- | :--- |
-| **Current Day** | **Day 210 / 1000** | 🔥 Phase 9: Linux Mastery & Deep Systems Engineering |
-| **Milestone** | **Week 30 / Linux Mastery** | Process Management, Systemd, Scheduling, & Process Guardians |
-| **Projects & Labs** | **24+ Systems Built** | From Terraform IaC & AWS 3-Tier setups to Linux automated watchdogs |
-| **Automation Modules**| **28+ Automation Scripts** | AWS `boto3` audits, Process Guardian Bash Scripts, CronJobs, Systemd Timers |
-| **Current Focus** | **Linux Systems** | Job Control, Signals, `systemd` Services, Graceful Shutdowns, `at` & `cron` |
+| **Current Day** | **Day 226 / 1000** | 🔥 Phase 9 Completed: Linux Mastery (30/30 Days) |
+| **Milestone** | **Month 1 (Linux) Complete** | Systems Engineering, Security, Observability & Capstone |
+| **Projects & Labs** | **28+ Systems Built** | From Terraform IaC & AWS 3-Tier setups to Linux automated watchdogs & monitors |
+| **Automation Modules**| **34+ Automation Scripts** | AWS `boto3` audits, Process Guardian, User Onboarding, `sysmon.sh`, Systemd Timers |
+| **Current Focus** | **Observability & SRE** | Transitioning into Phase 10: Prometheus, Grafana, OpenTelemetry & Production SRE |
 
 ---
 
@@ -75,15 +75,23 @@ I am building a foundational stack designed for large-scale operations, avoiding
 - **Pipeline Automation:** GitHub Actions workflows (`.yml`), automated linting (`hadolint`, `flake8`, `tflint`), automated unit testing (`pytest`).
 - **Security Scanning:** Container vulnerability scanning with Trivy (failing on CRITICAL/HIGH CVEs), Docker Content Trust (DCT).
 
-### 🐧 Linux & Systems Engineering
-- **Systems Administration:** `systemd`, `cron`, process management, memory allocation, cgroups, namespace isolation, resource monitoring (`top`, `htop`, `kubectl top`).
-- **Networking Foundations:** TCP/IP model, DNS resolution (`dig`, CoreDNS), iptables/IPVS routing, virtual ethernet (`veth`) pairs, overlay networks (VXLAN, BGP).
+### 🐧 Linux & Systems Engineering (30-Day Mastery)
+- **Systems Administration & Kernel:** Linux kernel architecture, `/proc` & `/sys` virtual filesystems, storage, boot sequence (`systemd`), cgroups, namespace isolation.
+- **Process Supervision & Automation:** Process trees, signals (`SIGTERM`, `SIGKILL`), cron automation, custom `systemd` services & timers, daemon recovery.
+- **Security & Hardening:** Least-privilege `sudoers.d` access controls, Ed25519 SSH key hardening, UFW firewall packet filtering, kernel-level `auditd` file-integrity rules.
+- **Performance Profiling & Observability:** Systematic USE/RED troubleshooting methodology, CPU profiling (`mpstat`, load avg), memory ratios (`free`, PSI, OOM killer), disk I/O throughput (`iostat`), socket telemetry (`ss`), and journalctl error analysis.
 
 ---
 
 ## 🏗️ Real-World Infrastructure Projects
 
 I believe in learning by doing. Here are highlights from major platforms and projects engineered during this journey:
+
+### 🐧 Linux Systems & Observability Projects
+1. **[Production System Monitor (`sysmon`)](projects/linux/sysmon/):** Month 1 Capstone monitoring suite built in Bash with `systemd` timer integration. Collects CPU per-core utilization, true available RAM ratios, disk I/O throughput via `iostat`, TCP socket tracking (`ss`), zombie process detection, systemd journal error scraping, and `--json` cloud telemetry export.
+2. **[User Onboarding & Security Hardening](projects/linux/user-onboarding/):** Automated identity provisioning engine with Ed25519 SSH keys, granular least-privilege `sudoers.d` rules, password expiry compliance, and kernel-level `auditd` file-integrity watch rules.
+3. **[Process Guardian](projects/linux/process-guardian/):** Resilient process supervisor with automated daemon recovery under `systemd`, sliding-window crash alerting, and unified journal logging.
+4. **[Filesystem & Permission Auditor (`fs-auditor`)](projects/linux/fs-auditor/):** Automated security auditing utility scanning for SUID/SGID binaries, world-writable directories, POSIX ACLs, and orphaned symlinks.
 
 ### 🚀 Featured Platforms & MLOps
 1. **[CloudTrain](https://github.com/kevinjosh10/CloudTrain):** A production-grade serverless MLOps platform that automates machine learning training, model governance, and real-time inference using AWS Lambda, S3, API Gateway, Firebase, and Python.
@@ -105,7 +113,7 @@ This repository acts as my second brain, carefully organized to track progress a
 
 ```text
 📦 1000-days-ai-cloud-infrastructure-journey
- ┣ 📂 daily-logs/      # 210 days of unbroken execution logs (concepts, code, debugging)
+ ┣ 📂 daily-logs/      # 226 days of unbroken execution logs (concepts, code, debugging)
  ┃ ┗ 📂 2026/
  ┃   ┣ 📂 1] march-2026/    # Days 1-31: Linux & Networking Foundations
  ┃   ┣ 📂 2] april-2026/    # Days 32-60: Python Automation & boto3
@@ -113,12 +121,15 @@ This repository acts as my second brain, carefully organized to track progress a
  ┃   ┣ 📂 4] june-2026/     # Days 92-121: CI/CD & Advanced Cloud Projects
  ┃   ┣ 📂 5] july-2026/     # Days 122-152: Infrastructure as Code (Terraform)
  ┃   ┣ 📂 6] august-2026/   # Days 153-183: Docker Mastery & Kubernetes Architecture
- ┃   ┗ 📂 7] september-2026/# Days 184-213+: K8s Workloads, Storage, Ingress & Helm
- ┣ 📂 notes/           # High-density technical summaries organized by week (Weeks 1-27+)
+ ┃   ┣ 📂 7] september-2026/# Days 184-213: K8s Workloads, Storage, Ingress & Helm
+ ┃   ┗ 📂 8] october-2026/  # Days 214-226+: Linux Mastery (Security, Observability, Capstone)
+ ┣ 📂 projects/        # Production implementations, IaC modules & systems engineering
+ ┃   ┣ 📂 linux/            # Systems Engineering Suites (sysmon, user-onboarding, process-guardian, fs-auditor)
+ ┃   ┗ 📂 terraform/        # Modular IaC (aws-3tier-architecture)
+ ┣ 📂 notes/           # High-density technical summaries organized by week (Weeks 1-31+)
  ┣ 📂 roadmap/         # Weekly roadmaps and 125-Day FAANG & Cloud Engineering Roadmap
  ┣ 📂 recap/           # Weekly milestones and architectural paradigm shifts
  ┣ 📂 resources/       # Official documentation links, books, and essential tooling
- ┣ 📂 projects/        # Real-world implementations, IaC modules, CI/CD pipelines & AWS labs
  ┣ 📂 python-codes/    # Python automation scripts (APIs, OOP, boto3, Cloud Watchdogs)
  ┗ 📜 README.md        # Central engineering hub & repository overview
 ```
@@ -133,6 +144,7 @@ A core focus of this journey is building systems that thrive in production envir
 - **Zero-Trust Security:** Enforcing default-deny NetworkPolicies in Kubernetes, least-privilege IAM roles, KMS volume encryption, and secret synchronization via External Secrets Operator.
 - **Resilience & Zero-Downtime:** Designing rolling update strategies with strict probe health checks (`liveness`, `readiness`, `startup`) and pod anti-affinity across availability zones.
 - **Automated Validation:** Continuous integration pipelines with automated linting (`tflint`, `helm lint`, `flake8`), image vulnerability scanning (Trivy), and automated unit tests (`pytest`, `Terratest`).
+- **Telemetry & Observability First:** Building self-contained health probes, monitoring scripts with JSON export compatibility, and actionable error classifications.
 
 ---
 
@@ -141,14 +153,16 @@ A core focus of this journey is building systems that thrive in production envir
 - [x] **Phase 1-5:** Cloud Foundations (Linux, Networking, Python, CI/CD, AWS Architecture)
 - [x] **Phase 6:** Infrastructure as Code (Terraform, Terragrunt, Terratest, OPA/Sentinel)
 - [x] **Phase 7:** Containerization (Docker Multi-Stage, ECR, Trivy, Production Patterns)
-- [ ] **Phase 8:** Kubernetes & Cloud-Native Architecture (In Progress — Weeks 26-28)
+- [x] **Phase 8:** Kubernetes & Cloud-Native Architecture (Weeks 26-28)
   - [x] Control Plane & Worker Node Internals (Week 26)
   - [x] Workloads, ConfigMaps, Secrets, Storage & Autoscaling (Week 27)
   - [x] Advanced Networking, Ingress, StorageClasses & Helm (Week 28)
-- [ ] **Phase 9:** Linux Mastery & Deep Systems Engineering (In Progress - Weeks 29-30)
-  - [x] Linux Kernel, Filesystems, Storage, Boot Process (Week 29)
-  - [x] Process Management, Systemd, Scheduling, Signals (Week 30 - Current)
-- [ ] **Phase 10:** Observability & Production Operations (Prometheus, Grafana, OpenTelemetry, Istio)
+- [x] **Phase 9:** Linux Mastery & Deep Systems Engineering (Completed — 30/30 Days, Days 197–226)
+  - [x] Linux Kernel, Filesystems, Storage, Boot Process (Week 29 / Days 1–7)
+  - [x] Process Management, Systemd, Scheduling, Signals (Week 30 / Days 8–14)
+  - [x] User Management, Sudoers, SSH Hardening, Firewalls, Auditd (Week 31 / Days 15–21)
+  - [x] Performance Profiling: CPU, Memory, Disk I/O, Network, Troubleshooting & Capstone (Week 32 / Days 22–30)
+- [ ] **Phase 10:** Observability & Production Operations (Prometheus, Grafana, OpenTelemetry, Istio) — **Current Focus**
 - [ ] **Phase 11:** AI Model Deployment Infrastructure, GPU Slicing, Triton & Distributed Training Clusters
 
 ---
