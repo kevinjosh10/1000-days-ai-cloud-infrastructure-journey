@@ -1,6 +1,6 @@
 # 🚀 Automated Cloud Internship Cold Outreach Campaign (Chennai)
 
-This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 28 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
+This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 40 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
 
 ---
 
@@ -22,7 +22,7 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 
 ---
 
-## 🏢 Target Companies Database (28 Companies in Chennai)
+## 🏢 Target Companies Database (40 Companies in Chennai)
 
 | # | Company | Focus / Specialization | Location in Chennai | Verified Contact Email |
 |---|---|---|---|---|
@@ -54,6 +54,18 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 | 26 | **Systech Solutions** | Enterprise Cloud Architecture, Big Data Engineering & AI Hub | Saidapet (Anna Salai), Chennai | `info@systechusa.com` |
 | 27 | **HTC Global Services** | Enterprise Cloud Modernization & Managed Cloud Services | HTC Towers, Guindy, Chennai | `contact@htcinc.com` |
 | 28 | **Hexaware Technologies** | Cloud Enablement & Next-Gen Enterprise Platforms | Chennai One IT SEZ, Thoraipakkam | `Nandhini5@hexaware.com` |
+| 29 | **AVASOFT** | AWS Cloud Migration, DevOps Automation & Data/AI | Alpha City (SSPDL), Navalur | `career@avasoft.com` |
+| 30 | **Payoda Technologies** | Connected Cloud Platforms & Infrastructure Operations | Ticel Bio Park, Taramani | `joinus@payoda.com` |
+| 31 | **Codingmart Technologies** | Cloud-Native Platforms, Microservices & Backend Systems | Chennai / Tamil Nadu | `hr@codingmart.com` |
+| 32 | **Neeyamo Enterprise Solutions** | Global Enterprise HR Cloud & Multi-Tenant Infrastructure | Global Infocity Park, Perungudi | `corp@neeyamo.com` |
+| 33 | **Vakilsearch / Zolvit** | High-Traffic LegalTech SaaS & AWS Cloud Workloads | Prince Info Park, Ambattur | `hr@vakilsearch.com` |
+| 34 | **BankBazaar** | Fintech Cloud Architecture & High-Scale AWS Deployments | Prince Info Park, Ambattur | `careers@bankbazaar.com` |
+| 35 | **WNS-Vuram** | Enterprise Hyperautomation & Cloud Workflow Systems | Saligramam / Ramapuram | `venkateshr@vuram.com` |
+| 36 | **Zuci Systems** | Digital Engineering & Tailored AWS Cloud Consulting | ASV Chandilya Towers, Thoraipakkam | `sales@zucisystems.com` |
+| 37 | **Sedin Technologies** | Enterprise Cloud Modernization & DevOps Automation | Ashok Nagar, Chennai | `sales@sedintechnologies.com` |
+| 38 | **Fournine Cloud Solutions** | Dedicated Cloud Migration & AWS/DevOps Consulting | Chennai / Regional | `contact@Fourninecloud.com` |
+| 39 | **Sify Technologies** | Cloud Data Centers, Managed Hybrid Cloud & Networking | TIDEL Park, Taramani | `online.sales@sifycorp.com` |
+| 40 | **Hakuna Matata Solutions** | Custom Cloud IoT & Enterprise Digital Platforms | Sholinganallur, Chennai | `sales@hakunamatatatech.com` |
 
 ---
 

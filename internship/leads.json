@@ -278,5 +278,125 @@
     "contact_email": "Nandhini5@hexaware.com",
     "backup_email": "poojam3@hexaware.com",
     "website": "https://hexaware.com"
+  },
+  {
+    "id": "avasoft",
+    "name": "AVASOFT",
+    "domain": "AWS Cloud Migration, DevOps Automation, Data & AI Solutions",
+    "location": "Alpha City (SSPDL), Navalur, Chennai",
+    "target_role": "Cloud Engineering & DevOps Intern",
+    "contact_email": "career@avasoft.com",
+    "backup_email": "sales@avasoft.com",
+    "website": "https://www.avasoft.com"
+  },
+  {
+    "id": "payoda",
+    "name": "Payoda Technologies",
+    "domain": "Digital Transformation, Connected Cloud Platforms & Infrastructure Ops",
+    "location": "Ticel Bio Park, Taramani, Chennai",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "joinus@payoda.com",
+    "backup_email": "sales@payoda.com",
+    "website": "https://www.payoda.com"
+  },
+  {
+    "id": "codingmart",
+    "name": "Codingmart Technologies",
+    "domain": "Cloud-Native Platforms, Microservices Architecture & Modern Web Systems",
+    "location": "Chennai / Tamil Nadu",
+    "target_role": "Cloud Systems & Backend Intern",
+    "contact_email": "hr@codingmart.com",
+    "backup_email": "sales@codingmart.com",
+    "website": "https://codingmart.com"
+  },
+  {
+    "id": "neeyamo",
+    "name": "Neeyamo Enterprise Solutions",
+    "domain": "Global Enterprise HR Cloud Platforms & High-Availability Cloud Infra",
+    "location": "Global Infocity Park, Perungudi, Chennai",
+    "target_role": "Cloud Infrastructure & Systems Intern",
+    "contact_email": "corp@neeyamo.com",
+    "backup_email": "",
+    "website": "https://www.neeyamo.com"
+  },
+  {
+    "id": "vakilsearch",
+    "name": "Vakilsearch / Zolvit",
+    "domain": "High-Traffic LegalTech SaaS, Cloud Backend Architectures & AWS Workloads",
+    "location": "Prince Info Park, Ambattur, Chennai",
+    "target_role": "Cloud Engineering & DevOps Intern",
+    "contact_email": "hr@vakilsearch.com",
+    "backup_email": "support@vakilsearch.com",
+    "website": "https://vakilsearch.com"
+  },
+  {
+    "id": "bankbazaar",
+    "name": "BankBazaar",
+    "domain": "Fintech Cloud Architecture, High-Scale AWS Deployments & Financial Security",
+    "location": "Prince Info Park, Ambattur, Chennai",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "careers@bankbazaar.com",
+    "backup_email": "",
+    "website": "https://www.bankbazaar.com"
+  },
+  {
+    "id": "vuram",
+    "name": "WNS-Vuram",
+    "domain": "Hyperautomation, Cloud Transformation & Enterprise Workflow Architectures",
+    "location": "Saligramam / Ramapuram, Chennai",
+    "target_role": "Cloud & Automation Systems Intern",
+    "contact_email": "venkateshr@vuram.com",
+    "backup_email": "",
+    "website": "https://www.vuram.com"
+  },
+  {
+    "id": "zucisystems",
+    "name": "Zuci Systems",
+    "domain": "Digital Engineering, AWS Cloud Consulting & High-Reliability Systems",
+    "location": "ASV Chandilya Towers, Okkiyam Thoraipakkam, Chennai",
+    "target_role": "Cloud & DevOps Engineering Intern",
+    "contact_email": "sales@zucisystems.com",
+    "backup_email": "",
+    "website": "https://www.zucisystems.com"
+  },
+  {
+    "id": "sedintech",
+    "name": "Sedin Technologies",
+    "domain": "Enterprise Cloud Modernization, DevOps Automation & Backend Engineering",
+    "location": "Ashok Nagar, Chennai",
+    "target_role": "Cloud & DevOps Intern",
+    "contact_email": "sales@sedintechnologies.com",
+    "backup_email": "accounts@sedintechnologies.com",
+    "website": "https://sedintechnologies.com"
+  },
+  {
+    "id": "fourninecloud",
+    "name": "Fournine Cloud Solutions",
+    "domain": "Dedicated Cloud Enablement, Cloud Migration & AWS/DevOps Consulting",
+    "location": "Chennai / Regional",
+    "target_role": "Cloud Engineering & DevOps Intern",
+    "contact_email": "contact@Fourninecloud.com",
+    "backup_email": "",
+    "website": "https://fourninecloud.com"
+  },
+  {
+    "id": "sify",
+    "name": "Sify Technologies",
+    "domain": "Cloud Infrastructure, Data Centers, Managed Hybrid Cloud & Networking",
+    "location": "TIDEL Park, Taramani, Chennai",
+    "target_role": "Cloud Infrastructure & Networking Intern",
+    "contact_email": "online.sales@sifycorp.com",
+    "backup_email": "marketing@sifycorp.com",
+    "website": "https://www.sifytechnologies.com"
+  },
+  {
+    "id": "hakunamatata",
+    "name": "Hakuna Matata Solutions",
+    "domain": "Custom Cloud Applications, Industrial IoT & Enterprise Digital Platforms",
+    "location": "Sholinganallur, Chennai",
+    "target_role": "Cloud Engineering & Backend Intern",
+    "contact_email": "sales@hakunamatatatech.com",
+    "backup_email": "",
+    "website": "https://www.hakunamatatatech.com"
   }
 ]
