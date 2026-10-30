@@ -1,6 +1,6 @@
 # 🚀 Automated Cloud Internship Cold Outreach Campaign (Chennai)
 
-This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 22 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
+This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 23 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
 
 ---
 
@@ -22,7 +22,7 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 
 ---
 
-## 🏢 Target Companies Database (22 Companies in Chennai)
+## 🏢 Target Companies Database (23 Companies in Chennai)
 
 | # | Company | Focus / Specialization | Location in Chennai | Verified Contact Email |
 |---|---|---|---|---|
@@ -48,6 +48,7 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 | 20 | **Novac Technology Solutions** | Financial Cloud Platforms, Enterprise Systems & Secure Cloud | Alwarpet, Chennai | `info@novactech.com` |
 | 21 | **Clustrex Data** | Cloud Solutions, Web Engineering & Scalable API Architectures | Madipakkam, Chennai | `info@clustrex.com` |
 | 22 | **Agilysys** | Enterprise Cloud Hospitality Software, Scalable AWS Microservices | Ramanujan Intellion Park, Taramani | `india-corp@agilysys.com` |
+| 23 | **DVein Innovations** | Product Engineering, Custom Software & Technical Internships | Alpha City IT Park, Navalur, Chennai | `jayasri@dveininnovation.com` |
 
 ---
 

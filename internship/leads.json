@@ -12,7 +12,7 @@
   {
     "id": "agilisium",
     "name": "Agilisium Consulting",
-    "domain": "AWS Advanced Tier Partner – Cloud, Big Data & Generative AI",
+    "domain": "AWS Advanced Tier Partner \u2013 Cloud, Big Data & Generative AI",
     "location": "Perungudi (OMR, World Trade Center), Chennai",
     "target_role": "Cloud & AI Infrastructure Intern",
     "contact_email": "talent@agilisium.com",
@@ -218,5 +218,15 @@
     "contact_email": "india-corp@agilysys.com",
     "backup_email": "",
     "website": "https://www.agilysys.com"
+  },
+  {
+    "id": "dvein",
+    "name": "DVein Innovations",
+    "domain": "Product Engineering, Custom Software & Technical Internship Programs",
+    "location": "Alpha City IT Park, Navalur, Chennai",
+    "target_role": "Cloud Engineering Intern / DevOps Intern",
+    "contact_email": "jayasri@dveininnovation.com",
+    "backup_email": "",
+    "website": "https://dveininnovation.com"
   }
 ]
