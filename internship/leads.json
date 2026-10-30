@@ -228,5 +228,55 @@
     "contact_email": "jayasri@dveininnovation.com",
     "backup_email": "",
     "website": "https://dveininnovation.com"
+  },
+  {
+    "id": "latentview",
+    "name": "LatentView Analytics",
+    "domain": "Data Engineering, AWS Cloud Analytics & Enterprise AI Infrastructure",
+    "location": "Ramanujan IT City SEZ, Taramani, Chennai",
+    "target_role": "Cloud Infrastructure & Data Engineering Intern",
+    "contact_email": "tag@latentview.com",
+    "backup_email": "sales@latentview.com",
+    "website": "https://www.latentview.com"
+  },
+  {
+    "id": "guvi",
+    "name": "GUVI Geek Network (HCL Group)",
+    "domain": "EdTech Platforms, Cloud Infrastructure, Developer Tools & Scalable Microservices",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "Cloud & DevOps Intern",
+    "contact_email": "devhiring@hclguvi.com",
+    "backup_email": "info@guvi.in",
+    "website": "https://www.guvi.in"
+  },
+  {
+    "id": "systech",
+    "name": "Systech Solutions",
+    "domain": "Enterprise Cloud Architecture, Big Data Engineering & AI Solutions Hub",
+    "location": "Saidapet (Anna Salai), Chennai",
+    "target_role": "Cloud Architecture & Infrastructure Intern",
+    "contact_email": "info@systechusa.com",
+    "backup_email": "",
+    "website": "https://www.systechusa.com"
+  },
+  {
+    "id": "htcglobal",
+    "name": "HTC Global Services",
+    "domain": "Enterprise Cloud Modernization, Managed Cloud Services & DevOps",
+    "location": "HTC Towers, Guindy, Chennai",
+    "target_role": "Cloud Engineering & DevOps Intern",
+    "contact_email": "contact@htcinc.com",
+    "backup_email": "",
+    "website": "https://www.htcinc.com"
+  },
+  {
+    "id": "hexaware",
+    "name": "Hexaware Technologies",
+    "domain": "Cloud Enablement, Automated Infrastructure & Next-Gen Enterprise Platforms",
+    "location": "Chennai One IT SEZ, Thoraipakkam, Chennai",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "Nandhini5@hexaware.com",
+    "backup_email": "poojam3@hexaware.com",
+    "website": "https://hexaware.com"
   }
 ]

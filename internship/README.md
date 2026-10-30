@@ -1,6 +1,6 @@
 # 🚀 Automated Cloud Internship Cold Outreach Campaign (Chennai)
 
-This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 23 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
+This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 28 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
 
 ---
 
@@ -22,7 +22,7 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 
 ---
 
-## 🏢 Target Companies Database (23 Companies in Chennai)
+## 🏢 Target Companies Database (28 Companies in Chennai)
 
 | # | Company | Focus / Specialization | Location in Chennai | Verified Contact Email |
 |---|---|---|---|---|
@@ -49,6 +49,11 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 | 21 | **Clustrex Data** | Cloud Solutions, Web Engineering & Scalable API Architectures | Madipakkam, Chennai | `info@clustrex.com` |
 | 22 | **Agilysys** | Enterprise Cloud Hospitality Software, Scalable AWS Microservices | Ramanujan Intellion Park, Taramani | `india-corp@agilysys.com` |
 | 23 | **DVein Innovations** | Product Engineering, Custom Software & Technical Internships | Alpha City IT Park, Navalur, Chennai | `jayasri@dveininnovation.com` |
+| 24 | **LatentView Analytics** | Data Engineering, Cloud Analytics & Enterprise AI Infrastructure | Ramanujan IT City, Taramani | `tag@latentview.com` |
+| 25 | **GUVI Geek Network (HCL Group)** | Developer EdTech, Cloud Platforms & Scalable Systems | IIT Madras Research Park, Taramani | `devhiring@hclguvi.com` |
+| 26 | **Systech Solutions** | Enterprise Cloud Architecture, Big Data Engineering & AI Hub | Saidapet (Anna Salai), Chennai | `info@systechusa.com` |
+| 27 | **HTC Global Services** | Enterprise Cloud Modernization & Managed Cloud Services | HTC Towers, Guindy, Chennai | `contact@htcinc.com` |
+| 28 | **Hexaware Technologies** | Cloud Enablement & Next-Gen Enterprise Platforms | Chennai One IT SEZ, Thoraipakkam | `Nandhini5@hexaware.com` |
 
 ---
 
