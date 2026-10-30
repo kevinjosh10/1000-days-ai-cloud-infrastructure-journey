@@ -1,26 +1,28 @@
 # 🚀 Automated Cloud Internship Cold Outreach Campaign (Chennai)
 
-This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across premier cloud consultancies, SaaS firms, and tech startups located in Chennai.
+This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 12 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
 
 ---
 
 ## 🎯 Candidate Profile & Pitch Positioning
 
+* **Candidate:** Kevin Joshua L (B.E. CSE, Jerusalem College of Engineering, Chennai)
 * **Target Roles (Strictly Cloud):** 
   * Cloud Engineering Intern
   * Cloud & DevOps Intern
   * Cloud Architecture Intern
-  * Cloud & AI Infrastructure Intern
+  * Cloud Storage & Infrastructure Intern
 * **Core Differentiator:** 
-  * **Smart India Hackathon (SIH) "Block Train" Project:** Served as the dedicated Cloud Architect responsible for end-to-end AWS infrastructure deployment (VPC networking, serverless Lambda compute, API Gateway, resilient storage, and IAM security under hackathon timeframes).
-  * **1000-Day AI Cloud Infrastructure Journey:** Publicly executing an unbroken daily commitment (Day 119+) documenting hands-on infrastructure code on GitHub.
-  * **AWS Depth & Certifications:** AWS Certified Cloud Practitioner + deep Amazon S3 certifications (Cost Optimization, Disaster Recovery, Storage Classes).
-  * **Featured Projects:** CloudTrain Studio (Serverless MLOps Platform) and Cloud-Morph (Serverless Event-Driven File Processing).
+  * **Smart India Hackathon (Ministry of Railways) — "BlockTrain":** Served as Hackathon Team Lead & Cloud Architect who built an AI digital twin of 60 km of railway corridor (86% closure reduction) and deployed the multi-container Docker stack on EC2 with RDS PostgreSQL in a private VPC and AWS SSM Parameter Store.
+  * **1000-Day AI Cloud Infrastructure Journey:** Publicly executing an unbroken daily commitment (Day 226+ with 700+ GitHub commits).
+  * **AWS Depth & Certifications:** AWS Certified Cloud Practitioner + specialized training across Amazon S3 (Cost Optimization, Disaster Recovery, Storage Classes).
+  * **Featured Projects:** CloudTrain Studio (Serverless MLOps Platform), Cloud-Morph (Serverless Pre-signed File Processing), Automated S3 Backup Tool, and Terraform/Kubernetes infrastructure.
 * **Flexibility on Compensation:** Unpaid is fine; stipend is welcome. Foremost priority is hands-on production cloud experience and learning from senior cloud teams.
+* **Attached Resume:** `certs/Kevin_Joshua_Resume.pdf` (Latest updated version).
 
 ---
 
-## 🏢 Target Companies Database (`leads.json`)
+## 🏢 Target Companies Database (12 Companies in Chennai)
 
 | # | Company | Focus / Specialization | Location in Chennai | Verified Contact Email |
 |---|---|---|---|---|
@@ -32,6 +34,10 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 | 6 | **SecureKloud Technologies** | Enterprise Cloud Transformation, Cloud Security & Compliance | T. Nagar, Chennai | `info@securekloud.com` |
 | 7 | **Ideas2IT Technologies** | High-End Product Engineering & Distributed Architectures | Guindy, Chennai | `contact@ideas2it.com` |
 | 8 | **Crayon Data** | Big Data Platforms, AI Decision Engines & Cloud Workloads | Perungudi (OMR), Chennai | `hello@crayondata.ai` |
+| 9 | **Plintron** | Cloud Telecom, Multi-Tenant Cloud & IoT Platforms | Tidel Park, Tharamani, Chennai | `talentacquisition@plintron.com` |
+| 10 | **Qube Cinema** | Digital Cinema Cloud Platforms, Media Pipelines & Linux Infrastructure | Mylapore, Chennai | `jobs@qubecinema.com` |
+| 11 | **Sensiple Technologies** | Enterprise Cloud Migration, Fintech Infrastructure & DevOps | SIPCOT IT Park, Siruseri, Chennai | `info@sensiple.com` |
+| 12 | **OptiSol Business Solutions** | Digital Engineering, AWS Cloud Infrastructure & Microservices | Baid Hi-Tech Park, Thiruvanmiyur | `info@optisolbusiness.com` |
 
 ---
 
@@ -40,9 +46,8 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 The automated dispatch script uses **Python `smtplib` via Gmail SSL (Port 465)** to send personalized pitches directly from `lkevinjosh10@gmail.com` with `certs/Kevin_Joshua_Resume.pdf` automatically attached.
 
 ### 🛡️ Deliverability & Anti-Spam Protection
-- **45-second cool-down:** A built-in delay between emails ensures your Gmail account remains in good standing and doesn't trigger spam filters.
+- **Safe interval delay (30-45s):** Built-in rate-limiting between emails protects Gmail reputation and avoids triggering spam filters.
 - **State persistence:** Updates `campaign.json` after every delivery with timestamp and status to avoid duplicate sends.
-- **Test Mode:** Allows sending a test preview to yourself before firing live outreach.
 
 ---
 
@@ -53,19 +58,7 @@ The automated dispatch script uses **Python `smtplib` via Gmail SSL (Port 465)**
 python .\internship\send_emails.py --status
 ```
 
-### 2. Send Test Email to Yourself
+### 2. Dispatch All Pending Emails
 ```bash
-python .\internship\send_emails.py --test
-```
-
-### 3. Send to a Specific Company (Single Target)
-```bash
-python .\internship\send_emails.py --send-one 1cloudhub
-# or
-python .\internship\send_emails.py --send-one vembu
-```
-
-### 4. Dispatch All Pending Emails (With 45s Delay)
-```bash
-python .\internship\send_emails.py --send-all
+python .\internship\send_emails.py --send-all --delay 35
 ```

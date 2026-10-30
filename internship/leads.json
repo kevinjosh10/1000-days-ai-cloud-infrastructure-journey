@@ -78,5 +78,45 @@
     "contact_email": "hello@crayondata.ai",
     "backup_email": "",
     "website": "https://crayondata.ai"
+  },
+  {
+    "id": "plintron",
+    "name": "Plintron",
+    "domain": "Cloud Telecom, Multi-Tenant Cloud Infrastructure & IoT Cloud Platforms",
+    "location": "Tidel Park, Tharamani, Chennai",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "talentacquisition@plintron.com",
+    "backup_email": "",
+    "website": "https://plintron.com"
+  },
+  {
+    "id": "qubecinema",
+    "name": "Qube Cinema",
+    "domain": "Digital Cinema Cloud Platforms, Media Pipelines & Linux Infrastructure",
+    "location": "Mylapore, Chennai",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "jobs@qubecinema.com",
+    "backup_email": "",
+    "website": "https://www.qubecinema.com"
+  },
+  {
+    "id": "sensiple",
+    "name": "Sensiple Technologies",
+    "domain": "Enterprise Cloud Migration, Fintech Infrastructure & DevOps Automation",
+    "location": "SIPCOT IT Park, Siruseri, Chennai",
+    "target_role": "Cloud & DevOps Intern",
+    "contact_email": "info@sensiple.com",
+    "backup_email": "",
+    "website": "https://www.sensiple.com"
+  },
+  {
+    "id": "optisol",
+    "name": "OptiSol Business Solutions",
+    "domain": "Digital Engineering, AWS Cloud Infrastructure & Microservices",
+    "location": "Baid Hi-Tech Park, Thiruvanmiyur, Chennai",
+    "target_role": "Cloud Engineering & DevOps Intern",
+    "contact_email": "info@optisolbusiness.com",
+    "backup_email": "",
+    "website": "https://www.optisolbusiness.com"
   }
 ]
