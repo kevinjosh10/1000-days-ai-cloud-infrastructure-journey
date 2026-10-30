@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1cloudhub",
+    "name": "1CloudHub",
+    "domain": "AWS Advanced Tier Services Partner, Cloud Migration & DevOps",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud Engineering Intern / AWS DevOps Intern",
+    "contact_email": "recruitment@1cloudhub.com",
+    "backup_email": "contactus@1cloudhub.com",
+    "website": "https://1cloudhub.com"
+  },
+  {
+    "id": "agilisium",
+    "name": "Agilisium Consulting",
+    "domain": "AWS Advanced Tier Partner – Cloud, Big Data & Generative AI",
+    "location": "Perungudi (OMR, World Trade Center), Chennai",
+    "target_role": "Cloud & AI Infrastructure Intern",
+    "contact_email": "talent@agilisium.com",
+    "backup_email": "sales@agilisium.com",
+    "website": "https://agilisium.com"
+  },
+  {
+    "id": "vembu",
+    "name": "Vembu Technologies",
+    "domain": "Enterprise Cloud Backup, Hybrid Storage & Disaster Recovery (BDR)",
+    "location": "Chennai One IT SEZ, Thoraipakkam, Chennai",
+    "target_role": "Cloud Storage & Infrastructure Intern",
+    "contact_email": "careers@vembu.com",
+    "backup_email": "",
+    "website": "https://www.bdrsuite.com"
+  },
+  {
+    "id": "spritle",
+    "name": "Spritle Software",
+    "domain": "Cloud Solutions, IoT, Serverless Architectures & AI Applications",
+    "location": "Chennai, Tamil Nadu",
+    "target_role": "Cloud & DevOps Intern",
+    "contact_email": "jobs@spritle.com",
+    "backup_email": "info@spritle.com",
+    "website": "https://spritle.com"
+  },
+  {
+    "id": "skcript",
+    "name": "Skcript Technologies",
+    "domain": "Boutique Cloud Engineering, Systems Automation & Modern Architecture",
+    "location": "Anna Nagar, Chennai",
+    "target_role": "Cloud Systems & Infrastructure Intern",
+    "contact_email": "hr@skcript.com",
+    "backup_email": "business@skcript.com",
+    "website": "https://skcript.com"
+  },
+  {
+    "id": "securekloud",
+    "name": "SecureKloud Technologies",
+    "domain": "Enterprise Cloud Transformation, Cloud Security & Healthcare/FinTech Compliance",
+    "location": "T. Nagar, Chennai",
+    "target_role": "Cloud Security & Infrastructure Intern",
+    "contact_email": "info@securekloud.com",
+    "backup_email": "",
+    "website": "https://www.securekloud.com"
+  },
+  {
+    "id": "ideas2it",
+    "name": "Ideas2IT Technologies",
+    "domain": "High-End Product Engineering, Cloud-Native Systems & Distributed Architectures",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud & Backend Systems Intern",
+    "contact_email": "contact@ideas2it.com",
+    "backup_email": "",
+    "website": "https://www.ideas2it.com"
+  },
+  {
+    "id": "crayondata",
+    "name": "Crayon Data",
+    "domain": "Big Data Platforms, AI Decision Engines & Scalable Cloud Workloads",
+    "location": "Perungudi (OMR), Chennai",
+    "target_role": "Cloud Infrastructure & MLOps Intern",
+    "contact_email": "hello@crayondata.ai",
+    "backup_email": "",
+    "website": "https://crayondata.ai"
+  }
+]
