@@ -118,5 +118,105 @@
     "contact_email": "info@optisolbusiness.com",
     "backup_email": "",
     "website": "https://www.optisolbusiness.com"
+  },
+  {
+    "id": "prodapt",
+    "name": "Prodapt Solutions",
+    "domain": "Connected Cloud Platforms, Telecom Cloud Infrastructure & Network Automation",
+    "location": "Guindy & OMR, Chennai",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "careers@prodapt.com",
+    "backup_email": "",
+    "website": "https://www.prodapt.com"
+  },
+  {
+    "id": "aspiresys",
+    "name": "Aspire Systems",
+    "domain": "Enterprise Cloud Transformation, Kubernetes & AWS Infrastructure Services",
+    "location": "SIPCOT IT Park, Siruseri, Chennai",
+    "target_role": "Cloud & DevOps Engineering Intern",
+    "contact_email": "info-india@aspiresys.com",
+    "backup_email": "info@aspiresys.com",
+    "website": "https://www.aspiresys.com"
+  },
+  {
+    "id": "kaleidofin",
+    "name": "Kaleidofin",
+    "domain": "Fintech Cloud Architecture, High-Availability AWS Microservices & Data Platforms",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "Cloud & Backend Infrastructure Intern",
+    "contact_email": "careers@kaleidofin.com",
+    "backup_email": "info@kaleidofin.com",
+    "website": "https://kaleidofin.com"
+  },
+  {
+    "id": "kissflow",
+    "name": "Kissflow",
+    "domain": "Cloud-Native SaaS, Distributed Systems & Enterprise Workflow Infrastructure",
+    "location": "World Trade Center, Perungudi, OMR, Chennai",
+    "target_role": "Cloud Infrastructure & Platform Intern",
+    "contact_email": "india@kissflow.com",
+    "backup_email": "",
+    "website": "https://kissflow.com"
+  },
+  {
+    "id": "fullcreative",
+    "name": "FULL Creative",
+    "domain": "Global Communications Infrastructure, Web Real-Time Cloud & Scalable Backends",
+    "location": "Ascendas IT Park, Taramani, Chennai",
+    "target_role": "Cloud Systems & Infrastructure Intern",
+    "contact_email": "info@fullcreative.com",
+    "backup_email": "",
+    "website": "https://full.io"
+  },
+  {
+    "id": "indiumsoft",
+    "name": "Indium Software",
+    "domain": "Digital Engineering, AWS Cloud Analytics & Data Infrastructure",
+    "location": "Olympia Tech Park, Guindy, Chennai",
+    "target_role": "Cloud Infrastructure & Data Engineering Intern",
+    "contact_email": "info@indiumsoftware.com",
+    "backup_email": "",
+    "website": "https://www.indium.tech"
+  },
+  {
+    "id": "softura",
+    "name": "Softura",
+    "domain": "Cloud Modernization, Enterprise AWS Solutions & DevOps Pipelines",
+    "location": "Arihant Indiqube, Guindy, Chennai",
+    "target_role": "Cloud & DevOps Intern",
+    "contact_email": "info@softura.com",
+    "backup_email": "",
+    "website": "https://www.softura.com"
+  },
+  {
+    "id": "novactech",
+    "name": "Novac Technology Solutions",
+    "domain": "Financial Cloud Platforms, Enterprise Systems & Secure Cloud Deployments",
+    "location": "Alwarpet, Chennai",
+    "target_role": "Cloud Infrastructure & Security Intern",
+    "contact_email": "info@novactech.com",
+    "backup_email": "info@novactech.in",
+    "website": "https://www.novactech.com"
+  },
+  {
+    "id": "clustrex",
+    "name": "Clustrex Data",
+    "domain": "Cloud Solutions, Web Engineering & Scalable API Architectures",
+    "location": "Madipakkam, Chennai",
+    "target_role": "Cloud Engineering & Backend Intern",
+    "contact_email": "info@clustrex.com",
+    "backup_email": "",
+    "website": "https://clustrex.com"
+  },
+  {
+    "id": "agilysys",
+    "name": "Agilysys",
+    "domain": "Enterprise Cloud Hospitality Software, Scalable AWS Microservices",
+    "location": "Ramanujan Intellion Park, Taramani, Chennai",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "india-corp@agilysys.com",
+    "backup_email": "",
+    "website": "https://www.agilysys.com"
   }
 ]

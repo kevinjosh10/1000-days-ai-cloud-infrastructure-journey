@@ -1,6 +1,6 @@
 # 🚀 Automated Cloud Internship Cold Outreach Campaign (Chennai)
 
-This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 12 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
+This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 22 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
 
 ---
 
@@ -22,7 +22,7 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 
 ---
 
-## 🏢 Target Companies Database (12 Companies in Chennai)
+## 🏢 Target Companies Database (22 Companies in Chennai)
 
 | # | Company | Focus / Specialization | Location in Chennai | Verified Contact Email |
 |---|---|---|---|---|
@@ -38,6 +38,16 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 | 10 | **Qube Cinema** | Digital Cinema Cloud Platforms, Media Pipelines & Linux Infrastructure | Mylapore, Chennai | `jobs@qubecinema.com` |
 | 11 | **Sensiple Technologies** | Enterprise Cloud Migration, Fintech Infrastructure & DevOps | SIPCOT IT Park, Siruseri, Chennai | `info@sensiple.com` |
 | 12 | **OptiSol Business Solutions** | Digital Engineering, AWS Cloud Infrastructure & Microservices | Baid Hi-Tech Park, Thiruvanmiyur | `info@optisolbusiness.com` |
+| 13 | **Prodapt Solutions** | Connected Cloud Platforms, Telecom Cloud & Network Automation | Guindy & OMR, Chennai | `careers@prodapt.com` |
+| 14 | **Aspire Systems** | Enterprise Cloud Transformation, Kubernetes & AWS Infrastructure | SIPCOT IT Park, Siruseri, Chennai | `info-india@aspiresys.com` |
+| 15 | **Kaleidofin** | Fintech Cloud Architecture, AWS Microservices & Data Platforms | IIT Madras Research Park, Taramani | `careers@kaleidofin.com` |
+| 16 | **Kissflow** | Cloud-Native SaaS, Distributed Systems & Enterprise Workflows | World Trade Center, Perungudi, OMR | `india@kissflow.com` |
+| 17 | **FULL Creative** | Global Communications Infrastructure, Web Real-Time Cloud | Ascendas IT Park, Taramani, Chennai | `info@fullcreative.com` |
+| 18 | **Indium Software** | Digital Engineering, AWS Cloud Analytics & Data Infrastructure | Olympia Tech Park, Guindy, Chennai | `info@indiumsoftware.com` |
+| 19 | **Softura** | Cloud Modernization, Enterprise AWS Solutions & DevOps | Arihant Indiqube, Guindy, Chennai | `info@softura.com` |
+| 20 | **Novac Technology Solutions** | Financial Cloud Platforms, Enterprise Systems & Secure Cloud | Alwarpet, Chennai | `info@novactech.com` |
+| 21 | **Clustrex Data** | Cloud Solutions, Web Engineering & Scalable API Architectures | Madipakkam, Chennai | `info@clustrex.com` |
+| 22 | **Agilysys** | Enterprise Cloud Hospitality Software, Scalable AWS Microservices | Ramanujan Intellion Park, Taramani | `india-corp@agilysys.com` |
 
 ---
 
@@ -60,5 +70,5 @@ python .\internship\send_emails.py --status
 
 ### 2. Dispatch All Pending Emails
 ```bash
-python .\internship\send_emails.py --send-all --delay 35
+python .\internship\send_emails.py --send-all --delay 30
 ```
