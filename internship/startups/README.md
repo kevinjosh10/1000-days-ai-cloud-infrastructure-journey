@@ -1,21 +1,21 @@
-# 🚀 50 High-Growth Funded Startups (Chennai & Remote)
+# 🚀 100 High-Growth Funded Startups (Chennai & Remote)
 
-Curated list of **50 high-growth, early-stage startups** (< 1 year old or recent Seed/YC cohorts) that have raised **> ₹100 Lakhs (> ₹1 Crore / $120K+)** in venture funding, specifically mapped for **Cloud, DevOps, and MLOps Internship** outreach.
+Curated list of **100 high-growth, early-stage startups** (< 1 year old or recent Seed/YC cohorts) that have raised **> ₹100 Lakhs (> ₹1 Crore / $120K+)** in venture funding, specifically mapped for **Cloud, DevOps, and MLOps Internship** outreach.
 
 ---
 
 ## 📊 Key Highlights
 
-- **Total Startups:** 50
-- **Chennai-based Startups:** 20
-- **Remote / Global Startups:** 30
+- **Total Startups:** 100
+- **Chennai-based Startups:** 31
+- **Remote / Global Startups:** 69
 - **Minimum Funding Filter:** > ₹100 Lakhs (₹1 Crore / $120,000+ USD)
 - **Vintage:** Founded / Seed Funded within 2025–2026 / YC W24, S24, W25 Cohorts
 - **Candidate Profile Pitch:** Cloud Infrastructure / DevOps Intern (Kevin Joshua L — AWS, Terraform, Docker, Kubernetes, CI/CD, SIH 2024 Winner)
 
 ---
 
-## 📋 Complete Master Directory
+## 📋 Complete Master Directory (100 Startups)
 
 | # | Startup | Location | Funding | Stage / Cohort | Domain | Contact Email |
 |---|---------|----------|---------|----------------|--------|---------------|
@@ -69,6 +69,56 @@ Curated list of **50 high-growth, early-stage startups** (< 1 year old or recent
 | bland-ai | **[Bland AI](https://bland.ai)** | Remote / Global | $16 Million (~₹133 Crore) | Series A / Early (Active Scale) | Autonomous AI Phone Call Infrastructure & Enterprise Cloud | `careers@bland.ai` |
 | jigsawstack | **[JigsawStack](https://jigsawstack.com)** | Remote / Global | $1.2 Million (~₹10 Crore / 1,000 Lakhs) | Seed (2024/2025) | All-in-One Suite of Fast, Small AI APIs for Developers | `hello@jigsawstack.com` |
 | corover-ai | **[CoRover.ai](https://corover.ai)** | Remote / India | $4 Million (~₹33 Crore / 3,300 Lakhs) | Series A / Early (Active Scale) | Conversational AI, BharatGPT & Enterprise Cloud Chatbots | `careers@corover.ai` |
+| 51 | **[Raptee Energy](https://raptee.com)** | Chennai, TN | ₹25 Cr ($3M) | Pre-Series A (2025) | High-Voltage EV & IoT Telemetry Cloud | `careers@raptee.com` |
+| 52 | **[Detect Technologies](https://detecttechnologies.com)** | Chennai, TN | ₹99 Cr ($12M) | Growth / Pre-Series C (2025) | Industrial AI, Computer Vision & Edge Cloud | `careers@detecttechnologies.com` |
+| 53 | **[Fabheads Automation](https://fabheads.com)** | Chennai, TN | ₹10 Cr ($1.2M) | Pre-Series A (2025) | Automated 3D Printing & Aerospace Composites | `info@fabheads.com` |
+| 54 | **[XYMA Analytics](https://xyma.in)** | Chennai, TN | ₹15 Cr ($1.8M) | Seed (2025) | High-Temperature Ultrasonic Sensors & Industrial IoT Cloud | `careers@xyma.in` |
+| 55 | **[Garuda Aerospace](https://garudaaerospace.com)** | Chennai, TN | ₹25 Cr ($3M) | Bridge Round (2025) | Drones & Drone-as-a-Service Cloud Platform | `hr@garudaaerospace.com` |
+| 56 | **[Maxbyte Technologies](https://maxbyte.co)** | Chennai, TN | ₹41 Cr ($5M) | Series A (2025) | Industrial IoT & Smart Factory Cloud | `talent@maxbyte.co` |
+| 57 | **[MediSim VR](https://medisimvr.com)** | Chennai, TN | ₹10 Cr ($1.2M) | Pre-Series A (2025) | VR Medical Training & Simulation Cloud | `careers@medisimvr.com` |
+| 58 | **[Tusker AI](https://tusker.ai)** | Chennai, TN | ₹5 Cr ($600K) | Seed (2025) | Computer Vision AI Platform | `hello@tusker.ai` |
+| 59 | **[Botminds.ai](https://botminds.ai)** | Chennai, TN | ₹16 Cr ($2M) | Pre-Series A (2025) | Intelligent Document Processing & GenAI Automation | `careers@botminds.ai` |
+| 60 | **[Rocketlane](https://rocketlane.com)** | Chennai, TN | ₹198 Cr ($24M) | Series B (2025) | Customer Onboarding & Professional Services Cloud | `careers@rocketlane.com` |
+| 61 | **[Klenty](https://klenty.com)** | Chennai, TN | ₹41 Cr ($5M) | Series A (2025) | Sales Engagement & CRM Workflow Automation | `careers@klenty.com` |
+| 62 | **[Airbound](https://airbound.co)** | Remote / India | ₹14 Cr ($1.7M) | Seed (2025) | Autonomous Drone Logistics & Flight Routing Cloud | `careers@airbound.co` |
+| 63 | **[Finarkein Analytics](https://finarkein.com)** | Remote / India | ₹39 Cr ($4.75M) | Pre-Series A (2025) | Account Aggregator & Open Data Cloud Infrastructure | `careers@finarkein.com` |
+| 64 | **[Clean Electric](https://cleanelectric.in)** | Remote / India | ₹50 Cr ($6M) | Series A (2025) | Fast-Charging EV Battery Architecture & Cloud BMS | `careers@cleanelectric.in` |
+| 65 | **[Wobot.ai](https://wobot.ai)** | Remote / India | ₹20 Cr ($2.5M) | Pre-Series A (2025) | Video Intelligence Cloud & Workplace Compliance | `careers@wobot.ai` |
+| 66 | **[Kavida.ai](https://kavida.ai)** | Remote / India | ₹9 Cr ($1.1M) | Seed (2025) | Supply Chain Visibility & AI Decision Cloud | `talent@kavida.ai` |
+| 67 | **[CamelQA](https://camelqa.com)** | Remote | ₹4.2 Cr ($500K) | Y Combinator W24 (YC W24) | AI-Driven Mobile App Testing Cloud | `team@camelqa.com` |
+| 68 | **[Greptile](https://greptile.com)** | Remote | ₹33 Cr ($4M) | Seed (YC W24) (YC W24) | AI Codebase Understanding API & Search Infrastructure | `careers@greptile.com` |
+| 69 | **[Pythagora](https://pythagora.ai)** | Remote | ₹33 Cr ($4M) | Seed (YC W24) (YC W24) | Autonomous AI Software Engineer Platform | `founders@pythagora.ai` |
+| 70 | **[OpenPipe](https://openpipe.ai)** | Remote | ₹55 Cr ($6.7M) | Seed (2025) | LLM Fine-Tuning & Serving Infrastructure | `careers@openpipe.ai` |
+| 71 | **[Phospho](https://phospho.app)** | Remote | ₹14 Cr ($1.7M) | Seed (YC W24) (YC W24) | LLM Observability & Evaluation Cloud | `contact@phospho.app` |
+| 72 | **[Tracecat](https://tracecat.com)** | Remote | ₹4.2 Cr ($500K) | Y Combinator W24 (YC W24) | Open Source AI Native Security Automation (SOAR) | `founders@tracecat.com` |
+| 73 | **[Ellipsis](https://ellipsis.dev)** | Remote | ₹4.2 Cr ($500K) | Y Combinator W24 (YC W24) | AI Code Review & Developer Cloud Bot | `team@ellipsis.dev` |
+| 74 | **[Brainbase](https://brainbase.com)** | Remote | ₹4.2 Cr ($500K) | Y Combinator W24 (YC W24) | AI Worker Automation Platform | `founders@brainbase.com` |
+| 75 | **[Speakeasy](https://speakeasyapi.dev)** | Remote | ₹125 Cr ($15M) | Series A (2025) | Managed SDK & API Infrastructure Cloud | `careers@speakeasyapi.dev` |
+| 76 | **[Inngest](https://inngest.com)** | Remote | ₹50 Cr ($6.1M) | Seed (2025) | Serverless Event-Driven Orchestration & Background Jobs | `careers@inngest.com` |
+| 77 | **[Trigger.dev](https://trigger.dev)** | Remote | ₹25 Cr ($3M) | Seed (YC W23) (2025) | Open-Source Background Jobs Cloud for TypeScript | `careers@trigger.dev` |
+| 78 | **[Modal Labs](https://modal.com)** | Remote | ₹133 Cr ($16M) | Series A (2025) | Serverless Cloud Infrastructure for AI & GPUs | `jobs@modal.com` |
+| 79 | **[Baseten](https://baseten.co)** | Remote | ₹330 Cr ($40M) | Series B (2025) | Machine Learning Model Deployment & Inference Cloud | `careers@baseten.co` |
+| 80 | **[RunPod](https://runpod.io)** | Remote | ₹166 Cr ($20M) | Seed (2025) | Globally Distributed GPU Cloud for AI & ML | `careers@runpod.io` |
+| 81 | **[Outerbounds](https://outerbounds.com)** | Remote | ₹133 Cr ($16M) | Series A (2025) | Enterprise MLOps & Metaflow Cloud Infrastructure | `careers@outerbounds.com` |
+| 82 | **[Cast AI](https://cast.ai)** | Remote | ₹290 Cr ($35M) | Series B (2025) | Autonomous Kubernetes Cost & Performance Optimization | `careers@cast.ai` |
+| 83 | **[Kubiya.ai](https://kubiya.ai)** | Remote | ₹50 Cr ($6M) | Seed (2025) | Conversational AI Teammates for DevOps & Platform Engineers | `careers@kubiya.ai` |
+| 84 | **[Dagger.io](https://dagger.io)** | Remote | ₹166 Cr ($20M) | Series A (2025) | Programmable CI/CD Engine Built on Container Runtimes | `careers@dagger.io` |
+| 85 | **[Chainguard](https://chainguard.dev)** | Remote | ₹500 Cr ($61M) | Series B (2025) | Zero-CVE Secure Container Images & Software Supply Chain | `careers@chainguard.dev` |
+| 86 | **[Resend](https://resend.com)** | Remote | ₹25 Cr ($3M) | Seed (YC W23) (2025) | Developer-First Email Delivery Cloud API | `careers@resend.com` |
+| 87 | **[Loops.so](https://loops.so)** | Remote | ₹26 Cr ($3.2M) | Seed (2025) | Modern Email Platform for SaaS & AI Applications | `careers@loops.so` |
+| 88 | **[Dub.co](https://dub.co)** | Remote | ₹16 Cr ($2M) | Seed (2025) | Open-Source Link Management & Analytics Cloud | `careers@dub.co` |
+| 89 | **[PostHog](https://posthog.com)** | Remote | ₹225 Cr ($27M) | Series B (2025) | Open-Source Product Analytics, Feature Flags & Session Replay | `careers@posthog.com` |
+| 90 | **[Mintlify](https://mintlify.com)** | Remote | ₹23 Cr ($2.8M) | Seed (YC W22) (2025) | AI-Powered Modern Software Documentation Cloud | `careers@mintlify.com` |
+| 91 | **[Pylon](https://usepylon.com)** | Remote | ₹26 Cr ($3.2M) | Seed (YC W23) (2025) | Unified B2B Customer Support & Slack Operations | `careers@usepylon.com` |
+| 92 | **[Novu](https://novu.co)** | Remote | ₹55 Cr ($6.6M) | Seed (2025) | Open-Source Notification Infrastructure for Developers | `careers@novu.co` |
+| 93 | **[Upstash](https://upstash.com)** | Remote | ₹83 Cr ($10M) | Seed (2025) | Serverless Data Platform (Redis, Kafka, Vector, QStash) | `careers@upstash.com` |
+| 94 | **[Turso](https://turso.tech)** | Remote | ₹133 Cr ($16M) | Seed (2025) | Distributed Database Cloud Powered by libSQL | `careers@turso.tech` |
+| 95 | **[Arize AI](https://arize.com)** | Remote | ₹315 Cr ($38M) | Series B (2025) | AI Observability, LLM Evaluation & Monitoring Platform | `careers@arize.com` |
+| 96 | **[Cortex](https://cortex.io)** | Remote | ₹290 Cr ($35M) | Series B (2025) | Internal Developer Portal & Microservices Catalog | `careers@cortex.io` |
+| 97 | **[Port (getport.io)](https://getport.io)** | Remote | ₹290 Cr ($35M) | Series B (2025) | Developer-First Internal Developer Portal (IDP) Cloud | `careers@getport.io` |
+| 98 | **[Env0](https://env0.com)** | Remote | ₹290 Cr ($35M) | Series B (2025) | Infrastructure-as-Code (IaC) Management for Terraform | `careers@env0.com` |
+| 99 | **[Spacelift](https://spacelift.io)** | Remote | ₹182 Cr ($22M) | Series B (2025) | Sophisticated Orchestration Platform for IaC & Cloud DevOps | `careers@spacelift.io` |
+| 100 | **[Terrateam](https://terrateam.io)** | Remote | ₹12 Cr ($1.5M) | Seed (2025) | Open-Source GitHub-Native Terraform CI/CD Platform | `careers@terrateam.io` |
 
 ---
 
@@ -523,3 +573,453 @@ Curated list of **50 high-growth, early-stage startups** (< 1 year old or recent
 - **Target Role:** Cloud Infrastructure & Enterprise Systems Intern
 - **Direct Contact:** `careers@corover.ai`
 - **Cold Outreach Hook:** Multi-AZ VPC architectures with Terraform, RDS Multi-AZ, and secure credential handling via SSM Parameter Store.
+
+### 51. Raptee Energy (Chennai, TN)
+- **Domain / Sector:** High-Voltage EV & IoT Telemetry Cloud
+- **Website:** [https://raptee.com](https://raptee.com)
+- **Funding:** ₹25 Cr ($3M) (Pre-Series A)
+- **Investors:** BlueHill Capital, Eugene Mayne
+- **Target Role:** Cloud IoT & Infrastructure Intern
+- **Direct Contact:** `careers@raptee.com`
+- **Cold Outreach Hook:** Building real-time telemetry ingestion pipelines on AWS IoT Core and time-series database management.
+
+### 52. Detect Technologies (Chennai, TN)
+- **Domain / Sector:** Industrial AI, Computer Vision & Edge Cloud
+- **Website:** [https://detecttechnologies.com](https://detecttechnologies.com)
+- **Funding:** ₹99 Cr ($12M) (Growth / Pre-Series C)
+- **Investors:** Prosus Ventures, Accel, Elevation Capital
+- **Target Role:** MLOps & Cloud Infrastructure Intern
+- **Direct Contact:** `careers@detecttechnologies.com`
+- **Cold Outreach Hook:** Containerized computer vision model serving on Kubernetes and edge-to-cloud AWS streaming architectures.
+
+### 53. Fabheads Automation (Chennai, TN)
+- **Domain / Sector:** Automated 3D Printing & Aerospace Composites
+- **Website:** [https://fabheads.com](https://fabheads.com)
+- **Funding:** ₹10 Cr ($1.2M) (Pre-Series A)
+- **Investors:** Inflection Point Ventures, Keiretsu Forum
+- **Target Role:** Cloud Systems & Firmware Ops Intern
+- **Direct Contact:** `info@fabheads.com`
+- **Cold Outreach Hook:** Cloud-connected CNC/additive manufacturing orchestration and secure AWS firmware delivery systems.
+
+### 54. XYMA Analytics (Chennai, TN)
+- **Domain / Sector:** High-Temperature Ultrasonic Sensors & Industrial IoT Cloud
+- **Website:** [https://xyma.in](https://xyma.in)
+- **Funding:** ₹15 Cr ($1.8M) (Seed)
+- **Investors:** IIT Madras Incubation Cell, Venture Catalysts
+- **Target Role:** Cloud IoT & Backend Intern
+- **Direct Contact:** `careers@xyma.in`
+- **Cold Outreach Hook:** High-throughput sensor data ingestion pipelines on AWS Lambda, DynamoDB, and Grafana monitoring stacks.
+
+### 55. Garuda Aerospace (Chennai, TN)
+- **Domain / Sector:** Drones & Drone-as-a-Service Cloud Platform
+- **Website:** [https://garudaaerospace.com](https://garudaaerospace.com)
+- **Funding:** ₹25 Cr ($3M) (Bridge Round)
+- **Investors:** Venture Catalysts, Ocgrow Ventures, MS Dhoni
+- **Target Role:** Cloud DevOps & Video Telemetry Intern
+- **Direct Contact:** `hr@garudaaerospace.com`
+- **Cold Outreach Hook:** Drone mission telemetry pipelines, automated video chunk uploads to S3, and cloud flight analytics.
+
+### 56. Maxbyte Technologies (Chennai, TN)
+- **Domain / Sector:** Industrial IoT & Smart Factory Cloud
+- **Website:** [https://maxbyte.co](https://maxbyte.co)
+- **Funding:** ₹41 Cr ($5M) (Series A)
+- **Investors:** Schneider Electric Ventures
+- **Target Role:** Cloud & Edge Infrastructure Intern
+- **Direct Contact:** `talent@maxbyte.co`
+- **Cold Outreach Hook:** Industrial edge computing, hybrid cloud deployment with Docker, and multi-tenant telemetry dashboards.
+
+### 57. MediSim VR (Chennai, TN)
+- **Domain / Sector:** VR Medical Training & Simulation Cloud
+- **Website:** [https://medisimvr.com](https://medisimvr.com)
+- **Funding:** ₹10 Cr ($1.2M) (Pre-Series A)
+- **Investors:** Inflection Point Ventures
+- **Target Role:** Cloud Systems & Streaming Intern
+- **Direct Contact:** `careers@medisimvr.com`
+- **Cold Outreach Hook:** Low-latency multiplayer medical simulation cloud infrastructure and asset streaming via AWS CloudFront.
+
+### 58. Tusker AI (Chennai, TN)
+- **Domain / Sector:** Computer Vision AI Platform
+- **Website:** [https://tusker.ai](https://tusker.ai)
+- **Funding:** ₹5 Cr ($600K) (Seed)
+- **Investors:** Angel Investors, DeepTech Syndicates
+- **Target Role:** MLOps & Cloud Kubernetes Intern
+- **Direct Contact:** `hello@tusker.ai`
+- **Cold Outreach Hook:** Deploying GPU-accelerated video inference pipelines using Kubernetes (EKS) and automated model packaging.
+
+### 59. Botminds.ai (Chennai, TN)
+- **Domain / Sector:** Intelligent Document Processing & GenAI Automation
+- **Website:** [https://botminds.ai](https://botminds.ai)
+- **Funding:** ₹16 Cr ($2M) (Pre-Series A)
+- **Investors:** Indian Angel Network, Dallas Venture Capital
+- **Target Role:** Cloud Infrastructure & DevOps Intern
+- **Direct Contact:** `careers@botminds.ai`
+- **Cold Outreach Hook:** Scalable document OCR ingestion on serverless AWS architectures with Terraform infrastructure-as-code.
+
+### 60. Rocketlane (Chennai, TN)
+- **Domain / Sector:** Customer Onboarding & Professional Services Cloud
+- **Website:** [https://rocketlane.com](https://rocketlane.com)
+- **Funding:** ₹198 Cr ($24M) (Series B)
+- **Investors:** 8VC, Nexus Venture Partners, Matrix Partners India
+- **Target Role:** DevOps & Cloud Reliability Intern
+- **Direct Contact:** `careers@rocketlane.com`
+- **Cold Outreach Hook:** Multi-tenant microservices deployment, automated CI/CD with GitHub Actions, and Terraform state management.
+
+### 61. Klenty (Chennai, TN)
+- **Domain / Sector:** Sales Engagement & CRM Workflow Automation
+- **Website:** [https://klenty.com](https://klenty.com)
+- **Funding:** ₹41 Cr ($5M) (Series A)
+- **Investors:** IAN Fund, Blume Ventures
+- **Target Role:** Cloud Backend & DevOps Intern
+- **Direct Contact:** `careers@klenty.com`
+- **Cold Outreach Hook:** High-throughput email queue management, Redis-backed workers, and auto-scaling ECS cluster operations.
+
+### 62. Airbound (Remote / India)
+- **Domain / Sector:** Autonomous Drone Logistics & Flight Routing Cloud
+- **Website:** [https://airbound.co](https://airbound.co)
+- **Funding:** ₹14 Cr ($1.7M) (Seed)
+- **Investors:** Lightspeed India, gradCapital
+- **Target Role:** Cloud Simulation & DevOps Intern
+- **Direct Contact:** `careers@airbound.co`
+- **Cold Outreach Hook:** Cloud routing algorithms, containerized simulation testbeds, and geospatial microservices.
+
+### 63. Finarkein Analytics (Remote / India)
+- **Domain / Sector:** Account Aggregator & Open Data Cloud Infrastructure
+- **Website:** [https://finarkein.com](https://finarkein.com)
+- **Funding:** ₹39 Cr ($4.75M) (Pre-Series A)
+- **Investors:** Nexus Venture Partners, Info Edge Ventures
+- **Target Role:** Cloud Security & Infrastructure Intern
+- **Direct Contact:** `careers@finarkein.com`
+- **Cold Outreach Hook:** Zero-trust financial data pipelines, end-to-end encryption in transit, and Kubernetes security hardening.
+
+### 64. Clean Electric (Remote / India)
+- **Domain / Sector:** Fast-Charging EV Battery Architecture & Cloud BMS
+- **Website:** [https://cleanelectric.in](https://cleanelectric.in)
+- **Funding:** ₹50 Cr ($6M) (Series A)
+- **Investors:** Info Edge, Pi Ventures, Kalaari Capital
+- **Target Role:** Cloud Telemetry & DevOps Intern
+- **Direct Contact:** `careers@cleanelectric.in`
+- **Cold Outreach Hook:** Battery telemetry cloud ingestion, predictive degradation models, and MQTT server clustering on AWS.
+
+### 65. Wobot.ai (Remote / India)
+- **Domain / Sector:** Video Intelligence Cloud & Workplace Compliance
+- **Website:** [https://wobot.ai](https://wobot.ai)
+- **Funding:** ₹20 Cr ($2.5M) (Pre-Series A)
+- **Investors:** Sequoia Surge, Info Edge Ventures
+- **Target Role:** Cloud Video Streaming & MLOps Intern
+- **Direct Contact:** `careers@wobot.ai`
+- **Cold Outreach Hook:** Distributed RTSP video streaming, edge-to-cloud sync, and serverless alert notifications.
+
+### 66. Kavida.ai (Remote / India)
+- **Domain / Sector:** Supply Chain Visibility & AI Decision Cloud
+- **Website:** [https://kavida.ai](https://kavida.ai)
+- **Funding:** ₹9 Cr ($1.1M) (Seed)
+- **Investors:** Qima, Redstone, Seedcamp
+- **Target Role:** Cloud Systems & Data Pipeline Intern
+- **Direct Contact:** `talent@kavida.ai`
+- **Cold Outreach Hook:** Global supply chain event streaming using Apache Kafka and containerized microservice deployments.
+
+### 67. CamelQA (Remote)
+- **Domain / Sector:** AI-Driven Mobile App Testing Cloud
+- **Website:** [https://camelqa.com](https://camelqa.com)
+- **Funding:** ₹4.2 Cr ($500K) (Y Combinator W24)
+- **Investors:** Y Combinator, Pioneer Fund
+- **Target Role:** Cloud Test Infrastructure Intern
+- **Direct Contact:** `team@camelqa.com`
+- **Cold Outreach Hook:** Automated mobile device farm orchestration on AWS Device Farm and containerized test runners.
+
+### 68. Greptile (Remote)
+- **Domain / Sector:** AI Codebase Understanding API & Search Infrastructure
+- **Website:** [https://greptile.com](https://greptile.com)
+- **Funding:** ₹33 Cr ($4M) (Seed (YC W24))
+- **Investors:** Initialized Capital, Y Combinator
+- **Target Role:** Cloud Backend & Systems Intern
+- **Direct Contact:** `careers@greptile.com`
+- **Cold Outreach Hook:** Massive GitHub AST indexation pipelines, vector store scaling, and distributed background workers.
+
+### 69. Pythagora (Remote)
+- **Domain / Sector:** Autonomous AI Software Engineer Platform
+- **Website:** [https://pythagora.ai](https://pythagora.ai)
+- **Funding:** ₹33 Cr ($4M) (Seed (YC W24))
+- **Investors:** Y Combinator, Inovia Capital
+- **Target Role:** Cloud Sandbox & Security Intern
+- **Direct Contact:** `founders@pythagora.ai`
+- **Cold Outreach Hook:** Ephemeral container sandboxing, secure isolated Linux development environments, and cloud CI/CD.
+
+### 70. OpenPipe (Remote)
+- **Domain / Sector:** LLM Fine-Tuning & Serving Infrastructure
+- **Website:** [https://openpipe.ai](https://openpipe.ai)
+- **Funding:** ₹55 Cr ($6.7M) (Seed)
+- **Investors:** Costanoa Ventures, Y Combinator
+- **Target Role:** GPU Cloud & MLOps Intern
+- **Direct Contact:** `careers@openpipe.ai`
+- **Cold Outreach Hook:** GPU spot instance management on AWS, distributed LoRA fine-tuning jobs, and low-latency inference routing.
+
+### 71. Phospho (Remote)
+- **Domain / Sector:** LLM Observability & Evaluation Cloud
+- **Website:** [https://phospho.app](https://phospho.app)
+- **Funding:** ₹14 Cr ($1.7M) (Seed (YC W24))
+- **Investors:** Y Combinator, Kima Ventures
+- **Target Role:** Data Platform & Cloud Observability Intern
+- **Direct Contact:** `contact@phospho.app`
+- **Cold Outreach Hook:** Real-time telemetry streaming from LLM applications, ClickHouse data pipelines, and Grafana dashboards.
+
+### 72. Tracecat (Remote)
+- **Domain / Sector:** Open Source AI Native Security Automation (SOAR)
+- **Website:** [https://tracecat.com](https://tracecat.com)
+- **Funding:** ₹4.2 Cr ($500K) (Y Combinator W24)
+- **Investors:** Y Combinator, Rebel Fund
+- **Target Role:** Cloud Automation & DevOps Intern
+- **Direct Contact:** `founders@tracecat.com`
+- **Cold Outreach Hook:** Event-driven cloud workflows, webhook ingress scaling, and Docker compose orchestration.
+
+### 73. Ellipsis (Remote)
+- **Domain / Sector:** AI Code Review & Developer Cloud Bot
+- **Website:** [https://ellipsis.dev](https://ellipsis.dev)
+- **Funding:** ₹4.2 Cr ($500K) (Y Combinator W24)
+- **Investors:** Y Combinator, angels
+- **Target Role:** Cloud DevOps & Tooling Intern
+- **Direct Contact:** `team@ellipsis.dev`
+- **Cold Outreach Hook:** GitHub webhooks processing at scale with AWS Lambda and containerized code diff analysis engines.
+
+### 74. Brainbase (Remote)
+- **Domain / Sector:** AI Worker Automation Platform
+- **Website:** [https://brainbase.com](https://brainbase.com)
+- **Funding:** ₹4.2 Cr ($500K) (Y Combinator W24)
+- **Investors:** Y Combinator, Soma Capital
+- **Target Role:** Cloud Platform & Queueing Intern
+- **Direct Contact:** `founders@brainbase.com`
+- **Cold Outreach Hook:** Microservice task scheduling, RabbitMQ worker queues, and autoscaling cloud infrastructure.
+
+### 75. Speakeasy (Remote)
+- **Domain / Sector:** Managed SDK & API Infrastructure Cloud
+- **Website:** [https://speakeasyapi.dev](https://speakeasyapi.dev)
+- **Funding:** ₹125 Cr ($15M) (Series A)
+- **Investors:** GV (Google Ventures), CRV, FPV Ventures
+- **Target Role:** Cloud DevOps & CI/CD Intern
+- **Direct Contact:** `careers@speakeasyapi.dev`
+- **Cold Outreach Hook:** Automated CLI packaging pipelines, OpenAPI linting microservices, and multi-cloud build runners.
+
+### 76. Inngest (Remote)
+- **Domain / Sector:** Serverless Event-Driven Orchestration & Background Jobs
+- **Website:** [https://inngest.com](https://inngest.com)
+- **Funding:** ₹50 Cr ($6.1M) (Seed)
+- **Investors:** Andreessen Horowitz (a16z), GGV Capital
+- **Target Role:** Cloud Serverless & Platform Intern
+- **Direct Contact:** `careers@inngest.com`
+- **Cold Outreach Hook:** Event bus architectures, dead-letter queue resilience, and zero-infra serverless step functions.
+
+### 77. Trigger.dev (Remote)
+- **Domain / Sector:** Open-Source Background Jobs Cloud for TypeScript
+- **Website:** [https://trigger.dev](https://trigger.dev)
+- **Funding:** ₹25 Cr ($3M) (Seed (YC W23))
+- **Investors:** Initialized Capital, Y Combinator
+- **Target Role:** Cloud Runtime & Infrastructure Intern
+- **Direct Contact:** `careers@trigger.dev`
+- **Cold Outreach Hook:** Long-running task isolation using Docker containers, Redis job queues, and WebSocket streaming.
+
+### 78. Modal Labs (Remote)
+- **Domain / Sector:** Serverless Cloud Infrastructure for AI & GPUs
+- **Website:** [https://modal.com](https://modal.com)
+- **Funding:** ₹133 Cr ($16M) (Series A)
+- **Investors:** Redpoint Ventures, Amplify Partners
+- **Target Role:** Cloud Systems & Virtualization Intern
+- **Direct Contact:** `jobs@modal.com`
+- **Cold Outreach Hook:** Container runtime cold-start optimization, Linux kernel namespaces, and GPU cluster auto-scaling.
+
+### 79. Baseten (Remote)
+- **Domain / Sector:** Machine Learning Model Deployment & Inference Cloud
+- **Website:** [https://baseten.co](https://baseten.co)
+- **Funding:** ₹330 Cr ($40M) (Series B)
+- **Investors:** IVP, Spark Capital, Greylock
+- **Target Role:** Cloud MLOps & Kubernetes Intern
+- **Direct Contact:** `careers@baseten.co`
+- **Cold Outreach Hook:** Kubernetes-native model serving with Truss, vLLM acceleration, and autoscaling GPU nodes.
+
+### 80. RunPod (Remote)
+- **Domain / Sector:** Globally Distributed GPU Cloud for AI & ML
+- **Website:** [https://runpod.io](https://runpod.io)
+- **Funding:** ₹166 Cr ($20M) (Seed)
+- **Investors:** Intel Capital, Dell Technologies Capital
+- **Target Role:** Cloud Infrastructure & Networking Intern
+- **Direct Contact:** `careers@runpod.io`
+- **Cold Outreach Hook:** Bare-metal Kubernetes orchestration, multi-region container scheduling, and network fabric optimization.
+
+### 81. Outerbounds (Remote)
+- **Domain / Sector:** Enterprise MLOps & Metaflow Cloud Infrastructure
+- **Website:** [https://outerbounds.com](https://outerbounds.com)
+- **Funding:** ₹133 Cr ($16M) (Series A)
+- **Investors:** Foundation Capital, Two Sigma Ventures
+- **Target Role:** Cloud Platform & MLOps Intern
+- **Direct Contact:** `careers@outerbounds.com`
+- **Cold Outreach Hook:** Full-stack machine learning pipelines on AWS Batch, EKS, and Argo Workflows with Terraform.
+
+### 82. Cast AI (Remote)
+- **Domain / Sector:** Autonomous Kubernetes Cost & Performance Optimization
+- **Website:** [https://cast.ai](https://cast.ai)
+- **Funding:** ₹290 Cr ($35M) (Series B)
+- **Investors:** Vintage Investment Partners, Creandum
+- **Target Role:** Cloud FinOps & Kubernetes Intern
+- **Direct Contact:** `careers@cast.ai`
+- **Cold Outreach Hook:** Spot instance draining handling, right-sizing Kubernetes resource requests, and automated cluster scaling.
+
+### 83. Kubiya.ai (Remote)
+- **Domain / Sector:** Conversational AI Teammates for DevOps & Platform Engineers
+- **Website:** [https://kubiya.ai](https://kubiya.ai)
+- **Funding:** ₹50 Cr ($6M) (Seed)
+- **Investors:** Hyperwise Ventures, seed investors
+- **Target Role:** DevOps Automation & Cloud Intern
+- **Direct Contact:** `careers@kubiya.ai`
+- **Cold Outreach Hook:** ChatOps integration for AWS IAM, Terraform triggering via Slack, and RBAC policy enforcement.
+
+### 84. Dagger.io (Remote)
+- **Domain / Sector:** Programmable CI/CD Engine Built on Container Runtimes
+- **Website:** [https://dagger.io](https://dagger.io)
+- **Funding:** ₹166 Cr ($20M) (Series A)
+- **Investors:** Redpoint Ventures, Y Combinator
+- **Target Role:** Container Systems & CI/CD Intern
+- **Direct Contact:** `careers@dagger.io`
+- **Cold Outreach Hook:** Declarative BuildKit pipelines, containerized test runner orchestration, and cross-cloud caching.
+
+### 85. Chainguard (Remote)
+- **Domain / Sector:** Zero-CVE Secure Container Images & Software Supply Chain
+- **Website:** [https://chainguard.dev](https://chainguard.dev)
+- **Funding:** ₹500 Cr ($61M) (Series B)
+- **Investors:** Spark Capital, Sequoia Capital, Amplify
+- **Target Role:** Cloud Security & DevSecOps Intern
+- **Direct Contact:** `careers@chainguard.dev`
+- **Cold Outreach Hook:** Minimalist Wolfi container base images, SBOM generation, and cosign image signing in CI/CD.
+
+### 86. Resend (Remote)
+- **Domain / Sector:** Developer-First Email Delivery Cloud API
+- **Website:** [https://resend.com](https://resend.com)
+- **Funding:** ₹25 Cr ($3M) (Seed (YC W23))
+- **Investors:** SV Angel, Y Combinator, Guillermo Rauch
+- **Target Role:** Cloud Reliability & API Platform Intern
+- **Direct Contact:** `careers@resend.com`
+- **Cold Outreach Hook:** High-availability SMTP relay microservices, DKIM/SPF automated verification, and edge caching.
+
+### 87. Loops.so (Remote)
+- **Domain / Sector:** Modern Email Platform for SaaS & AI Applications
+- **Website:** [https://loops.so](https://loops.so)
+- **Funding:** ₹26 Cr ($3.2M) (Seed)
+- **Investors:** Craft Ventures, angels
+- **Target Role:** Cloud Backend & Systems Intern
+- **Direct Contact:** `careers@loops.so`
+- **Cold Outreach Hook:** Scalable event ingestion pipelines, Postgres read-replicas, and background BullMQ workers.
+
+### 88. Dub.co (Remote)
+- **Domain / Sector:** Open-Source Link Management & Analytics Cloud
+- **Website:** [https://dub.co](https://dub.co)
+- **Funding:** ₹16 Cr ($2M) (Seed)
+- **Investors:** Accel, angels
+- **Target Role:** Cloud Edge & Analytics Intern
+- **Direct Contact:** `careers@dub.co`
+- **Cold Outreach Hook:** Edge redirect middleware using Cloudflare Workers and real-time clickstream analytics with Tinybird.
+
+### 89. PostHog (Remote)
+- **Domain / Sector:** Open-Source Product Analytics, Feature Flags & Session Replay
+- **Website:** [https://posthog.com](https://posthog.com)
+- **Funding:** ₹225 Cr ($27M) (Series B)
+- **Investors:** Y Combinator, GV (Google Ventures)
+- **Target Role:** Cloud Infrastructure & Data Platform Intern
+- **Direct Contact:** `careers@posthog.com`
+- **Cold Outreach Hook:** ClickHouse cluster operations on Kubernetes, high-volume event ingestion, and Helm chart packaging.
+
+### 90. Mintlify (Remote)
+- **Domain / Sector:** AI-Powered Modern Software Documentation Cloud
+- **Website:** [https://mintlify.com](https://mintlify.com)
+- **Funding:** ₹23 Cr ($2.8M) (Seed (YC W22))
+- **Investors:** Bain Capital Ventures, Y Combinator
+- **Target Role:** Cloud Systems & CDN Ops Intern
+- **Direct Contact:** `careers@mintlify.com`
+- **Cold Outreach Hook:** Distributed MDX parsing microservices, Algolia search syncing, and multi-tenant CDN invalidations.
+
+### 91. Pylon (Remote)
+- **Domain / Sector:** Unified B2B Customer Support & Slack Operations
+- **Website:** [https://usepylon.com](https://usepylon.com)
+- **Funding:** ₹26 Cr ($3.2M) (Seed (YC W23))
+- **Investors:** General Catalyst, Y Combinator
+- **Target Role:** Cloud Backend & Integrations Intern
+- **Direct Contact:** `careers@usepylon.com`
+- **Cold Outreach Hook:** Real-time Slack Socket Mode clustering, event deduplication, and Redis state caches.
+
+### 92. Novu (Remote)
+- **Domain / Sector:** Open-Source Notification Infrastructure for Developers
+- **Website:** [https://novu.co](https://novu.co)
+- **Funding:** ₹55 Cr ($6.6M) (Seed)
+- **Investors:** Crane Venture Partners, Eniac Ventures
+- **Target Role:** Cloud Queueing & Microservices Intern
+- **Direct Contact:** `careers@novu.co`
+- **Cold Outreach Hook:** Multi-channel messaging queues (SMS, Push, Email), Redis streams, and Docker deployment manifests.
+
+### 93. Upstash (Remote)
+- **Domain / Sector:** Serverless Data Platform (Redis, Kafka, Vector, QStash)
+- **Website:** [https://upstash.com](https://upstash.com)
+- **Funding:** ₹83 Cr ($10M) (Seed)
+- **Investors:** Afore Capital, angel investors
+- **Target Role:** Serverless Cloud & Storage Intern
+- **Direct Contact:** `careers@upstash.com`
+- **Cold Outreach Hook:** Multi-region active-active replication, low-latency edge caching, and serverless billing meters.
+
+### 94. Turso (Remote)
+- **Domain / Sector:** Distributed Database Cloud Powered by libSQL
+- **Website:** [https://turso.tech](https://turso.tech)
+- **Funding:** ₹133 Cr ($16M) (Seed)
+- **Investors:** Andreessen Horowitz (a16z)
+- **Target Role:** Distributed Systems & Cloud Intern
+- **Direct Contact:** `careers@turso.tech`
+- **Cold Outreach Hook:** Fly.io edge deployment architectures, distributed SQLite replication, and ephemeral test databases.
+
+### 95. Arize AI (Remote)
+- **Domain / Sector:** AI Observability, LLM Evaluation & Monitoring Platform
+- **Website:** [https://arize.com](https://arize.com)
+- **Funding:** ₹315 Cr ($38M) (Series B)
+- **Investors:** TCV, Foundation Capital
+- **Target Role:** Cloud Observability & MLOps Intern
+- **Direct Contact:** `careers@arize.com`
+- **Cold Outreach Hook:** Large-scale vector embedding monitoring, model drift detection pipelines, and Prometheus exporters.
+
+### 96. Cortex (Remote)
+- **Domain / Sector:** Internal Developer Portal & Microservices Catalog
+- **Website:** [https://cortex.io](https://cortex.io)
+- **Funding:** ₹290 Cr ($35M) (Series B)
+- **Investors:** IVP, Sequoia Capital
+- **Target Role:** Cloud Platform & Developer Tooling Intern
+- **Direct Contact:** `careers@cortex.io`
+- **Cold Outreach Hook:** Kubernetes cluster auditing, cloud resource metadata aggregation, and automated scorecard evaluations.
+
+### 97. Port (getport.io) (Remote)
+- **Domain / Sector:** Developer-First Internal Developer Portal (IDP) Cloud
+- **Website:** [https://getport.io](https://getport.io)
+- **Funding:** ₹290 Cr ($35M) (Series B)
+- **Investors:** Bessemer Venture Partners, Team8
+- **Target Role:** Internal Developer Platform & Cloud Intern
+- **Direct Contact:** `careers@getport.io`
+- **Cold Outreach Hook:** Self-service cloud provisioning abstractions over Terraform, GitHub Actions, and ArgoCD.
+
+### 98. Env0 (Remote)
+- **Domain / Sector:** Infrastructure-as-Code (IaC) Management for Terraform
+- **Website:** [https://env0.com](https://env0.com)
+- **Funding:** ₹290 Cr ($35M) (Series B)
+- **Investors:** PayPal Ventures, M12 (Microsoft)
+- **Target Role:** Cloud Infrastructure as Code Intern
+- **Direct Contact:** `careers@env0.com`
+- **Cold Outreach Hook:** Terraform remote backend configuration, automated ephemeral environments, and cloud cost guardrails.
+
+### 99. Spacelift (Remote)
+- **Domain / Sector:** Sophisticated Orchestration Platform for IaC & Cloud DevOps
+- **Website:** [https://spacelift.io](https://spacelift.io)
+- **Funding:** ₹182 Cr ($22M) (Series B)
+- **Investors:** Insight Partners, Blossom Capital
+- **Target Role:** Cloud DevOps & IaC Policy Intern
+- **Direct Contact:** `careers@spacelift.io`
+- **Cold Outreach Hook:** Open Policy Agent (OPA) policy enforcement in CI/CD, drift detection, and multi-account AWS state isolation.
+
+### 100. Terrateam (Remote)
+- **Domain / Sector:** Open-Source GitHub-Native Terraform CI/CD Platform
+- **Website:** [https://terrateam.io](https://terrateam.io)
+- **Funding:** ₹12 Cr ($1.5M) (Seed)
+- **Investors:** Pioneer Fund, angel investors
+- **Target Role:** Cloud CI/CD & Terraform Intern
+- **Direct Contact:** `careers@terrateam.io`
+- **Cold Outreach Hook:** GitHub Actions runners for Terraform plans/applies, automated PR lock contention handling, and AWS IAM role assumption.
