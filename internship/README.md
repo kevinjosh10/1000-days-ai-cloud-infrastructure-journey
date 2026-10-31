@@ -22,7 +22,7 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 
 ---
 
-## 🏢 Target Companies Database (40 Companies in Chennai)
+## 🏢 Target Companies Database (50 Established Companies in Chennai)
 
 | # | Company | Focus / Specialization | Location in Chennai | Verified Contact Email |
 |---|---|---|---|---|
@@ -66,6 +66,16 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 | 38 | **Fournine Cloud Solutions** | Dedicated Cloud Migration & AWS/DevOps Consulting | Chennai / Regional | `contact@Fourninecloud.com` |
 | 39 | **Sify Technologies** | Cloud Data Centers, Managed Hybrid Cloud & Networking | TIDEL Park, Taramani | `online.sales@sifycorp.com` |
 | 40 | **Hakuna Matata Solutions** | Custom Cloud IoT & Enterprise Digital Platforms | Sholinganallur, Chennai | `sales@hakunamatatatech.com` |
+| 41 | **Kaar Technologies** | SAP Cloud Migration & Enterprise Cloud Infrastructure | Porur, Chennai | `careers@kaartech.com` |
+| 42 | **Bahwan CyberTek** | Enterprise Cloud Integration & Managed DevOps Services | OMR (Thoraipakkam), Chennai | `careers@bahwancybertek.com` |
+| 43 | **Financial Software & Systems (FSS)** | Digital Banking & PCI-DSS Secure Financial Cloud | OMR (Perungudi), Chennai | `careers@fss.co.in` |
+| 44 | **Intellect Design Arena** | Composable Banking Cloud Architecture & Kubernetes | Siruseri IT SEZ, Chennai | `careers@intellectdesign.com` |
+| 45 | **Ramco Systems** | Enterprise Cloud ERP, Aviation Maintenance Cloud & Global SaaS | Taramani, Chennai | `careers@ramco.com` |
+| 46 | **Maveric Systems** | Banking Cloud Modernization & DevOps Quality Engineering | DLF IT Park, Manapakkam, Chennai | `careers@maveric-systems.com` |
+| 47 | **Sutherland Global Services** | Digital Cloud Transformation & Enterprise Cloud Automation | Perungalathur / Velachery, Chennai | `careers@sutherlandglobal.com` |
+| 48 | **GAVS Technologies** | IP-Led AIOps & Managed Enterprise Cloud Operations | Sholinganallur, OMR, Chennai | `careers@gavstechnologies.com` |
+| 49 | **ObjectFrontier Software (OFS)** | Custom Cloud-Native Microservices & Cloud Modernization | Chennai One IT SEZ, Thoraipakkam, Chennai | `careers@objectfrontier.com` |
+| 50 | **Avanze Group** | Mortgage Workflow Cloud, S3 KMS Encryption & Serverless SaaS | DLF Cybercity, Manapakkam, Chennai | `careers@avanzegroup.com` |
 
 ---
 

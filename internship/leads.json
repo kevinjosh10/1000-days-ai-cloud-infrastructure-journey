@@ -398,5 +398,105 @@
     "contact_email": "sales@hakunamatatatech.com",
     "backup_email": "",
     "website": "https://www.hakunamatatatech.com"
+  },
+  {
+    "id": "kaartech",
+    "name": "Kaar Technologies",
+    "domain": "Enterprise Cloud Solutions, SAP Cloud Migration & Digital Transformation",
+    "location": "Porur, Chennai",
+    "target_role": "Cloud Solutions & Infrastructure Intern",
+    "contact_email": "careers@kaartech.com",
+    "backup_email": "",
+    "website": "https://www.kaartech.com"
+  },
+  {
+    "id": "bahwancybertek",
+    "name": "Bahwan CyberTek",
+    "domain": "Enterprise Digital Transformation, Cloud Integration & Managed Cloud Services",
+    "location": "OMR (Thoraipakkam), Chennai",
+    "target_role": "Cloud Engineering & DevOps Intern",
+    "contact_email": "careers@bahwancybertek.com",
+    "backup_email": "",
+    "website": "https://www.bahwancybertek.com"
+  },
+  {
+    "id": "fss",
+    "name": "Financial Software & Systems (FSS)",
+    "domain": "Digital Banking, Payments Infrastructure & Secure Financial Cloud",
+    "location": "OMR (Perungudi), Chennai",
+    "target_role": "Cloud Security & Infrastructure Intern",
+    "contact_email": "careers@fss.co.in",
+    "backup_email": "",
+    "website": "https://www.fsstech.com"
+  },
+  {
+    "id": "intellectdesign",
+    "name": "Intellect Design Arena",
+    "domain": "Fintech Platforms, Microservices Cloud Architecture & eGov Systems",
+    "location": "Siruseri IT SEZ, Chennai",
+    "target_role": "Cloud Platform & Reliability Intern",
+    "contact_email": "careers@intellectdesign.com",
+    "backup_email": "",
+    "website": "https://www.intellectdesign.com"
+  },
+  {
+    "id": "ramcosystems",
+    "name": "Ramco Systems",
+    "domain": "Enterprise Cloud ERP, Aviation Maintenance Cloud & Global Payroll SaaS",
+    "location": "Taramani, Chennai",
+    "target_role": "Cloud Systems & DevOps Intern",
+    "contact_email": "careers@ramco.com",
+    "backup_email": "",
+    "website": "https://www.ramco.com"
+  },
+  {
+    "id": "mavericsystems",
+    "name": "Maveric Systems",
+    "domain": "Banking Tech Modernization, Cloud Quality Engineering & DevOps",
+    "location": "DLF IT Park, Manapakkam, Chennai",
+    "target_role": "Cloud & DevOps Engineering Intern",
+    "contact_email": "careers@maveric-systems.com",
+    "backup_email": "",
+    "website": "https://www.maveric-systems.com"
+  },
+  {
+    "id": "sutherland",
+    "name": "Sutherland Global Services",
+    "domain": "Digital Cloud Transformation, Enterprise Automation & CX Cloud",
+    "location": "Perungalathur / Velachery, Chennai",
+    "target_role": "Cloud Infrastructure & Automation Intern",
+    "contact_email": "careers@sutherlandglobal.com",
+    "backup_email": "",
+    "website": "https://www.sutherlandglobal.com"
+  },
+  {
+    "id": "gavstechnologies",
+    "name": "GAVS Technologies",
+    "domain": "AIOps, Cloud Migration & Managed Enterprise Cloud Operations",
+    "location": "Sholinganallur, OMR, Chennai",
+    "target_role": "Cloud Operations & AIOps Intern",
+    "contact_email": "careers@gavstechnologies.com",
+    "backup_email": "",
+    "website": "https://www.gavstechnologies.com"
+  },
+  {
+    "id": "objectfrontier",
+    "name": "ObjectFrontier Software (OFS)",
+    "domain": "Custom Cloud Engineering, Microservices Architecture & Modernization",
+    "location": "Chennai One IT SEZ, Thoraipakkam, Chennai",
+    "target_role": "Cloud-Native Engineering Intern",
+    "contact_email": "careers@objectfrontier.com",
+    "backup_email": "",
+    "website": "https://www.objectfrontier.com"
+  },
+  {
+    "id": "avanzegroup",
+    "name": "Avanze Group",
+    "domain": "Mortgage Cloud Automation, Title Tech & Enterprise Document SaaS",
+    "location": "DLF Cybercity, Manapakkam, Chennai",
+    "target_role": "Cloud Backend & Infrastructure Intern",
+    "contact_email": "careers@avanzegroup.com",
+    "backup_email": "",
+    "website": "https://www.avanzegroup.com"
   }
 ]
