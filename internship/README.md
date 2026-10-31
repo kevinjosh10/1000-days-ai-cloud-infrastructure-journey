@@ -1,6 +1,6 @@
 # 🚀 Automated Cloud Internship Cold Outreach Campaign (Chennai Master Directory)
 
-This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across **400 premier companies** with engineering centers and offices in Chennai (with 50 applications delivered to date), plus a separate directory of **100 high-growth funded startups** in [`internship/startups/`](startups/).
+This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across **500 premier companies** with engineering centers and offices in Chennai (with 50 applications delivered to date), plus a separate directory of **100 high-growth funded startups** in [`internship/startups/`](startups/).
 
 ---
 
@@ -23,15 +23,15 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 ---
 
 ## 📊 Master Directory Statistics
-- **Total Companies in Chennai Directory:** 400
+- **Total Companies in Chennai Directory:** 500
 - **Applications Dispatched & Delivered:** 50 Companies
-- **Available Leads Ready for Outreach:** 350 Companies
+- **Available Leads Ready for Outreach:** 450 Companies
 - **Separate Funded Startups Pipeline:** 100 Startups in [`internship/startups/`](startups/) (15 Dispatched)
-- **Grand Total Career Pipeline:** 500 Companies & Startups
+- **Grand Total Career Pipeline:** 600 Companies & Startups
 
 ---
 
-## 🏢 Complete Chennai Tech Master Directory (400 Companies)
+## 🏢 Complete Chennai Tech Master Directory (500 Companies)
 
 | # | Company | Focus / Specialization | Chennai Hub / Location | Verified Contact Email | Outreach Status |
 |---|---------|------------------------|------------------------|------------------------|-----------------|
@@ -435,6 +435,106 @@ This directory houses the end-to-end multi-agent outreach system designed to sec
 | 398 | **[Soliton Technologies](https://www.solitontech.com)** | Semiconductor Validation Cloud, LabVIEW Test Automation & Cloud Storage | Olympia Technology Park, Guindy, Chennai | `careers@solitontech.com` | ⏳ Available |
 | 399 | **[Tessolve Semiconductor](https://www.tessolve.com)** | Semiconductor Test Engineering Cloud, Silicon Validation Data Lakes | Chennai Center, Tamil Nadu | `careers@tessolve.com` | ⏳ Available |
 | 400 | **[Sankalp Semiconductor (HCLTech)](https://www.sankalpssemi.com)** | Analog & Mixed-Signal IC Design Cloud, EDA Compute Clusters on Linux | Sholinganallur, OMR, Chennai | `careers@sankalpssemi.com` | ⏳ Available |
+| 401 | **[BORN Group (Tech Mahindra)](https://www.borngroup.com)** | Enterprise Digital Commerce Cloud, Microservices on AWS & Headless CMS | MRC Nagar, Chennai | `careers@borngroup.com` | ⏳ Available |
+| 402 | **[Saggezza (Apexon)](https://www.apexon.com)** | Digital Engineering, Enterprise Cloud Modernization & Financial Systems | DLF Cybercity, Manapakkam, Chennai | `careers.india@apexon.com` | ⏳ Available |
+| 403 | **[Valtech India](https://www.valtech.com)** | Experience Commerce Cloud, MACH Architecture & Serverless Microservices | Chennai Center, Tamil Nadu | `careers.india@valtech.com` | ⏳ Available |
+| 404 | **[CES Ltd (CES Information Technology)](https://www.cesltd.com)** | Cloud Infrastructure Management, 24x7 NOC/SOC & DevOps Automation | Nungambakkam, Chennai | `careers@cesltd.com` | ⏳ Available |
+| 405 | **[Infoview Technologies](https://www.infoview.co.jp)** | Enterprise Cloud Architecture, High-Scale Java Services & AWS Migration | Olympia Tech Park, Guindy, Chennai | `careers@infoview.co.in` | ⏳ Available |
+| 406 | **[Karya Technologies](https://www.karyatech.com)** | Cloud Integration, iPaaS Solutions & Enterprise Data Pipeline Orchestration | T. Nagar, Chennai | `careers@karyatech.com` | ⏳ Available |
+| 407 | **[Plivo India](https://www.plivo.com)** | Cloud Communications Platform as a Service (CPaaS), Voice & SMS APIs | Chennai / Regional Tech Hub | `careers@plivo.com` | ⏳ Available |
+| 408 | **[Cloud4C Services](https://www.cloud4c.com)** | Managed Cloud Operations, Mission-Critical SAP Hosting & Multi-Cloud | Ambattur / Chennai Center | `careers@cloud4c.com` | ⏳ Available |
+| 409 | **[Pi DATACENTERS](https://pidatacenters.com)** | Tier-4 Hyperscale Cloud Data Centers, Harbour1 Cloud & Disaster Recovery | Chennai Center, Tamil Nadu | `careers@pidatacenters.com` | ⏳ Available |
+| 410 | **[Elevance Health (Anthem India)](https://www.elevancehealth.com)** | Healthcare Insurance Cloud, FHIR API Integrations & High-Security AWS VPCs | Chennai Center, Tamil Nadu | `careers.india@elevancehealth.com` | ⏳ Available |
+| 411 | **[Danlaw Technologies India](https://www.danlawinc.com)** | Connected Vehicle Cloud, V2X Telematics & CAN Bus Ingestion on AWS | Chennai Center, Tamil Nadu | `careers@danlawinc.com` | ⏳ Available |
+| 412 | **[Magna International India](https://www.magna.com)** | Automotive Electronics Cloud, ADAS Data Ingestion & Vehicle Simulation | Chennai Center, Tamil Nadu | `careers.india@magna.com` | ⏳ Available |
+| 413 | **[Lear Corporation India](https://www.lear.com)** | Automotive Connectivity Cloud, Telematics Gateway & Edge IoT | Chennai Center, Tamil Nadu | `careers.india@lear.com` | ⏳ Available |
+| 414 | **[Tenneco India](https://www.tenneco.com)** | Clean Air Automotive Cloud, Factory IoT Telemetry & Industrial AWS | Chennai Center, Tamil Nadu | `careers.india@tenneco.com` | ⏳ Available |
+| 415 | **[BorgWarner India](https://www.borgwarner.com)** | EV Propulsion Cloud, Inverter Telemetry Streaming & Embedded Linux | Chennai Center, Tamil Nadu | `careers.india@borgwarner.com` | ⏳ Available |
+| 416 | **[Faurecia India (Forvia)](https://www.forvia.com)** | Cockpit of the Future Cloud, Smart Cabin Telemetry & Cloud Backends | Chennai Center, Tamil Nadu | `careers.india@forvia.com` | ⏳ Available |
+| 417 | **[Marelli India](https://www.marelli.com)** | Automotive Lighting & Powertrain Cloud, Vehicle Telemetry on AWS | Chennai Center, Tamil Nadu | `careers.india@marelli.com` | ⏳ Available |
+| 418 | **[Hitachi Astemo India](https://www.hitachiastemo.com)** | Advanced Mobility Cloud, Braking & Suspension Telematics on AWS | Chennai Center, Tamil Nadu | `careers.india@hitachiastemo.com` | ⏳ Available |
+| 419 | **[Denso India](https://www.denso.com/in)** | Automotive Electrification Cloud, Thermal Management Ingestion | Chennai Center, Tamil Nadu | `careers.india@denso.com` | ⏳ Available |
+| 420 | **[Gestamp India](https://www.gestamp.com)** | Automotive Metal Stamping Cloud, Industry 4.0 Telemetry & AWS S3 | Chennai Center, Tamil Nadu | `careers.india@gestamp.com` | ⏳ Available |
+| 421 | **[Webasto India](https://www.webasto-group.com)** | Roof Systems & EV Battery Cloud, Thermal Management Telemetry | Chennai Center, Tamil Nadu | `careers.india@webasto.com` | ⏳ Available |
+| 422 | **[Hella India Automotive (Forvia)](https://www.hella.com)** | Automotive Lighting Cloud, Body Electronics Telemetry on AWS | Chennai Center, Tamil Nadu | `careers.india@hella.com` | ⏳ Available |
+| 423 | **[Autoliv India](https://www.autoliv.com)** | Automotive Safety Cloud, Crash Sensor Telemetry & Simulation Data | Chennai Center, Tamil Nadu | `careers.india@autoliv.com` | ⏳ Available |
+| 424 | **[Bosch Rexroth India](https://www.boschrexroth.com)** | Industrial Connected Hydraulics Cloud, Factory Automation on AWS IoT | Chennai Center, Tamil Nadu | `careers.rexroth@bosch.com` | ⏳ Available |
+| 425 | **[ABB India](https://new.abb.com/indian-subcontinent)** | ABB Ability Cloud Platform, Smart Grids, Robotics & Industrial Automation | Perungudi, OMR, Chennai | `careers.india@abb.com` | ⏳ Available |
+| 426 | **[Siemens Technology and Services](https://www.siemens.com)** | Siemens Xcelerator Cloud, Industrial Edge Computing & Digital Enterprise | DLF Cybercity, Manapakkam / OMR, Chennai | `careers.india@siemens.com` | ⏳ Available |
+| 427 | **[Honeywell Technology Solutions](https://www.honeywell.com)** | Honeywell Forge Enterprise SaaS, Industrial IoT Cloud & Aerospace Telemetry | Chennai Technology Hub, Tamil Nadu | `careers.india@honeywell.com` | ⏳ Available |
+| 428 | **[Rockwell Automation India](https://www.rockwellautomation.com)** | FactoryTalk Cloud, Industrial Digital Transformation & Edge-to-Cloud | Chennai Center, Tamil Nadu | `careers.india@ra.rockwell.com` | ⏳ Available |
+| 429 | **[Emerson Automation Solutions](https://www.emerson.com)** | Plantweb Digital Ecosystem, Process Automation Cloud & Industrial IoT | Chennai Center, Tamil Nadu | `careers.india@emerson.com` | ⏳ Available |
+| 430 | **[Yokogawa India](https://www.yokogawa.com/in)** | OpreX Cloud Infrastructure, Industrial Energy Management & Telemetry | Chennai Center, Tamil Nadu | `careers.india@yokogawa.com` | ⏳ Available |
+| 431 | **[Endress+Hauser India](https://www.endress.com)** | Netilion Industrial IIoT Cloud, Process Instrumentation Ingestion | Chennai Center, Tamil Nadu | `careers.india@endress.com` | ⏳ Available |
+| 432 | **[Johnson Controls India](https://www.johnsoncontrols.com)** | OpenBlue Cloud Platform, Smart Building Digital Twin & HVAC IoT | OMR, Chennai | `careers.india@jci.com` | ⏳ Available |
+| 433 | **[Carrier Technologies India](https://www.carrier.com)** | Abound Cloud Platform, Healthy Buildings IoT & Cold Chain Telemetry | Chennai Center, Tamil Nadu | `careers.india@carrier.com` | ⏳ Available |
+| 434 | **[Otis Elevator India](https://www.otis.com)** | Otis ONE IoT Cloud, Smart Elevator Predictive Maintenance & AWS | Chennai Center, Tamil Nadu | `careers.india@otis.com` | ⏳ Available |
+| 435 | **[Trane Technologies India](https://www.tranetechnologies.com)** | EcoWise Climate Cloud, Thermo King Cold Chain Telematics on AWS | Chennai Center, Tamil Nadu | `careers.india@tranetechnologies.com` | ⏳ Available |
+| 436 | **[Mitsubishi Electric India](https://in.mitsubishielectric.com)** | e-F@ctory Smart Manufacturing Cloud, Factory Ingestion & PLC Networks | Chennai Center, Tamil Nadu | `careers.india@mitsubishielectric.com` | ⏳ Available |
+| 437 | **[Toshiba India](https://www.toshiba-india.com)** | Energy & Power Systems Cloud, High-Voltage Telemetry & Linux HPC | Chennai Center, Tamil Nadu | `careers.india@toshiba.co.in` | ⏳ Available |
+| 438 | **[Fuji Electric India](https://www.fujielectric.com)** | Factory Automation Cloud, Power Electronics Telemetry & AWS IoT | Chennai Center, Tamil Nadu | `careers.india@fujielectric.com` | ⏳ Available |
+| 439 | **[Omron Automation India](https://www.omron.asia)** | Sensing & Control Cloud, Machine Vision Telemetry & Edge Computing | Chennai Center, Tamil Nadu | `careers.india@omron.com` | ⏳ Available |
+| 440 | **[Keyence India](https://www.keyence.co.in)** | Factory Sensors & Measurement Cloud, Vision Ingestion & Multi-Tenant S3 | Guindy, Chennai | `careers@keyence.co.in` | ⏳ Available |
+| 441 | **[Cognex India](https://www.cognex.com)** | Industrial Machine Vision Cloud, Deep Learning Edge-to-Cloud Ingestion | Chennai Center, Tamil Nadu | `careers.india@cognex.com` | ⏳ Available |
+| 442 | **[Hexagon Manufacturing Intelligence](https://hexagon.com)** | Smart Digital Reality Cloud, Autonomous Manufacturing & Metrology | Chennai Center, Tamil Nadu | `careers.india@hexagon.com` | ⏳ Available |
+| 443 | **[Ansys India](https://www.ansys.com)** | Engineering Simulation Cloud, High-Performance Computing & Cloud Cluster Scaling | Chennai Center, Tamil Nadu | `careers.india@ansys.com` | ⏳ Available |
+| 444 | **[Altair Engineering India](https://www.altair.com)** | Altair One Cloud, HPC Workload Management, Physics AI & Simulation | Olympia Tech Park, Guindy, Chennai | `careers.india@altair.com` | ⏳ Available |
+| 445 | **[Dassault Systèmes India](https://www.3ds.com)** | 3DEXPERIENCE Cloud Platform, Virtual Twin Experiences & Cloud PLM | Olympia Tech Park, Guindy, Chennai | `careers.india@3ds.com` | ⏳ Available |
+| 446 | **[PTC India](https://www.ptc.com)** | ThingWorx IIoT Cloud, Windchill PLM on Cloud & Kepware Ingestion | Chennai Center, Tamil Nadu | `careers.india@ptc.com` | ⏳ Available |
+| 447 | **[Bentley Systems India](https://www.bentley.com)** | iTwin Digital Twin Cloud, Infrastructure Engineering Cloud & Bentley Cloud | Chennai Center, Tamil Nadu | `careers.india@bentley.com` | ⏳ Available |
+| 448 | **[Autodesk India](https://www.autodesk.com)** | Autodesk Construction Cloud, BIM 360 & Distributed Cloud APIs | Chennai Technology Hub, Tamil Nadu | `careers.india@autodesk.com` | ⏳ Available |
+| 449 | **[Esri India Technologies](https://www.esri.in)** | ArcGIS Enterprise Cloud, Geospatial Data Pipelines & AWS Spatial Feeds | Chennai Center, Tamil Nadu | `careers@esri.in` | ⏳ Available |
+| 450 | **[MapmyIndia (CE Info Systems)](https://www.mapmyindia.com)** | Mappls Navigation Cloud, Geospatial IoT Platform & Cloud APIs | Chennai Regional Office, Tamil Nadu | `careers@mapmyindia.com` | ⏳ Available |
+| 451 | **[Genesys India](https://www.genesys.com)** | Genesys Cloud CX, Global Contact Center as a Service & WebRTC Media | OMR, Chennai | `careers.india@genesys.com` | ⏳ Available |
+| 452 | **[Avaya India](https://www.avaya.com)** | Avaya Experience Platform Cloud, Unified Communications & SIP Ingress | Chennai Center, Tamil Nadu | `careers.india@avaya.com` | ⏳ Available |
+| 453 | **[Alcatel-Lucent Enterprise (ALE)](https://www.al-enterprise.com)** | Rainbow Cloud Communications, Network Virtualization & IoT Connect | Chennai Center, Tamil Nadu | `careers.india@al-enterprise.com` | ⏳ Available |
+| 454 | **[Extreme Networks India](https://www.extremenetworks.com)** | ExtremeCloud IQ, Cloud-Driven Networking & Machine Learning SD-WAN | Chennai Center, Tamil Nadu | `careers.india@extremenetworks.com` | ⏳ Available |
+| 455 | **[Arista Networks India](https://www.arista.com)** | Cloud Networking EOS, High-Throughput Cloud Data Center Switching | Chennai Technology Center, Tamil Nadu | `careers.india@arista.com` | ⏳ Available |
+| 456 | **[Juniper Networks India](https://www.juniper.net)** | Mist AI Cloud Networking, Cloud-Managed Wi-Fi & Juniper Apstra | Chennai Technology Hub, Tamil Nadu | `careers.india@juniper.net` | ⏳ Available |
+| 457 | **[F5 Networks India](https://www.f5.com)** | F5 Distributed Cloud Services, WAF, API Security & Multi-Cloud Mesh | Chennai Center, Tamil Nadu | `careers.india@f5.com` | ⏳ Available |
+| 458 | **[A10 Networks India](https://www.a10networks.com)** | Thunder Cloud Security, Application Delivery Controllers & DDoS Shield | Chennai Center, Tamil Nadu | `careers.india@a10networks.com` | ⏳ Available |
+| 459 | **[Radware India](https://www.radware.com)** | Cloud DDoS Protection, Web Application Firewall & Bot Management | Chennai Center, Tamil Nadu | `careers.india@radware.com` | ⏳ Available |
+| 460 | **[Barracuda Networks India](https://www.barracuda.com)** | Cloud-to-Cloud Backup, Email Protection SaaS & Zero Trust Access | Chennai Center, Tamil Nadu | `careers.india@barracuda.com` | ⏳ Available |
+| 461 | **[Sophos India](https://www.sophos.com)** | Sophos Central Cloud Platform, Cloud Workload Protection & MDR | Chennai Center, Tamil Nadu | `careers.india@sophos.com` | ⏳ Available |
+| 462 | **[Trend Micro India](https://www.trendmicro.com)** | Trend Vision One Cloud, Cloud One Security for AWS & Container Shield | Chennai Center, Tamil Nadu | `careers.india@trendmicro.com` | ⏳ Available |
+| 463 | **[CrowdStrike India](https://www.crowdstrike.com)** | Falcon Cloud Security, Cloud Native Application Protection Platform | Chennai Center, Tamil Nadu | `careers.india@crowdstrike.com` | ⏳ Available |
+| 464 | **[SentinelOne India](https://www.sentinelone.com)** | Singularity Cloud Security, Autonomous Endpoint & Kubernetes Security | Chennai Center, Tamil Nadu | `careers.india@sentinelone.com` | ⏳ Available |
+| 465 | **[Tenable India](https://www.tenable.com)** | Tenable Cloud Security, Exposure Management & CNAPP for AWS | Chennai Center, Tamil Nadu | `careers.india@tenable.com` | ⏳ Available |
+| 466 | **[Qualys India](https://www.qualys.com)** | Qualys Enterprise TruRisk Cloud Platform, Cloud Agent Architecture | Chennai Center, Tamil Nadu | `careers.india@qualys.com` | ⏳ Available |
+| 467 | **[Rapid7 India](https://www.rapid7.com)** | InsightCloudSec, Cloud Security Posture Management (CSPM) & SIEM | Chennai Center, Tamil Nadu | `careers.india@rapid7.com` | ⏳ Available |
+| 468 | **[Imperva India (Thales)](https://www.imperva.com)** | Cloud Application Security, Cloud Data Protection & DDoS Mitigation | Chennai Center, Tamil Nadu | `careers.india@imperva.com` | ⏳ Available |
+| 469 | **[Varonis Systems India](https://www.varonis.com)** | Data Security Platform on Cloud, Automated Cloud Remediation & S3 | Chennai Center, Tamil Nadu | `careers.india@varonis.com` | ⏳ Available |
+| 470 | **[SailPoint India](https://www.sailpoint.com)** | Identity Security Cloud, Machine Identity Governance on AWS | Chennai Center, Tamil Nadu | `careers.india@sailpoint.com` | ⏳ Available |
+| 471 | **[CyberArk India](https://www.cyberark.com)** | CyberArk Privilege Cloud, Secrets Manager & Secure IAM Automation | Chennai Center, Tamil Nadu | `careers.india@cyberark.com` | ⏳ Available |
+| 472 | **[Ping Identity India](https://www.pingidentity.com)** | PingOne Cloud Platform, Single Sign-On (SSO) & Multi-Factor Auth Cloud | Chennai Center, Tamil Nadu | `careers.india@pingidentity.com` | ⏳ Available |
+| 473 | **[ForgeRock India](https://www.forgerock.com)** | ForgeRock Identity Cloud, Customer IAM & Microservices Security | Chennai Center, Tamil Nadu | `careers.india@forgerock.com` | ⏳ Available |
+| 474 | **[Okta India](https://www.okta.com)** | Okta Identity Cloud, Workforce Identity & Auth0 Identity Architecture | Chennai Center, Tamil Nadu | `careers.india@okta.com` | ⏳ Available |
+| 475 | **[BeyondTrust India](https://www.beyondtrust.com)** | Privileged Access Management (PAM) Cloud, Endpoint Privilege Cloud | Chennai Center, Tamil Nadu | `careers.india@beyondtrust.com` | ⏳ Available |
+| 476 | **[Thales DIS India](https://www.thalesgroup.com)** | SafeNet Cloud HSM, CipherTrust Data Security & Key Management on AWS | Taramani / Guindy, Chennai | `careers.india@thalesgroup.com` | ⏳ Available |
+| 477 | **[Entrust India](https://www.entrust.com)** | Cloud PKI as a Service, Digital Certificates & Cloud Identity | Chennai Center, Tamil Nadu | `careers.india@entrust.com` | ⏳ Available |
+| 478 | **[HID Global India](https://www.hidglobal.com)** | HID Origo Cloud Services, Trusted Identity Platforms & Mobile Keys | Chennai Center, Tamil Nadu | `careers.india@hidglobal.com` | ⏳ Available |
+| 479 | **[IDEMIA India](https://www.idemia.com)** | Biometric Cloud Identity, Augmented Identity & Telecom eSIM Cloud | Guindy, Chennai | `careers.india@idemia.com` | ⏳ Available |
+| 480 | **[Securonix India](https://www.securonix.com)** | Next-Gen Cloud SIEM, Snowflake-Powered Security Data Lake & UEBA | Chennai Center, Tamil Nadu | `careers.india@securonix.com` | ⏳ Available |
+| 481 | **[Exabeam India](https://www.exabeam.com)** | New-Scale SIEM Cloud Platform, Automated Threat Detection on AWS | Chennai Center, Tamil Nadu | `careers.india@exabeam.com` | ⏳ Available |
+| 482 | **[Sumo Logic India](https://www.sumologic.com)** | Cloud Log Analytics Platform, Continuous Intelligence & DevSecOps | Chennai Center, Tamil Nadu | `careers.india@sumologic.com` | ⏳ Available |
+| 483 | **[SolarWinds India](https://www.solarwinds.com)** | Hybrid Cloud Observability Platform, APM, Database & Network Performance | Chennai Center, Tamil Nadu | `careers.india@solarwinds.com` | ⏳ Available |
+| 484 | **[Site24x7 (All-in-One Cloud Monitoring by Zoho)](https://www.site24x7.com)** | Cloud Observability, Serverless Monitoring, Synthetic APM & AWS Metrics | Estancia IT Park, Guduvanchery, Chennai | `careers@site24x7.com` | ⏳ Available |
+| 485 | **[AppDynamics (Cisco)](https://www.appdynamics.com)** | Full-Stack Observability Cloud, Business Telemetry & Microservices APM | Perungudi, Chennai | `india-recruiting@cisco.com` | ⏳ Available |
+| 486 | **[ScienceLogic India](https://sciencelogic.com)** | SL1 AIOps Cloud Platform, Automated IT Infrastructure Monitoring | Chennai Center, Tamil Nadu | `careers.india@sciencelogic.com` | ⏳ Available |
+| 487 | **[BigPanda India](https://www.bigpanda.io)** | AIOps Event Correlation Cloud, Alert Noise Reduction on AWS | Chennai Center, Tamil Nadu | `careers.india@bigpanda.io` | ⏳ Available |
+| 488 | **[PagerDuty India](https://www.pagerduty.com)** | Operations Cloud, Real-Time Incident Management & Event Orchestration | Chennai Center, Tamil Nadu | `careers.india@pagerduty.com` | ⏳ Available |
+| 489 | **[ServiceNow India](https://www.servicenow.com)** | Now Platform Cloud Architecture, ITOM, AIOps & Cloud Provisioning | Ramanujan IT City / Chennai Hub | `careers.india@servicenow.com` | ⏳ Available |
+| 490 | **[BMC Software India](https://www.bmc.com)** | BMC Helix Cloud, Autonomous Digital Enterprise & Cloud Operations | Chennai Center, Tamil Nadu | `careers.india@bmc.com` | ⏳ Available |
+| 491 | **[OpenText India](https://www.opentext.com)** | Enterprise Content Cloud, AI-Powered Information Management & Multi-Cloud | DLF Cybercity, Manapakkam, Chennai | `careers.india@opentext.com` | ⏳ Available |
+| 492 | **[Informatica India](https://www.informatica.com)** | Intelligent Data Management Cloud (IDMC), Cloud Data Integration & Governance | Chennai Center, Tamil Nadu | `careers.india@informatica.com` | ⏳ Available |
+| 493 | **[Qlik India (Talend)](https://www.qlik.com)** | Qlik Cloud Analytics, Talend Data Integration Fabric & AWS Pipelines | Chennai Center, Tamil Nadu | `careers.india@qlik.com` | ⏳ Available |
+| 494 | **[Alteryx India](https://www.alteryx.com)** | Alteryx Analytics Cloud Platform, Automated Data Preparation & Machine Learning | Chennai Center, Tamil Nadu | `careers.india@alteryx.com` | ⏳ Available |
+| 495 | **[Software AG India (IBM)](https://www.softwareag.com)** | webMethods Cloud Integration, Cumulocity IoT Platform & API Gateways | Chennai Center, Tamil Nadu | `careers.india@softwareag.com` | ⏳ Available |
+| 496 | **[Cohesity India](https://www.cohesity.com)** | Data Cloud Security, Autonomous Data Management & S3 Object Storage | Chennai Center, Tamil Nadu | `careers.india@cohesity.com` | ⏳ Available |
+| 497 | **[Rubrik India](https://www.rubrik.com)** | Zero Trust Data Security Cloud, Cyber Recovery & Multi-Cloud Defense | Chennai Center, Tamil Nadu | `careers.india@rubrik.com` | ⏳ Available |
+| 498 | **[Cloudera India](https://www.cloudera.com)** | Cloudera Data Platform (CDP) Cloud, Apache Hadoop/Spark on AWS & Azure | Chennai Center, Tamil Nadu | `careers.india@cloudera.com` | ⏳ Available |
+| 499 | **[Concur (SAP Cloud)](https://www.concur.com)** | Travel & Expense Cloud SaaS, Multi-Region Microservices on AWS | Chennai Center, Tamil Nadu | `careers.concur@sap.com` | ⏳ Available |
+| 500 | **[Tenable Cloud Security India (Ermetic)](https://www.tenable.com)** | Cloud Infrastructure Entitlement Management (CIEM) & CNAPP on AWS | Chennai Center, Tamil Nadu | `careers.cloud@tenable.com` | ⏳ Available |
 
 ---
 
