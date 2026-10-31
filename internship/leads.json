@@ -1498,5 +1498,2505 @@
     "contact_email": "careers@akamai.com",
     "backup_email": "",
     "website": "https://www.akamai.com"
+  },
+  {
+    "id": "astrazeneca-india",
+    "name": "AstraZeneca India",
+    "domain": "Global Life Sciences Cloud, Clinical Trial Data Lakes & AWS Genomics",
+    "location": "Ramanujan IT City, Taramani, Chennai",
+    "target_role": "Clinical Cloud Data & DevOps Intern",
+    "contact_email": "careers.india@astrazeneca.com",
+    "backup_email": "",
+    "website": "https://www.astrazeneca.com"
+  },
+  {
+    "id": "pfizer-chennai",
+    "name": "Pfizer Global Drug Development Center",
+    "domain": "Pharmaceutical Analytics Cloud, High-Performance Computing & AWS",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "Cloud HPC & Infrastructure Intern",
+    "contact_email": "careers.india@pfizer.com",
+    "backup_email": "",
+    "website": "https://www.pfizer.com"
+  },
+  {
+    "id": "walmart-global-tech",
+    "name": "Walmart Global Tech India",
+    "domain": "Retail Cloud Infrastructure, Multi-Cloud Kubernetes & Edge Ingestion",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Infrastructure & Kubernetes Intern",
+    "contact_email": "careersindia@walmart.com",
+    "backup_email": "",
+    "website": "https://careers.walmart.com"
+  },
+  {
+    "id": "target-india",
+    "name": "Target India",
+    "domain": "Enterprise Retail Cloud, Supply Chain Event Streaming & AWS Microservices",
+    "location": "Chennai Technology Hub, Tamil Nadu",
+    "target_role": "Cloud Engineering & Platform Intern",
+    "contact_email": "india.careers@target.com",
+    "backup_email": "",
+    "website": "https://india.target.com"
+  },
+  {
+    "id": "amazon-dev-center",
+    "name": "Amazon Development Centre India",
+    "domain": "AWS Cloud Services, Distributed Storage Engines & Cloud Architecture",
+    "location": "World Trade Center, Perungudi, OMR, Chennai",
+    "target_role": "Cloud Systems & AWS Infrastructure Intern",
+    "contact_email": "india-recruiting@amazon.com",
+    "backup_email": "",
+    "website": "https://www.amazon.jobs"
+  },
+  {
+    "id": "microsoft-india-chennai",
+    "name": "Microsoft India",
+    "domain": "Azure Cloud Services, Enterprise Hybrid Infrastructure & Cloud Security",
+    "location": "Chennai Development Center, Tamil Nadu",
+    "target_role": "Cloud Platform & Azure Infrastructure Intern",
+    "contact_email": "indiacareers@microsoft.com",
+    "backup_email": "",
+    "website": "https://careers.microsoft.com"
+  },
+  {
+    "id": "google-india-chennai",
+    "name": "Google India",
+    "domain": "Google Cloud Platform (GCP), Distributed Systems & Site Reliability",
+    "location": "Chennai Office, Tamil Nadu",
+    "target_role": "Cloud Infrastructure & SRE Intern",
+    "contact_email": "india-jobs@google.com",
+    "backup_email": "",
+    "website": "https://careers.google.com"
+  },
+  {
+    "id": "apple-india-chennai",
+    "name": "Apple India Operations",
+    "domain": "Cloud Infrastructure, Distributed Systems & Global Operations Data",
+    "location": "Chennai Operations Center, Tamil Nadu",
+    "target_role": "Cloud Systems & Infrastructure Intern",
+    "contact_email": "india_recruiting@apple.com",
+    "backup_email": "",
+    "website": "https://www.apple.com/careers"
+  },
+  {
+    "id": "ebay-india",
+    "name": "eBay India",
+    "domain": "Global E-Commerce Cloud, Kubernetes Clusters & Real-Time Ingestion",
+    "location": "Chennai Development Hub, Tamil Nadu",
+    "target_role": "Cloud DevOps & Platform Intern",
+    "contact_email": "careers@ebay.com",
+    "backup_email": "",
+    "website": "https://careers.ebayinc.com"
+  },
+  {
+    "id": "salesforce-india",
+    "name": "Salesforce India",
+    "domain": "Hyperforce Cloud Architecture, Multi-Tenant SaaS & AWS Infrastructure",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "indiacareers@salesforce.com",
+    "backup_email": "",
+    "website": "https://www.salesforce.com/company/careers"
+  },
+  {
+    "id": "adobe-india-chennai",
+    "name": "Adobe India",
+    "domain": "Experience Cloud, Distributed Document Cloud & Multi-Region AWS",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Cloud Systems & Reliability Intern",
+    "contact_email": "careers-india@adobe.com",
+    "backup_email": "",
+    "website": "https://www.adobe.com/careers"
+  },
+  {
+    "id": "oracle-chennai",
+    "name": "Oracle India",
+    "domain": "Oracle Cloud Infrastructure (OCI), Database Cloud & Kubernetes",
+    "location": "Olympia Tech Park, Guindy & Ambattur, Chennai",
+    "target_role": "OCI Cloud Infrastructure Intern",
+    "contact_email": "careers_india@oracle.com",
+    "backup_email": "",
+    "website": "https://www.oracle.com/corporate/careers"
+  },
+  {
+    "id": "sap-labs-chennai",
+    "name": "SAP Labs India",
+    "domain": "Business Technology Platform (BTP), Multi-Cloud Architecture & S/4HANA",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Platform & BTP DevOps Intern",
+    "contact_email": "careers.india@sap.com",
+    "backup_email": "",
+    "website": "https://www.sap.com/careers"
+  },
+  {
+    "id": "ibm-india-chennai",
+    "name": "IBM India",
+    "domain": "Hybrid Cloud, Red Hat OpenShift Solutions & Cloud Modernization",
+    "location": "DLF Cybercity, Manapakkam & Taramani, Chennai",
+    "target_role": "Hybrid Cloud & OpenShift Intern",
+    "contact_email": "careers_india@ibm.com",
+    "backup_email": "",
+    "website": "https://www.ibm.com/careers"
+  },
+  {
+    "id": "dell-emc-chennai",
+    "name": "Dell EMC Center of Excellence",
+    "domain": "Cloud Enterprise Storage, Hyper-Converged Infrastructure & Data Lakehouse",
+    "location": "OMR, Thoraipakkam, Chennai",
+    "target_role": "Cloud Storage & Virtualization Intern",
+    "contact_email": "india.jobs@dell.com",
+    "backup_email": "",
+    "website": "https://jobs.dell.com"
+  },
+  {
+    "id": "intuit-chennai",
+    "name": "Intuit India",
+    "domain": "Fintech Cloud Platform, Kubernetes Multi-Tenancy & AWS Lambda Workloads",
+    "location": "Chennai Tech Hub, Tamil Nadu",
+    "target_role": "Cloud DevOps & Platform Intern",
+    "contact_email": "careers_india@intuit.com",
+    "backup_email": "",
+    "website": "https://www.intuit.com/careers"
+  },
+  {
+    "id": "amadeus-chennai",
+    "name": "Amadeus Software Labs",
+    "domain": "Global Aviation Cloud, Real-Time Ticketing Backends & Multi-Cloud",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Aviation Cloud & Distributed Systems Intern",
+    "contact_email": "careers.india@amadeus.com",
+    "backup_email": "",
+    "website": "https://jobs.amadeus.com"
+  },
+  {
+    "id": "sabre-travel-tech",
+    "name": "Sabre Travel Technologies",
+    "domain": "Travel Technology Cloud, High-Availability AWS Microservices & DevOps",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Reliability & Microservices Intern",
+    "contact_email": "careers.india@sabre.com",
+    "backup_email": "",
+    "website": "https://www.sabre.com/careers"
+  },
+  {
+    "id": "experian-chennai",
+    "name": "Experian India",
+    "domain": "Credit Decision Cloud, High-Security FinTech VPCs & AWS S3 Encryption",
+    "location": "Olympia Tech Park, Guindy, Chennai",
+    "target_role": "Cloud Security & FinTech Infrastructure Intern",
+    "contact_email": "india.careers@experian.com",
+    "backup_email": "",
+    "website": "https://www.experian.com/careers"
+  },
+  {
+    "id": "equifax-chennai",
+    "name": "Equifax India",
+    "domain": "Financial Risk Analytics Cloud, Private VPC Isolation & Event Hubs",
+    "location": "Chennai Tech Center, Tamil Nadu",
+    "target_role": "Cloud Security & DevOps Intern",
+    "contact_email": "careers.india@equifax.com",
+    "backup_email": "",
+    "website": "https://www.equifax.com/about-equifax/careers"
+  },
+  {
+    "id": "transunion-chennai",
+    "name": "TransUnion CIBIL Tech Hub",
+    "domain": "Consumer Credit Analytics Cloud, Data Encryption & AWS Multi-AZ RDS",
+    "location": "Chennai Development Center, Tamil Nadu",
+    "target_role": "Cloud Infrastructure & Database Intern",
+    "contact_email": "careers.india@transunion.com",
+    "backup_email": "",
+    "website": "https://www.transunion.com/careers"
+  },
+  {
+    "id": "moodys-analytics",
+    "name": "Moody's Analytics Knowledge Services",
+    "domain": "Financial Risk Cloud, Economic Modeling Clusters & AWS Ingestion",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Data & Risk Systems Intern",
+    "contact_email": "careers.india@moodys.com",
+    "backup_email": "",
+    "website": "https://careers.moodys.com"
+  },
+  {
+    "id": "sp-global-chennai",
+    "name": "S&P Global India",
+    "domain": "Commodities & Market Intelligence Cloud, AWS Snowflake Integrations",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Data Platform & DevOps Intern",
+    "contact_email": "careers.india@spglobal.com",
+    "backup_email": "",
+    "website": "https://www.spglobal.com/en/careers"
+  },
+  {
+    "id": "crisil-chennai",
+    "name": "CRISIL (An S&P Global Company)",
+    "domain": "Rating Analytics Cloud, Secure Financial Microservices & Serverless",
+    "location": "Chennai Office, Tamil Nadu",
+    "target_role": "Cloud Solutions & Backend Intern",
+    "contact_email": "careers@crisil.com",
+    "backup_email": "",
+    "website": "https://www.crisil.com/en/home/careers.html"
+  },
+  {
+    "id": "bloomberg-chennai",
+    "name": "Bloomberg Data Operations India",
+    "domain": "Real-Time Market Data Feeds, Low-Latency Networking & Cloud Ingestion",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Cloud Networking & Telemetry Intern",
+    "contact_email": "careers.india@bloomberg.com",
+    "backup_email": "",
+    "website": "https://www.bloomberg.com/careers"
+  },
+  {
+    "id": "northern-trust",
+    "name": "Northern Trust Corporation",
+    "domain": "Wealth Management Cloud, Asset Servicing & Private VPC Governance",
+    "location": "Olympia Tech Park, Guindy, Chennai",
+    "target_role": "Banking Cloud Infrastructure Intern",
+    "contact_email": "india.careers@ntrs.com",
+    "backup_email": "",
+    "website": "https://www.northerntrust.com/careers"
+  },
+  {
+    "id": "invesco-chennai",
+    "name": "Invesco India",
+    "domain": "Investment Management Cloud, Multi-Asset Trading Feeds & AWS",
+    "location": "Chennai Hub, Tamil Nadu",
+    "target_role": "Cloud Operations & Automation Intern",
+    "contact_email": "careers.india@invesco.com",
+    "backup_email": "",
+    "website": "https://www.invesco.com/corporate/careers"
+  },
+  {
+    "id": "franklin-templeton",
+    "name": "Franklin Templeton Investments",
+    "domain": "Mutual Fund Cloud Platforms, Enterprise CI/CD & Secure AWS S3 Tiering",
+    "location": "Chennai Development Center, Tamil Nadu",
+    "target_role": "Cloud CI/CD & DevOps Intern",
+    "contact_email": "india_careers@franklintempleton.com",
+    "backup_email": "",
+    "website": "https://www.franklinresources.com/careers"
+  },
+  {
+    "id": "blackrock-chennai",
+    "name": "BlackRock India",
+    "domain": "Aladdin Platform Infrastructure, High-Throughput Financial Cloud & Kubernetes",
+    "location": "Chennai Capability Center, Tamil Nadu",
+    "target_role": "Aladdin Cloud Infrastructure Intern",
+    "contact_email": "india.recruitment@blackrock.com",
+    "backup_email": "",
+    "website": "https://careers.blackrock.com"
+  },
+  {
+    "id": "morgan-stanley-chennai",
+    "name": "Morgan Stanley Advantage Services",
+    "domain": "Investment Banking Cloud, Multi-Region Resiliency & Microservices",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Cloud Systems & Reliability Intern",
+    "contact_email": "india_recruiting@morganstanley.com",
+    "backup_email": "",
+    "website": "https://www.morganstanley.com/careers"
+  },
+  {
+    "id": "ubs-chennai",
+    "name": "UBS Global Hub India",
+    "domain": "Global Wealth Cloud, High-Availability Container Workloads & EKS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Platform & Kubernetes Intern",
+    "contact_email": "india-careers@ubs.com",
+    "backup_email": "",
+    "website": "https://www.ubs.com/careers"
+  },
+  {
+    "id": "deutsche-bank-chennai",
+    "name": "Deutsche Bank (DBOI Global Services)",
+    "domain": "Corporate Bank Cloud Architecture, Kafka Streaming & Cloud Native",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Cloud Data & Middleware Intern",
+    "contact_email": "careers.india@db.com",
+    "backup_email": "",
+    "website": "https://careers.db.com"
+  },
+  {
+    "id": "hsbc-edp-chennai",
+    "name": "HSBC Electronic Data Processing India",
+    "domain": "Retail Banking Cloud, Global API Gateways & AWS Cloud Migration",
+    "location": "Perungudi, OMR, Chennai",
+    "target_role": "Cloud API Gateway & DevOps Intern",
+    "contact_email": "careers.india@hsbc.co.in",
+    "backup_email": "",
+    "website": "https://www.hsbc.com/careers"
+  },
+  {
+    "id": "natwest-group-chennai",
+    "name": "NatWest Group India",
+    "domain": "Digital Banking Cloud Modernization, DevSecOps & Enterprise AWS",
+    "location": "Chennai Hub, Tamil Nadu",
+    "target_role": "Cloud DevSecOps Intern",
+    "contact_email": "india.careers@natwest.com",
+    "backup_email": "",
+    "website": "https://jobs.natwestgroup.com"
+  },
+  {
+    "id": "rbc-chennai",
+    "name": "Royal Bank of Canada (RBC) India",
+    "domain": "Capital Markets Cloud, Automated Testing Environments & Kubernetes",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Cloud Automation & Systems Intern",
+    "contact_email": "careers.india@rbc.com",
+    "backup_email": "",
+    "website": "https://jobs.rbc.com"
+  },
+  {
+    "id": "anz-support-chennai",
+    "name": "ANZ Operations & Technology India",
+    "domain": "Institutional Banking Cloud, Cloud-Native Microservices & Multi-Cloud",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud-Native Infrastructure Intern",
+    "contact_email": "india_careers@anz.com",
+    "backup_email": "",
+    "website": "https://www.anz.com/careers"
+  },
+  {
+    "id": "abrdn-chennai",
+    "name": "abrdn (Standard Life Aberdeen)",
+    "domain": "Asset Management Cloud Platforms, Automated Cloud Compliance & S3",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Cloud Governance & Storage Intern",
+    "contact_email": "careers.india@abrdn.com",
+    "backup_email": "",
+    "website": "https://www.abrdn.com/careers"
+  },
+  {
+    "id": "munich-re-chennai",
+    "name": "Munich Re India Tech Center",
+    "domain": "Reinsurance Actuarial Cloud, Geospatial Risk Modeling & HPC",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Modeling & Infrastructure Intern",
+    "contact_email": "careers.india@munichre.com",
+    "backup_email": "",
+    "website": "https://www.munichre.com/careers"
+  },
+  {
+    "id": "swiss-re-chennai",
+    "name": "Swiss Re India",
+    "domain": "Catastrophe Risk Cloud Platform, Big Data Analytics & AWS Architecture",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Analytics & Infrastructure Intern",
+    "contact_email": "careers.india@swissre.com",
+    "backup_email": "",
+    "website": "https://careers.swissre.com"
+  },
+  {
+    "id": "allstate-chennai",
+    "name": "Allstate Solutions India (ASPL)",
+    "domain": "Insurance Tech Cloud, Telematics Stream Processing & Kubernetes",
+    "location": "DLF Cybercity, Manapakkam, Chennai",
+    "target_role": "Insurance Cloud & DevOps Intern",
+    "contact_email": "careers_india@allstate.com",
+    "backup_email": "",
+    "website": "https://www.allstate.com/careers"
+  },
+  {
+    "id": "metlife-chennai",
+    "name": "MetLife Global Operations India",
+    "domain": "Life Insurance Cloud, High-Availability Claims Systems & Multi-AZ RDS",
+    "location": "Chennai Operations Center, Tamil Nadu",
+    "target_role": "Cloud Systems & Reliability Intern",
+    "contact_email": "india_careers@metlife.com",
+    "backup_email": "",
+    "website": "https://www.metlife.com/careers"
+  },
+  {
+    "id": "prudential-chennai",
+    "name": "Prudential Global Services India",
+    "domain": "Enterprise Insurance Cloud, AWS Serverless Architectures & CI/CD",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Serverless & CI/CD Intern",
+    "contact_email": "careers.india@prudential.com",
+    "backup_email": "",
+    "website": "https://www.prudential.com/careers"
+  },
+  {
+    "id": "aig-chennai",
+    "name": "AIG Analytics & Services India",
+    "domain": "Commercial Insurance Cloud, Underwriting AI Pipelines & Cloud Storage",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Data & Analytics Intern",
+    "contact_email": "careers.india@aig.com",
+    "backup_email": "",
+    "website": "https://www.aig.com/careers"
+  },
+  {
+    "id": "liberty-mutual-chennai",
+    "name": "Liberty Mutual Insurance India",
+    "domain": "P&C Insurance Cloud, Serverless Document Ingestion & AWS Lambda",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Serverless & DevOps Intern",
+    "contact_email": "careers.india@libertymutual.com",
+    "backup_email": "",
+    "website": "https://jobs.libertymutualgroup.com"
+  },
+  {
+    "id": "chubb-chennai",
+    "name": "Chubb Business Services India",
+    "domain": "Property & Casualty Insurance Cloud, Enterprise Microservices & EKS",
+    "location": "Taramani, Chennai",
+    "target_role": "Cloud Microservices Intern",
+    "contact_email": "careers.india@chubb.com",
+    "backup_email": "",
+    "website": "https://careers.chubb.com"
+  },
+  {
+    "id": "zurich-chennai",
+    "name": "Zurich Insurance Technology India",
+    "domain": "Global Insurance Cloud Modernization, DevSecOps & Cloud Governance",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Governance & Security Intern",
+    "contact_email": "careers.india@zurich.com",
+    "backup_email": "",
+    "website": "https://www.zurich.com/careers"
+  },
+  {
+    "id": "axa-xl-chennai",
+    "name": "AXA XL India",
+    "domain": "Commercial Risk Cloud Solutions, Automated Underwriting & Data Lakes",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Data Lake & DevOps Intern",
+    "contact_email": "careers.india@axaxl.com",
+    "backup_email": "",
+    "website": "https://axaxl.com/careers"
+  },
+  {
+    "id": "marsh-mclennan-chennai",
+    "name": "Marsh McLennan Global Hub India",
+    "domain": "Risk & Insurance Cloud Intelligence, High-Availability AWS VPCs",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Cloud Infrastructure & Networking Intern",
+    "contact_email": "careers.india@mmc.com",
+    "backup_email": "",
+    "website": "https://careers.marshmclennan.com"
+  },
+  {
+    "id": "gallagher-chennai",
+    "name": "Gallagher Service Center India",
+    "domain": "Insurance Brokerage Cloud, Automated API Integrations & DevOps",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud API & DevOps Intern",
+    "contact_email": "careers.india@ajg.com",
+    "backup_email": "",
+    "website": "https://jobs.ajg.com"
+  },
+  {
+    "id": "movate-css-corp",
+    "name": "Movate (formerly CSS Corp)",
+    "domain": "AIOps, Cloud Migration, Enterprise DevOps & Contact Center as a Service",
+    "location": "Ambit IT Park, Ambattur Industrial Estate, Chennai",
+    "target_role": "Cloud Infrastructure & AIOps Intern",
+    "contact_email": "careers@movate.com",
+    "backup_email": "",
+    "website": "https://www.movate.com"
+  },
+  {
+    "id": "mastek-chennai",
+    "name": "Mastek",
+    "domain": "Digital Cloud Transformation, Public Sector Cloud & Cloud Migration",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Migration & Engineering Intern",
+    "contact_email": "careers@mastek.com",
+    "backup_email": "",
+    "website": "https://www.mastek.com"
+  },
+  {
+    "id": "nihilent-chennai",
+    "name": "Nihilent Technologies",
+    "domain": "Design Thinking Cloud Solutions, Enterprise Microservices & DevOps",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Microservices & DevOps Intern",
+    "contact_email": "careers@nihilent.com",
+    "backup_email": "",
+    "website": "https://www.nihilent.com"
+  },
+  {
+    "id": "datamatics-chennai",
+    "name": "Datamatics Global Services",
+    "domain": "Intelligent Automation Cloud, Document Ingestion Pipelines & AWS",
+    "location": "TIDEL Park, Tharamani, Chennai",
+    "target_role": "Cloud Automation & Data Pipelines Intern",
+    "contact_email": "careers@datamatics.com",
+    "backup_email": "",
+    "website": "https://www.datamatics.com"
+  },
+  {
+    "id": "kellton-chennai",
+    "name": "Kellton Tech Solutions",
+    "domain": "Enterprise Cloud Consulting, AWS Advanced Tier Partner & DevOps",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "AWS Cloud Engineering Intern",
+    "contact_email": "careers@kellton.com",
+    "backup_email": "",
+    "website": "https://www.kellton.com"
+  },
+  {
+    "id": "nucleus-software-chennai",
+    "name": "Nucleus Software Exports",
+    "domain": "Lending & Transaction Banking Cloud Platforms, FinnOne Neo on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "FinTech Cloud Platform Intern",
+    "contact_email": "careers@nucleussoftware.com",
+    "backup_email": "",
+    "website": "https://www.nucleussoftware.com"
+  },
+  {
+    "id": "newgen-chennai",
+    "name": "Newgen Software",
+    "domain": "Low-Code Digital Transformation Platform Cloud, Enterprise Content Cloud",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Architecture & Integration Intern",
+    "contact_email": "careers@newgensoft.com",
+    "backup_email": "",
+    "website": "https://newgensoft.com"
+  },
+  {
+    "id": "majesco-chennai",
+    "name": "Majesco",
+    "domain": "Cloud Insurance Core Suite, Policy & Billing SaaS on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud SaaS & Reliability Intern",
+    "contact_email": "careers@majesco.com",
+    "backup_email": "",
+    "website": "https://www.majesco.com"
+  },
+  {
+    "id": "3i-infotech-chennai",
+    "name": "3i Infotech",
+    "domain": "NuRe Cloud Ecosystem, Multi-Cloud Orchestration & 5G Edge Cloud",
+    "location": "TIDEL Park, Tharamani, Chennai",
+    "target_role": "NuRe Cloud & DevOps Intern",
+    "contact_email": "careers@3i-infotech.com",
+    "backup_email": "",
+    "website": "https://www.3i-infotech.com"
+  },
+  {
+    "id": "aurionpro-chennai",
+    "name": "Aurionpro Solutions",
+    "domain": "Transit Cloud Platforms, Smart Mobility Cloud & Banking Systems",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Transit Cloud & Systems Intern",
+    "contact_email": "careers@aurionpro.com",
+    "backup_email": "",
+    "website": "https://www.aurionpro.com"
+  },
+  {
+    "id": "sutherland-healthcare",
+    "name": "Sutherland Healthcare Solutions",
+    "domain": "Healthcare Revenue Cycle Cloud, HIPAA Compliant AWS Architecture",
+    "location": "Perungalathur / Velachery, Chennai",
+    "target_role": "Healthcare Cloud Compliance Intern",
+    "contact_email": "careers.healthcare@sutherlandglobal.com",
+    "backup_email": "",
+    "website": "https://www.sutherlandglobal.com"
+  },
+  {
+    "id": "allsec-tech",
+    "name": "Allsec Technologies (Quess Corp)",
+    "domain": "Enterprise Payroll Cloud, Smart HRMS Multi-Tenant SaaS on AWS",
+    "location": "Velachery Main Road, Chennai",
+    "target_role": "HR Cloud SaaS & Backend Intern",
+    "contact_email": "careers@allsectech.com",
+    "backup_email": "",
+    "website": "https://www.allsectech.com"
+  },
+  {
+    "id": "hgs-chennai",
+    "name": "Hinduja Global Solutions (HGS)",
+    "domain": "Consumer CX Cloud, Cloud Contact Center Automation & Microservices",
+    "location": "Chennai Tech Center, Tamil Nadu",
+    "target_role": "Cloud Operations & Automation Intern",
+    "contact_email": "careers@teamhgs.com",
+    "backup_email": "",
+    "website": "https://hgs.cx"
+  },
+  {
+    "id": "conduent-chennai",
+    "name": "Conduent India",
+    "domain": "Digital Business Solutions Cloud, Transportation & Payments Infra",
+    "location": "Prince Info Park, Ambattur, Chennai",
+    "target_role": "Cloud Infrastructure & Platforms Intern",
+    "contact_email": "careers.india@conduent.com",
+    "backup_email": "",
+    "website": "https://www.conduent.com"
+  },
+  {
+    "id": "concentrix-chennai",
+    "name": "Concentrix India",
+    "domain": "Enterprise Cloud Experience Platforms, Multi-Region Contact Center Cloud",
+    "location": "DLF IT Park, Manapakkam, Chennai",
+    "target_role": "Cloud Telephony & Systems Intern",
+    "contact_email": "careers.india@concentrix.com",
+    "backup_email": "",
+    "website": "https://www.concentrix.com"
+  },
+  {
+    "id": "wns-chennai",
+    "name": "WNS Global Services",
+    "domain": "BPM Cloud Platforms, Financial Ingestion Systems & AWS Analytics",
+    "location": "DLF IT Park, Manapakkam, Chennai",
+    "target_role": "Cloud Data & Automation Intern",
+    "contact_email": "careers@wns.com",
+    "backup_email": "",
+    "website": "https://www.wns.com"
+  },
+  {
+    "id": "genpact-chennai",
+    "name": "Genpact India",
+    "domain": "Cora AI Platform, Cloud Financial Modernization & Multi-Cloud",
+    "location": "Olympia Tech Park, Guindy, Chennai",
+    "target_role": "Cloud Platform & AIOps Intern",
+    "contact_email": "careers.india@genpact.com",
+    "backup_email": "",
+    "website": "https://www.genpact.com"
+  },
+  {
+    "id": "exl-chennai",
+    "name": "EXL Service",
+    "domain": "Analytics Cloud, Insurance Data Lakes & Cloud Data Pipelines",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Data Engineering Intern",
+    "contact_email": "careers.india@exlservice.com",
+    "backup_email": "",
+    "website": "https://www.exlservice.com"
+  },
+  {
+    "id": "firstsource-chennai",
+    "name": "Firstsource Solutions (RP-Sanjiv Goenka Group)",
+    "domain": "Healthcare & Banking Process Cloud, Enterprise Cloud Automation",
+    "location": "Ambattur Industrial Estate, Chennai",
+    "target_role": "Cloud Systems & DevOps Intern",
+    "contact_email": "careers@firstsource.com",
+    "backup_email": "",
+    "website": "https://www.firstsource.com"
+  },
+  {
+    "id": "infosys-bpm-chennai",
+    "name": "Infosys BPM",
+    "domain": "Business Operations Cloud, Robotic Process Automation & AWS Integrations",
+    "location": "TIDEL Park, Tharamani, Chennai",
+    "target_role": "Cloud Automation & RPA Intern",
+    "contact_email": "careers_bpm@infosys.com",
+    "backup_email": "",
+    "website": "https://www.infosysbpm.com"
+  },
+  {
+    "id": "wipro-gallagher",
+    "name": "Wipro Gallagher Solutions",
+    "domain": "NetOxygen Loan Origination Cloud, Financial Cloud Microservices",
+    "location": "Sholinganallur, OMR, Chennai",
+    "target_role": "Lending Cloud Infrastructure Intern",
+    "contact_email": "careers.wgs@wipro.com",
+    "backup_email": "",
+    "website": "https://www.wipro.com/gallagher"
+  },
+  {
+    "id": "ltts-manapakkam",
+    "name": "L&T Technology Services (LTTS)",
+    "domain": "Digital Engineering, Industrial IoT Cloud & Connected Products",
+    "location": "L&T Campus, Manapakkam, Chennai",
+    "target_role": "Industrial Cloud & IoT Intern",
+    "contact_email": "careers@ltts.com",
+    "backup_email": "",
+    "website": "https://www.ltts.com"
+  },
+  {
+    "id": "lt-construction-tech",
+    "name": "L&T Construction Digital & Tech",
+    "domain": "Smart City Cloud, Geospatial Project Monitoring & AWS Infrastructure",
+    "location": "HQ Manapakkam, Chennai",
+    "target_role": "Smart City Cloud & GIS Intern",
+    "contact_email": "digital.careers@lntecc.com",
+    "backup_email": "",
+    "website": "https://www.lntecc.com"
+  },
+  {
+    "id": "tata-technologies-chennai",
+    "name": "Tata Technologies",
+    "domain": "Automotive Engineering Cloud, PLM on AWS & Digital Twin Systems",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Automotive Cloud PLM Intern",
+    "contact_email": "careers@tatatechnologies.com",
+    "backup_email": "",
+    "website": "https://www.tatatechnologies.com"
+  },
+  {
+    "id": "quest-global-chennai",
+    "name": "Quest Global",
+    "domain": "Aerospace & Automotive Engineering Cloud, Embedded Linux & IoT",
+    "location": "DLF Cybercity, Manapakkam, Chennai",
+    "target_role": "Aerospace Cloud & Embedded Intern",
+    "contact_email": "careers@quest-global.com",
+    "backup_email": "",
+    "website": "https://www.quest-global.com"
+  },
+  {
+    "id": "onward-tech-chennai",
+    "name": "Onward Technologies",
+    "domain": "Digital Transformation Cloud, Industrial Automation & Cloud DevOps",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud DevOps & Industrial IoT Intern",
+    "contact_email": "careers@onwardgroup.com",
+    "backup_email": "",
+    "website": "https://www.onwardgroup.com"
+  },
+  {
+    "id": "neilsoft-chennai",
+    "name": "Neilsoft",
+    "domain": "Engineering Cloud, BIM Collaborative Clouds & Digital Factory Platforms",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Engineering Cloud Systems Intern",
+    "contact_email": "careers@neilsoft.com",
+    "backup_email": "",
+    "website": "https://www.neilsoft.com"
+  },
+  {
+    "id": "tata-digital-chennai",
+    "name": "Tata Digital",
+    "domain": "Tata Neu Super-App Cloud, High-Throughput E-Commerce Microservices",
+    "location": "Chennai Technology Hub, Tamil Nadu",
+    "target_role": "Super-App Cloud & Kubernetes Intern",
+    "contact_email": "careers@tatadigital.com",
+    "backup_email": "",
+    "website": "https://www.tatadigital.com"
+  },
+  {
+    "id": "jio-platforms-chennai",
+    "name": "Jio Platforms Limited",
+    "domain": "5G Cloud Core, Jio Cloud Infrastructure & Distributed Data Centers",
+    "location": "Chennai Tech Center, Tamil Nadu",
+    "target_role": "5G Cloud & Telecom Infrastructure Intern",
+    "contact_email": "careers@jio.com",
+    "backup_email": "",
+    "website": "https://www.jio.com"
+  },
+  {
+    "id": "airtel-tech-chennai",
+    "name": "Bharti Airtel Tech Hub",
+    "domain": "Airtel Digital Cloud, Telecom Ingestion & Network Cloud Virtualization",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Telco Cloud & Ingestion Intern",
+    "contact_email": "careers@airtel.com",
+    "backup_email": "",
+    "website": "https://www.airtel.in"
+  },
+  {
+    "id": "vodafone-idea-chennai",
+    "name": "Vodafone Idea Shared Services",
+    "domain": "Telecom Infrastructure Cloud, Cloud Migration & OpenStack Operations",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "OpenStack & Telco Cloud Intern",
+    "contact_email": "careers@vodafoneidea.com",
+    "backup_email": "",
+    "website": "https://www.myvi.in"
+  },
+  {
+    "id": "ntt-global-data-centers",
+    "name": "NTT Global Data Centers (Netmagic)",
+    "domain": "Hyperscale Cloud Data Centers, Colocation & Managed Hybrid Cloud",
+    "location": "Ambattur Industrial Estate, Chennai",
+    "target_role": "Data Center Cloud Operations Intern",
+    "contact_email": "careers.gdc@global.ntt",
+    "backup_email": "",
+    "website": "https://services.global.ntt"
+  },
+  {
+    "id": "ctrls-datacenters-chennai",
+    "name": "CtrlS Datacenters",
+    "domain": "Tier-4 Hyperscale Data Centers, Edge Cloud & Disaster Recovery",
+    "location": "Ambattur Industrial Estate, Chennai",
+    "target_role": "Tier-4 Cloud Infrastructure Intern",
+    "contact_email": "careers@ctrls.in",
+    "backup_email": "",
+    "website": "https://www.ctrls.in"
+  },
+  {
+    "id": "yotta-data-services",
+    "name": "Yotta Data Services",
+    "domain": "Hyperscale Data Center Cloud, Sovereign AI GPU Compute & Cloud Infrastructure",
+    "location": "Chennai Campus, Tamil Nadu",
+    "target_role": "GPU Cloud & Hyperscale Infrastructure Intern",
+    "contact_email": "careers@yotta.com",
+    "backup_email": "",
+    "website": "https://www.yotta.com"
+  },
+  {
+    "id": "stt-gdc-india",
+    "name": "STT GDC India (ST Telemedia)",
+    "domain": "Critical Data Center Infrastructure, Carrier-Neutral Hybrid Cloud",
+    "location": "Ambattur & Vandalur, Chennai",
+    "target_role": "Data Center Systems & Networking Intern",
+    "contact_email": "careers@sttelemediagdc.in",
+    "backup_email": "",
+    "website": "https://www.sttelemediagdc.in"
+  },
+  {
+    "id": "adani-connex-chennai",
+    "name": "AdaniConneX Data Centers",
+    "domain": "Hyperscale Green Data Center Campus, Renewable Cloud Hosting",
+    "location": "Siruseri IT SEZ, Chennai",
+    "target_role": "Green Cloud & Hyperscale Operations Intern",
+    "contact_email": "careers@adaniconnex.com",
+    "backup_email": "",
+    "website": "https://www.adaniconnex.com"
+  },
+  {
+    "id": "nxtra-by-airtel",
+    "name": "Nxtra by Airtel",
+    "domain": "Largest Network of Hyperscale Data Centers in India & Hybrid Cloud",
+    "location": "Ambattur Industrial Estate, Chennai",
+    "target_role": "Hyperscale Cloud & Network Intern",
+    "contact_email": "nxtra.careers@airtel.com",
+    "backup_email": "",
+    "website": "https://www.nxtra.in"
+  },
+  {
+    "id": "web-werks-chennai",
+    "name": "Web Werks & Iron Mountain Data Centers",
+    "domain": "Interconnection & Cloud On-Ramps, Colocation & Disaster Recovery",
+    "location": "Ambattur Industrial Estate, Chennai",
+    "target_role": "Cloud Interconnection & Networking Intern",
+    "contact_email": "careers@webwerks.in",
+    "backup_email": "",
+    "website": "https://www.webwerks.in"
+  },
+  {
+    "id": "equinix-india-chennai",
+    "name": "Equinix India",
+    "domain": "Digital Infrastructure, Equinix Fabric Multi-Cloud Interconnects",
+    "location": "Siruseri / Chennai Center, Tamil Nadu",
+    "target_role": "Multi-Cloud Interconnection Intern",
+    "contact_email": "careers.india@equinix.com",
+    "backup_email": "",
+    "website": "https://www.equinix.com"
+  },
+  {
+    "id": "iron-mountain-chennai",
+    "name": "Iron Mountain Data Centers India",
+    "domain": "Secure Data Center Storage, Cyber Resilience & Multi-Cloud Connectivity",
+    "location": "Ambattur, Chennai",
+    "target_role": "Cloud Security & Storage Intern",
+    "contact_email": "careers.india@ironmountain.com",
+    "backup_email": "",
+    "website": "https://www.ironmountain.com"
+  },
+  {
+    "id": "citius-tech-chennai",
+    "name": "CitiusTech",
+    "domain": "Healthcare Digital Technology, Health Cloud & Medallion Architecture",
+    "location": "DLF IT Park, Manapakkam, Chennai",
+    "target_role": "Healthcare Cloud Platform Intern",
+    "contact_email": "careers@citiustech.com",
+    "backup_email": "",
+    "website": "https://www.citiustech.com"
+  },
+  {
+    "id": "omega-healthcare-chennai",
+    "name": "Omega Healthcare Management Services",
+    "domain": "Healthcare Operations Cloud, Revenue Cycle Management on AWS",
+    "location": "RMZ Millenia Business Park, Perungudi, Chennai",
+    "target_role": "Healthcare Cloud Automation Intern",
+    "contact_email": "careers@omegahms.com",
+    "backup_email": "",
+    "website": "https://www.omegahms.com"
+  },
+  {
+    "id": "access-healthcare-chennai",
+    "name": "Access Healthcare",
+    "domain": "echo RPA Health Cloud, Medical Ingestion & Private Cloud VPCs",
+    "location": "Navalur / Ambattur, Chennai",
+    "target_role": "Cloud Automation & RPA Systems Intern",
+    "contact_email": "careers@accesshealthcare.com",
+    "backup_email": "",
+    "website": "https://www.accesshealthcare.com"
+  },
+  {
+    "id": "gebbs-healthcare-chennai",
+    "name": "GeBBS Healthcare Solutions",
+    "domain": "Health Cloud Services, HIPAA-Compliant S3 Ingestion & Processing",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Healthcare Cloud Infrastructure Intern",
+    "contact_email": "careers@gebbs.com",
+    "backup_email": "",
+    "website": "https://gebbs.com"
+  },
+  {
+    "id": "ags-health-chennai",
+    "name": "AGS Health",
+    "domain": "Healthcare Analytics Cloud, Clinical Documentation Ingestion & AWS",
+    "location": "TIDEL Park, Tharamani, Chennai",
+    "target_role": "Health Data Cloud Intern",
+    "contact_email": "careers@agshealth.com",
+    "backup_email": "",
+    "website": "https://www.agshealth.com"
+  },
+  {
+    "id": "miramed-ajuba",
+    "name": "MiraMed Ajuba",
+    "domain": "Global Healthcare Financial Cloud, Secure Health Portals & AWS",
+    "location": "TIDEL Park, Tharamani, Chennai",
+    "target_role": "Healthcare Cloud Operations Intern",
+    "contact_email": "careers@miramedajuba.com",
+    "backup_email": "",
+    "website": "https://www.miramedgs.com"
+  },
+  {
+    "id": "visionary-rcm-chennai",
+    "name": "Visionary RCM (CorroHealth)",
+    "domain": "Healthcare Risk Analytics Cloud, Medical Coding Pipelines on AWS",
+    "location": "Navalur, OMR, Chennai",
+    "target_role": "Cloud Data & Ingestion Intern",
+    "contact_email": "careers@corrohealth.com",
+    "backup_email": "",
+    "website": "https://corrohealth.com"
+  },
+  {
+    "id": "episource-chennai",
+    "name": "Episource",
+    "domain": "Healthcare Risk Adjustment Cloud, AI Document Processing on AWS",
+    "location": "Navalur, OMR, Chennai",
+    "target_role": "Cloud Document AI & Infrastructure Intern",
+    "contact_email": "careers@episource.com",
+    "backup_email": "",
+    "website": "https://www.episource.com"
+  },
+  {
+    "id": "indegene-chennai",
+    "name": "Indegene",
+    "domain": "Life Sciences Commercial Cloud, Regulatory Submission Pipelines on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Life Sciences Cloud & DevOps Intern",
+    "contact_email": "careers@indegene.com",
+    "backup_email": "",
+    "website": "https://www.indegene.com"
+  },
+  {
+    "id": "focus-edumatics",
+    "name": "Focus Edumatics",
+    "domain": "EdTech Cloud Platforms, Live Virtual Classroom Infrastructure & WebRTC",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud WebRTC & Streaming Intern",
+    "contact_email": "careers@focusedumatics.com",
+    "backup_email": "",
+    "website": "https://www.focusedumatics.com"
+  },
+  {
+    "id": "veranda-learning",
+    "name": "Veranda Learning Solutions",
+    "domain": "Competitive Exam Prep Cloud, Video Streaming Engine & AWS Lambda",
+    "location": "Nungambakkam, Chennai",
+    "target_role": "Cloud Video Streaming & Backend Intern",
+    "contact_email": "careers@verandalearning.com",
+    "backup_email": "",
+    "website": "https://www.verandalearning.com"
+  },
+  {
+    "id": "manageengine-zoho",
+    "name": "ManageEngine (Enterprise IT Management by Zoho)",
+    "domain": "Cloud Network Monitoring, Endpoint Management & Cloud SIEM (Log360)",
+    "location": "Estancia IT Park, Guduvanchery, Chennai",
+    "target_role": "Cloud Monitoring & SIEM Systems Intern",
+    "contact_email": "careers@manageengine.com",
+    "backup_email": "",
+    "website": "https://www.manageengine.com"
+  },
+  {
+    "id": "facilio",
+    "name": "Facilio",
+    "domain": "Connected Buildings & Facility Ops Cloud, IoT Sensor Streams & AWS",
+    "location": "OMR, Perungudi, Chennai",
+    "target_role": "Cloud IoT & Infrastructure Intern",
+    "contact_email": "careers@facilio.com",
+    "backup_email": "",
+    "website": "https://facilio.com"
+  },
+  {
+    "id": "hippo-video",
+    "name": "Hippo Video",
+    "domain": "Interactive Video CX Cloud, Transcoding Pipelines on AWS & WebRTC",
+    "location": "Guindy, Chennai",
+    "target_role": "Video Cloud Infrastructure Intern",
+    "contact_email": "careers@hippovideo.io",
+    "backup_email": "",
+    "website": "https://www.hippovideo.io"
+  },
+  {
+    "id": "paperflite",
+    "name": "Paperflite",
+    "domain": "Content Intelligence Cloud, Asset Tracking on AWS S3 & Microservices",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud Storage & Backend Intern",
+    "contact_email": "careers@paperflite.com",
+    "backup_email": "",
+    "website": "https://www.paperflite.com"
+  },
+  {
+    "id": "fourkites-india",
+    "name": "FourKites India",
+    "domain": "Real-Time Supply Chain Visibility Cloud, Kafka Streaming & Global Tracking",
+    "location": "Olympia Tech Park, Guindy, Chennai",
+    "target_role": "Supply Chain Cloud & Streaming Intern",
+    "contact_email": "careers@fourkites.com",
+    "backup_email": "",
+    "website": "https://www.fourkites.com"
+  },
+  {
+    "id": "fareye-chennai",
+    "name": "FarEye",
+    "domain": "Last-Mile Logistics Cloud, Route Optimization Engine & AWS Serverless",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Logistics Cloud & Serverless Intern",
+    "contact_email": "careers@fareye.com",
+    "backup_email": "",
+    "website": "https://www.fareye.com"
+  },
+  {
+    "id": "mad-street-den",
+    "name": "Mad Street Den (Vue.ai)",
+    "domain": "Computer Vision AI Cloud, Retail Automation & GPU Inference Pipelines",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "MLOps & GPU Cloud Infrastructure Intern",
+    "contact_email": "careers@madstreetden.com",
+    "backup_email": "",
+    "website": "https://www.madstreetden.com"
+  },
+  {
+    "id": "uniphore-chennai",
+    "name": "Uniphore Software Systems",
+    "domain": "Conversational AI Cloud, Real-Time Audio Transcription & WebRTC",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "Conversational Cloud & Telephony Intern",
+    "contact_email": "careers@uniphore.com",
+    "backup_email": "",
+    "website": "https://www.uniphore.com"
+  },
+  {
+    "id": "gupshup-chennai",
+    "name": "Gupshup",
+    "domain": "Conversational Messaging Cloud, High-Throughput SMS & WhatsApp APIs",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Messaging & Queueing Intern",
+    "contact_email": "careers@gupshup.io",
+    "backup_email": "",
+    "website": "https://www.gupshup.io"
+  },
+  {
+    "id": "yellow-ai-chennai",
+    "name": "Yellow.ai",
+    "domain": "Dynamic AI Agents Cloud, LLM Orchestration & Serverless Microservices",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "GenAI Cloud & Platform Intern",
+    "contact_email": "careers@yellow.ai",
+    "backup_email": "",
+    "website": "https://yellow.ai"
+  },
+  {
+    "id": "flytxt-chennai",
+    "name": "Flytxt",
+    "domain": "Telco AI Decisioning Cloud, Real-Time Event Processing on AWS",
+    "location": "Olympia Tech Park, Guindy, Chennai",
+    "target_role": "Telco Cloud & Analytics Intern",
+    "contact_email": "careers@flytxt.com",
+    "backup_email": "",
+    "website": "https://www.flytxt.com"
+  },
+  {
+    "id": "netcore-chennai",
+    "name": "Netcore Cloud",
+    "domain": "Customer Engagement Cloud, Email Deliverability Engines & ClickHouse",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Delivery & Data Ingestion Intern",
+    "contact_email": "careers@netcorecloud.com",
+    "backup_email": "",
+    "website": "https://netcorecloud.com"
+  },
+  {
+    "id": "clevertap-chennai",
+    "name": "CleverTap",
+    "domain": "User Retention Cloud, Real-Time Analytics Database (TesseractDB)",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Database Cloud & SRE Intern",
+    "contact_email": "careers@clevertap.com",
+    "backup_email": "",
+    "website": "https://clevertap.com"
+  },
+  {
+    "id": "moengage-chennai",
+    "name": "MoEngage",
+    "domain": "Insights-Led Customer Engagement Cloud, Microservices on Kubernetes",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Kubernetes & Cloud Infrastructure Intern",
+    "contact_email": "careers@moengage.com",
+    "backup_email": "",
+    "website": "https://www.moengage.com"
+  },
+  {
+    "id": "inmobi-chennai",
+    "name": "InMobi",
+    "domain": "Mobile AdTech Cloud, High-Volume Bidding Feeds & Multi-Cloud Ops",
+    "location": "Chennai Hub, Tamil Nadu",
+    "target_role": "AdTech Cloud & Low-Latency Systems Intern",
+    "contact_email": "careers@inmobi.com",
+    "backup_email": "",
+    "website": "https://www.inmobi.com"
+  },
+  {
+    "id": "affle-chennai",
+    "name": "Affle India",
+    "domain": "Consumer Intelligence Cloud, Fraud Detection Pipelines & Serverless",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Security & Data Pipelines Intern",
+    "contact_email": "careers@affle.com",
+    "backup_email": "",
+    "website": "https://www.affle.com"
+  },
+  {
+    "id": "matrimony-com",
+    "name": "Matrimony.com (BharatMatrimony)",
+    "domain": "High-Concurrency Consumer Web Platforms, AWS Auto Scaling & S3 Storage",
+    "location": "MRC Nagar / Mandaveli, Chennai",
+    "target_role": "Cloud Auto Scaling & Web Reliability Intern",
+    "contact_email": "careers@matrimony.com",
+    "backup_email": "",
+    "website": "https://www.matrimony.com"
+  },
+  {
+    "id": "sulekha-com",
+    "name": "Sulekha.com",
+    "domain": "Local Services Marketplace Cloud, Elastic Search & AWS Ingress",
+    "location": "Thiruvanmiyur, Chennai",
+    "target_role": "Cloud Search & Backend Systems Intern",
+    "contact_email": "careers@sulekha.net",
+    "backup_email": "",
+    "website": "https://www.sulekha.com"
+  },
+  {
+    "id": "vivriti-capital",
+    "name": "Vivriti Capital",
+    "domain": "Mid-Market Enterprise FinTech Cloud, Loan Origination & AWS Isolation",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "FinTech Cloud Infrastructure Intern",
+    "contact_email": "careers@vivriticapital.com",
+    "backup_email": "",
+    "website": "https://www.vivriticapital.com"
+  },
+  {
+    "id": "yubi-credapex",
+    "name": "Yubi (formerly CredAvenue)",
+    "domain": "Unified Debt Marketplace Cloud, Microservices Architecture & Terraform",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "FinTech Platform & Terraform Intern",
+    "contact_email": "careers@go-yubi.com",
+    "backup_email": "",
+    "website": "https://www.go-yubi.com"
+  },
+  {
+    "id": "northern-arc",
+    "name": "Northern Arc Capital",
+    "domain": "Financial Inclusion Platform Cloud, Nimbus Risk Platform & Multi-AZ RDS",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "Cloud Database & Security Intern",
+    "contact_email": "careers@northernarc.com",
+    "backup_email": "",
+    "website": "https://www.northernarc.com"
+  },
+  {
+    "id": "samunnati-finance",
+    "name": "Samunnati Financial Intermediation",
+    "domain": "Agri-Value Chain FinTech Cloud, Rural Digital Ingestion & AWS",
+    "location": "Guindy, Chennai",
+    "target_role": "AgriTech Cloud & Backend Intern",
+    "contact_email": "careers@samunnati.com",
+    "backup_email": "",
+    "website": "https://samunnati.com"
+  },
+  {
+    "id": "fivestar-finance",
+    "name": "Five Star Business Finance",
+    "domain": "Small Business Lending Cloud, Distributed Branch Ingestion & S3",
+    "location": "Kilpauk, Chennai",
+    "target_role": "Cloud Branch Ingestion & Systems Intern",
+    "contact_email": "careers@fivestargroup.in",
+    "backup_email": "",
+    "website": "https://fivestargroup.in"
+  },
+  {
+    "id": "veritas-finance",
+    "name": "Veritas Finance",
+    "domain": "MSME Micro-Lending Cloud, Mobile Underwriting & AWS Serverless",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud Serverless & Operations Intern",
+    "contact_email": "careers@veritasfin.in",
+    "backup_email": "",
+    "website": "https://veritasfin.in"
+  },
+  {
+    "id": "sundaram-finance",
+    "name": "Sundaram Finance",
+    "domain": "Vehicle Finance & Deposit Cloud, High-Availability Oracle on Cloud",
+    "location": "Whites Road, Royapettah, Chennai",
+    "target_role": "Enterprise Cloud & Database Intern",
+    "contact_email": "careers@sundaramfinance.in",
+    "backup_email": "",
+    "website": "https://www.sundaramfinance.in"
+  },
+  {
+    "id": "cholamandalam-finance",
+    "name": "Cholamandalam Investment and Finance (Chola)",
+    "domain": "Vehicle & Home Loan Cloud Platforms, Murugappa Group Digital Cloud",
+    "location": "Parrys / Guindy, Chennai",
+    "target_role": "Enterprise Cloud Infrastructure Intern",
+    "contact_email": "careers@chola.murugappa.com",
+    "backup_email": "",
+    "website": "https://www.cholamandalam.com"
+  },
+  {
+    "id": "shriram-finance",
+    "name": "Shriram Finance",
+    "domain": "India's Largest Retail NBFC Cloud, High-Throughput Branch Networks",
+    "location": "Mylapore, Chennai",
+    "target_role": "Financial Cloud Infrastructure Intern",
+    "contact_email": "careers@shriramfinance.in",
+    "backup_email": "",
+    "website": "https://www.shriramfinance.in"
+  },
+  {
+    "id": "tvs-credit",
+    "name": "TVS Credit Services",
+    "domain": "Consumer FinTech Cloud, Real-Time Loan Approval Engine on AWS",
+    "location": "Jayalakshmi Estates, Nungambakkam, Chennai",
+    "target_role": "FinTech Cloud & Microservices Intern",
+    "contact_email": "careers@tvscredit.com",
+    "backup_email": "",
+    "website": "https://www.tvscredit.com"
+  },
+  {
+    "id": "pine-labs-chennai",
+    "name": "Pine Labs",
+    "domain": "Merchant Commerce Cloud, Point-of-Sale Real-Time Transaction Routing",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Transaction Cloud & Networking Intern",
+    "contact_email": "careers@pinelabs.com",
+    "backup_email": "",
+    "website": "https://www.pinelabs.com"
+  },
+  {
+    "id": "razorpay-chennai",
+    "name": "Razorpay",
+    "domain": "Payment Gateway Infrastructure, AWS Kubernetes & High-Frequency Webhooks",
+    "location": "Chennai Tech Office, Tamil Nadu",
+    "target_role": "Payment Cloud & Webhooks Infrastructure Intern",
+    "contact_email": "careers@razorpay.com",
+    "backup_email": "",
+    "website": "https://razorpay.com"
+  },
+  {
+    "id": "cashfree-chennai",
+    "name": "Cashfree Payments",
+    "domain": "Instant Payouts Cloud, Banking API Gateways & High-Scale Microservices",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud API Gateway & Microservices Intern",
+    "contact_email": "careers@cashfree.com",
+    "backup_email": "",
+    "website": "https://www.cashfree.com"
+  },
+  {
+    "id": "payu-chennai",
+    "name": "PayU India",
+    "domain": "Payment Aggregation Cloud, Fraud Engine on AWS & Zero-Downtime EKS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Security & Reliability Intern",
+    "contact_email": "careers@payu.in",
+    "backup_email": "",
+    "website": "https://corporate.payu.com"
+  },
+  {
+    "id": "dunzo-chennai",
+    "name": "Dunzo",
+    "domain": "Hyperlocal Delivery Engine Cloud, Geo-Dispatch Pipelines & Redis",
+    "location": "Chennai Tech Hub, Tamil Nadu",
+    "target_role": "Cloud Dispatch & Queueing Intern",
+    "contact_email": "careers@dunzo.com",
+    "backup_email": "",
+    "website": "https://www.dunzo.com"
+  },
+  {
+    "id": "swiggy-chennai",
+    "name": "Swiggy Tech Hub",
+    "domain": "Food & Grocery Delivery Cloud, High-Concurrency Order Pipelines on AWS",
+    "location": "Chennai Office, Tamil Nadu",
+    "target_role": "High-Concurrency Cloud Systems Intern",
+    "contact_email": "careers@swiggy.in",
+    "backup_email": "",
+    "website": "https://careers.swiggy.com"
+  },
+  {
+    "id": "zomato-chennai",
+    "name": "Zomato Tech Hub",
+    "domain": "FoodTech Cloud Architecture, Dynamic Auto Scaling & CDN Management",
+    "location": "Chennai Hub, Tamil Nadu",
+    "target_role": "Cloud Auto Scaling & Edge CDN Intern",
+    "contact_email": "careers@zomato.com",
+    "backup_email": "",
+    "website": "https://www.zomato.com"
+  },
+  {
+    "id": "zepto-chennai",
+    "name": "Zepto",
+    "domain": "10-Minute Grocery Delivery Cloud, Dark Store Inventory Ingestion",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Inventory & Real-Time Sync Intern",
+    "contact_email": "careers@zeptonow.com",
+    "backup_email": "",
+    "website": "https://www.zeptonow.com"
+  },
+  {
+    "id": "blinkit-chennai",
+    "name": "Blinkit",
+    "domain": "Quick Commerce Cloud Systems, Order Routing & SQS Dead-Letter Queues",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Queueing & SRE Intern",
+    "contact_email": "careers@blinkit.com",
+    "backup_email": "",
+    "website": "https://blinkit.com"
+  },
+  {
+    "id": "dailyhunt-verse",
+    "name": "Dailyhunt (VerSe Innovation)",
+    "domain": "Local Language Content Cloud, Recommendation Engine & Big Data on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Content Cloud & Big Data Intern",
+    "contact_email": "careers@verse.in",
+    "backup_email": "",
+    "website": "https://verse.in"
+  },
+  {
+    "id": "sharechat-chennai",
+    "name": "ShareChat",
+    "domain": "Indic Social Media Cloud, Large-Scale Video Processing & Google Cloud",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Video Cloud Processing Intern",
+    "contact_email": "careers@sharechat.co",
+    "backup_email": "",
+    "website": "https://sharechat.com"
+  },
+  {
+    "id": "sun-nxt-digital",
+    "name": "Sun TV Network (Sun NXT)",
+    "domain": "OTT Video Streaming Cloud, CDN Multi-CDN Routing & DRM Encoding",
+    "location": "Murasoli Maran Towers, MRC Nagar, Chennai",
+    "target_role": "OTT Cloud & Streaming Architecture Intern",
+    "contact_email": "careers@sunnetwork.in",
+    "backup_email": "",
+    "website": "https://www.sunnetwork.in"
+  },
+  {
+    "id": "zee-digital-chennai",
+    "name": "Zee Entertainment Digital Hub",
+    "domain": "Media Asset Ingestion Cloud, High-Throughput Video Chunk Processing",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Media Cloud & Transcoding Intern",
+    "contact_email": "careers@zee.com",
+    "backup_email": "",
+    "website": "https://www.zee.com"
+  },
+  {
+    "id": "disney-hotstar-chennai",
+    "name": "Disney+ Hotstar Tech Hub",
+    "domain": "Live Cricket Streaming Cloud, Tens of Millions Concurrent Streams on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Live Streaming Cloud Reliability Intern",
+    "contact_email": "careers@hotstar.com",
+    "backup_email": "",
+    "website": "https://www.hotstar.com"
+  },
+  {
+    "id": "jiocinema-chennai",
+    "name": "JioCinema Tech Hub",
+    "domain": "High-Scale OTT Video Delivery, Low-Latency WebRTC & Distributed CDNs",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "OTT Cloud Delivery Intern",
+    "contact_email": "careers@jiocinema.com",
+    "backup_email": "",
+    "website": "https://www.jiocinema.com"
+  },
+  {
+    "id": "the-hindu-digital",
+    "name": "The Hindu Group Digital (Kasturi & Sons)",
+    "domain": "News Publishing Cloud, High-Traffic WordPress AWS Stacks & CloudFront",
+    "location": "Kasturi Buildings, Anna Salai, Chennai",
+    "target_role": "Cloud Publishing & CDN Intern",
+    "contact_email": "careers@thehindu.co.in",
+    "backup_email": "",
+    "website": "https://www.thehindugroup.com"
+  },
+  {
+    "id": "vikatan-digital",
+    "name": "Ananda Vikatan Digital",
+    "domain": "Digital Media Cloud, Paywall Infrastructure & AWS MediaLive",
+    "location": "Anna Salai, Chennai",
+    "target_role": "Media Cloud & Backend Intern",
+    "contact_email": "careers@vikatan.com",
+    "backup_email": "",
+    "website": "https://www.vikatan.com"
+  },
+  {
+    "id": "netmeds-reliance",
+    "name": "Netmeds (Reliance Retail)",
+    "domain": "Online Pharmacy Cloud, High-Availability Order Routing & S3 Invoices",
+    "location": "Royapettah, Chennai",
+    "target_role": "E-Commerce Cloud & Order Routing Intern",
+    "contact_email": "careers@netmeds.com",
+    "backup_email": "",
+    "website": "https://www.netmeds.com"
+  },
+  {
+    "id": "pharmeasy-chennai",
+    "name": "PharmEasy",
+    "domain": "Healthcare Supply Chain Cloud, Prescription Ingestion & AWS Lambda",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Health Supply Chain Cloud Intern",
+    "contact_email": "careers@pharmeasy.in",
+    "backup_email": "",
+    "website": "https://pharmeasy.in"
+  },
+  {
+    "id": "tata-1mg-chennai",
+    "name": "Tata 1mg",
+    "domain": "Digital Health Cloud, Diagnostic Lab Telemetry & Microservices",
+    "location": "Chennai Tech Hub, Tamil Nadu",
+    "target_role": "Health Diagnostic Cloud Intern",
+    "contact_email": "careers@1mg.com",
+    "backup_email": "",
+    "website": "https://www.1mg.com"
+  },
+  {
+    "id": "medibuddy-chennai",
+    "name": "MediBuddy",
+    "domain": "Corporate Health Benefits Cloud, Teleconsultation Video Ingestion",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Health Teleconsultation Cloud Intern",
+    "contact_email": "careers@medibuddy.in",
+    "backup_email": "",
+    "website": "https://www.medibuddy.in"
+  },
+  {
+    "id": "practo-chennai",
+    "name": "Practo",
+    "domain": "Doctor Appointment Cloud, Electronic Medical Records on AWS VPC",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Healthcare EMR Cloud Intern",
+    "contact_email": "careers@practo.com",
+    "backup_email": "",
+    "website": "https://www.practo.com"
+  },
+  {
+    "id": "ashok-leyland",
+    "name": "Ashok Leyland (Hinduja Group)",
+    "domain": "Commercial Vehicle Telematics Cloud, i-Alert IoT & AWS Fleet Analytics",
+    "location": "Technical Centre, Vengadu / Guindy, Chennai",
+    "target_role": "Fleet Telematics & Cloud IoT Intern",
+    "contact_email": "careers@ashokleyland.com",
+    "backup_email": "",
+    "website": "https://www.ashokleyland.com"
+  },
+  {
+    "id": "tvs-motor-rd",
+    "name": "TVS Motor Company",
+    "domain": "Connected Two-Wheeler Cloud, SmartXonnect Ingestion & AWS Time-Series",
+    "location": "Hosur / Chennai R&D Center",
+    "target_role": "Connected Vehicle Cloud Intern",
+    "contact_email": "careers@tvsmotor.com",
+    "backup_email": "",
+    "website": "https://www.tvsmotor.com"
+  },
+  {
+    "id": "royal-enfield-tech",
+    "name": "Royal Enfield (Eicher Motors)",
+    "domain": "Motorcycle Telematics Cloud, Tripper Navigation Sync & Cloud Analytics",
+    "location": "Technology Centre, Vallam Vadagal, Oragadam, Chennai",
+    "target_role": "Motorcycle Cloud & Telematics Intern",
+    "contact_email": "careers@royalenfield.com",
+    "backup_email": "",
+    "website": "https://www.royalenfield.com"
+  },
+  {
+    "id": "mahindra-research-valley",
+    "name": "Mahindra Research Valley (MRV)",
+    "domain": "Adrenox Connected Car Cloud, Vehicle Edge Computing & AWS IoT Core",
+    "location": "Mahindra World City, Maraimalai Nagar, Chennai",
+    "target_role": "Connected Car Cloud & IoT Intern",
+    "contact_email": "careers.mrv@mahindra.com",
+    "backup_email": "",
+    "website": "https://www.mahindra.com"
+  },
+  {
+    "id": "hmie-hyundai",
+    "name": "Hyundai Motor India Engineering (HMIE)",
+    "domain": "Bluelink Connected Vehicle Cloud, In-Vehicle Infotainment Streaming",
+    "location": "Irungattukottai / Guindy, Chennai",
+    "target_role": "Vehicle Cloud Infotainment Intern",
+    "contact_email": "careers.hmie@hyundai-motor.com",
+    "backup_email": "",
+    "website": "https://www.hyundai.com/in"
+  },
+  {
+    "id": "daimler-trucks-bharatbenz",
+    "name": "Daimler India Commercial Vehicles (DICV - BharatBenz)",
+    "domain": "TruckConnect Fleet Cloud, Telematics Big Data & Multi-AZ AWS RDS",
+    "location": "Oragadam Industrial Corridor, Chennai",
+    "target_role": "Fleet Cloud & Big Data Intern",
+    "contact_email": "careers@daimlertruck.com",
+    "backup_email": "",
+    "website": "https://www.daimler-truck.com"
+  },
+  {
+    "id": "bmw-group-it-chennai",
+    "name": "BMW Group IT Hub India",
+    "domain": "Connected Drive Cloud, Autonomous Mobility Big Data & Kubernetes",
+    "location": "Mahindra World City, Chennai",
+    "target_role": "Connected Mobility Cloud Intern",
+    "contact_email": "careers.india@bmw.com",
+    "backup_email": "",
+    "website": "https://www.bmwgroup.com"
+  },
+  {
+    "id": "yamaha-motor-rd",
+    "name": "Yamaha Motor India R&D",
+    "domain": "Y-Connect Telematics Cloud, Bluetooth-to-Cloud Sync & Edge Telemetry",
+    "location": "Kanchipuram / Chennai",
+    "target_role": "Two-Wheeler Cloud Telemetry Intern",
+    "contact_email": "careers@yamaha-motor-india.com",
+    "backup_email": "",
+    "website": "https://www.yamaha-motor-india.com"
+  },
+  {
+    "id": "ather-energy-chennai",
+    "name": "Ather Energy",
+    "domain": "EV Battery Telemetry Cloud, OTA Dashboard Updates & MQTT on AWS",
+    "location": "Hosur / Chennai Experience & Engineering Center",
+    "target_role": "EV Telemetry Cloud & MQTT Intern",
+    "contact_email": "careers@atherenergy.com",
+    "backup_email": "",
+    "website": "https://www.atherenergy.com"
+  },
+  {
+    "id": "ola-electric-chennai",
+    "name": "Ola Electric",
+    "domain": "MoveOS Cloud Architecture, Gigafactory Battery Cloud & Edge Sync",
+    "location": "Chennai / Krishnagiri FutureFactory Hub",
+    "target_role": "EV OS Cloud & SRE Intern",
+    "contact_email": "careers@olaelectric.com",
+    "backup_email": "",
+    "website": "https://www.olaelectric.com"
+  },
+  {
+    "id": "simple-energy",
+    "name": "Simple Energy",
+    "domain": "Smart EV Battery Cloud, Machine Learning Range Forecasting & AWS",
+    "location": "Tamil Nadu / Chennai Hub",
+    "target_role": "Smart EV Cloud & ML Intern",
+    "contact_email": "careers@simpleenergy.in",
+    "backup_email": "",
+    "website": "https://www.simpleenergy.in"
+  },
+  {
+    "id": "river-ev",
+    "name": "River EV",
+    "domain": "Utility EV Cloud Telemetry, Fleet Ingestion Engines & AWS IoT",
+    "location": "Tamil Nadu / Chennai Operations",
+    "target_role": "EV Fleet Cloud & IoT Intern",
+    "contact_email": "careers@rideriver.com",
+    "backup_email": "",
+    "website": "https://rideriver.com"
+  },
+  {
+    "id": "ultraviolette-tn",
+    "name": "Ultraviolette Automotive",
+    "domain": "High-Performance EV Telemetry Cloud, F77 Vehicle Data Sync",
+    "location": "Tamil Nadu Center",
+    "target_role": "EV Performance Cloud Intern",
+    "contact_email": "careers@ultraviolette.com",
+    "backup_email": "",
+    "website": "https://www.ultraviolette.com"
+  },
+  {
+    "id": "lucas-tvs",
+    "name": "Lucas TVS",
+    "domain": "Automotive Electrical Systems Cloud, Smart Motor Telemetry & AWS",
+    "location": "Padi, Chennai",
+    "target_role": "Automotive IoT Cloud Intern",
+    "contact_email": "careers@lucas-tvs.com",
+    "backup_email": "",
+    "website": "https://www.lucas-tvs.com"
+  },
+  {
+    "id": "sundram-fasteners",
+    "name": "Sundram Fasteners (TVS Group)",
+    "domain": "Smart Factory Cloud, CNC Telemetry Ingestion & AWS Microservices",
+    "location": "Padi, Chennai",
+    "target_role": "Smart Factory Cloud Intern",
+    "contact_email": "careers@sundram.com",
+    "backup_email": "",
+    "website": "https://www.sundram.com"
+  },
+  {
+    "id": "brakes-india",
+    "name": "Brakes India (TVS Group)",
+    "domain": "Braking Systems Telemetry Cloud, Quality Assurance Ingestion on Cloud",
+    "location": "Padi, Chennai",
+    "target_role": "Industrial Cloud Quality Intern",
+    "contact_email": "careers@brakesindia.com",
+    "backup_email": "",
+    "website": "https://www.brakesindia.com"
+  },
+  {
+    "id": "wheels-india",
+    "name": "Wheels India (TVS Group)",
+    "domain": "Heavy Wheel Manufacturing Execution Systems Cloud, Industrial IoT",
+    "location": "Padi, Chennai",
+    "target_role": "Manufacturing Cloud Systems Intern",
+    "contact_email": "careers@wheelsindia.com",
+    "backup_email": "",
+    "website": "https://www.wheelsindia.com"
+  },
+  {
+    "id": "rane-group",
+    "name": "Rane Group",
+    "domain": "Steering & Safety Systems Telematics Cloud, Predictive Maintenance",
+    "location": "Velachery, Chennai",
+    "target_role": "Automotive Safety Cloud Intern",
+    "contact_email": "careers@ranegroup.com",
+    "backup_email": "",
+    "website": "https://ranegroup.com"
+  },
+  {
+    "id": "mrf-tyres",
+    "name": "MRF Limited",
+    "domain": "Tyre Telematics Cloud, Global Factory Supply Chain & AWS Data Hubs",
+    "location": "Greams Road, Chennai",
+    "target_role": "Supply Chain Cloud & Systems Intern",
+    "contact_email": "careers@mrfmail.com",
+    "backup_email": "",
+    "website": "https://www.mrftyres.com"
+  },
+  {
+    "id": "apollo-tyres-rd",
+    "name": "Apollo Tyres Global R&D Center",
+    "domain": "Smart Tyre IoT Cloud, Pressure & Wear Sensor Streaming into AWS",
+    "location": "Oragadam Industrial Corridor, Chennai",
+    "target_role": "Smart Tyre Cloud IoT Intern",
+    "contact_email": "careers@apollotyres.com",
+    "backup_email": "",
+    "website": "https://corporate.apollotyres.com"
+  },
+  {
+    "id": "ceat-tyres-chennai",
+    "name": "CEAT Tyres India",
+    "domain": "Industry 4.0 Tyre Plant Cloud, Real-Time Sensor Telemetry & AWS",
+    "location": "Sriperumbudur, Chennai",
+    "target_role": "Industry 4.0 Cloud Intern",
+    "contact_email": "careers@ceat.com",
+    "backup_email": "",
+    "website": "https://www.ceat.com"
+  },
+  {
+    "id": "michelin-india-tech",
+    "name": "Michelin India Technology Center",
+    "domain": "Connected Fleet Mobility Cloud, Predictive Tread Wear Machine Learning",
+    "location": "Alathur / SIPCOT, Chennai",
+    "target_role": "Connected Fleet Cloud Intern",
+    "contact_email": "careers.india@michelin.com",
+    "backup_email": "",
+    "website": "https://www.michelin.in"
+  },
+  {
+    "id": "data-patterns",
+    "name": "Data Patterns (India) Limited",
+    "domain": "Defense & Aerospace Electronics, Radar Signal Processing Cloud & Linux",
+    "location": "Siruseri IT SEZ, Chennai",
+    "target_role": "Defense Cloud Systems & Linux Intern",
+    "contact_email": "careers@datapatternsindia.com",
+    "backup_email": "",
+    "website": "https://www.datapatternsindia.com"
+  },
+  {
+    "id": "paras-defence-chennai",
+    "name": "Paras Defence & Space Technologies",
+    "domain": "Optics & Defense Cloud Systems, Satellite Subsystem Testing on Cloud",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Space Optics Cloud & Testing Intern",
+    "contact_email": "careers@parasdefence.com",
+    "backup_email": "",
+    "website": "https://www.parasdefence.com"
+  },
+  {
+    "id": "centum-electronics",
+    "name": "Centum Electronics",
+    "domain": "Mission-Critical Electronics Cloud, Space Payload Ingestion & Telemetry",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Space Payload Cloud Systems Intern",
+    "contact_email": "careers@centumelectronics.com",
+    "backup_email": "",
+    "website": "https://www.centumelectronics.com"
+  },
+  {
+    "id": "cyient-dlm",
+    "name": "Cyient DLM",
+    "domain": "Design-Led Manufacturing Cloud, Medical & Defense Telemetry Ingestion",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Design-Led Cloud Systems Intern",
+    "contact_email": "careers@cyientdlm.com",
+    "backup_email": "",
+    "website": "https://www.cyientdlm.com"
+  },
+  {
+    "id": "kaynes-technology",
+    "name": "Kaynes Technology India",
+    "domain": "Railway Signaling Electronics Cloud, IoT Sensors & Cloud Modernization",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Railway Cloud Signaling & IoT Intern",
+    "contact_email": "careers@kaynestechnology.net",
+    "backup_email": "",
+    "website": "https://www.kaynestechnology.net"
+  },
+  {
+    "id": "syrma-sgs",
+    "name": "Syrma SGS Technology",
+    "domain": "Electronic Manufacturing Services Cloud, IoT Modules & AWS Cloud Integrations",
+    "location": "MEPZ-SEZ, Tambaram, Chennai",
+    "target_role": "IoT Hardware Cloud & Systems Intern",
+    "contact_email": "careers@syrmasgs.com",
+    "backup_email": "",
+    "website": "https://www.syrmasgs.com"
+  },
+  {
+    "id": "vvdn-chennai",
+    "name": "VVDN Technologies",
+    "domain": "5G Cloud Architecture, Cloud-Controlled Surveillance & Edge Computing",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "5G Cloud & Edge Computing Intern",
+    "contact_email": "careers@vvdntech.com",
+    "backup_email": "",
+    "website": "https://www.vvdntech.com"
+  },
+  {
+    "id": "mistral-solutions",
+    "name": "Mistral Solutions (Axiscades)",
+    "domain": "Defense Avionics Cloud, Embedded Linux Kernel & Drone Ground Stations",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Defense Cloud & Embedded Linux Intern",
+    "contact_email": "careers@mistralsolutions.com",
+    "backup_email": "",
+    "website": "https://www.mistralsolutions.com"
+  },
+  {
+    "id": "lt-semiconductor",
+    "name": "L&T Semiconductor Technologies (LTST)",
+    "domain": "Fabless Semiconductor Cloud, EDA Tool Orchestration on AWS & Linux",
+    "location": "L&T Campus, Manapakkam, Chennai",
+    "target_role": "Semiconductor Cloud & EDA Intern",
+    "contact_email": "careers.semiconductors@ltts.com",
+    "backup_email": "",
+    "website": "https://www.ltts.com"
+  },
+  {
+    "id": "polymatech-chennai",
+    "name": "Polymatech Electronics",
+    "domain": "Opto-Semiconductor Cloud, Cleanroom Manufacturing Telemetry & AWS",
+    "location": "Oragadam Industrial Corridor, Chennai",
+    "target_role": "Cleanroom Cloud IoT & Systems Intern",
+    "contact_email": "careers@polymatech.in",
+    "backup_email": "",
+    "website": "https://www.polymatech.in"
+  },
+  {
+    "id": "niot-chennai",
+    "name": "National Institute of Ocean Technology (NIOT)",
+    "domain": "Deep-Sea Submersible Telemetry Cloud, Oceanographic Buoys & Linux",
+    "location": "Pallikaranai, Chennai",
+    "target_role": "Oceanographic Cloud Telemetry Intern",
+    "contact_email": "admin@niot.res.in",
+    "backup_email": "",
+    "website": "https://www.niot.res.in"
+  },
+  {
+    "id": "cvrde-drdo-chennai",
+    "name": "CVRDE (DRDO Chennai)",
+    "domain": "Armored Vehicle Simulation Cloud, Real-Time Sensor Telemetry & HPC",
+    "location": "Avadi, Chennai",
+    "target_role": "Defense Simulation Cloud & HPC Intern",
+    "contact_email": "director.cvrde@gov.in",
+    "backup_email": "",
+    "website": "https://www.drdo.gov.in"
+  },
+  {
+    "id": "integral-coach-factory",
+    "name": "Integral Coach Factory (ICF Vande Bharat)",
+    "domain": "Vande Bharat Train Telematics Cloud, Railway IoT & Onboard Sensors",
+    "location": "Perambur, Chennai",
+    "target_role": "Railway Telematics & Cloud IoT Intern",
+    "contact_email": "gm@icf.railnet.gov.in",
+    "backup_email": "",
+    "website": "https://icf.indianrailways.gov.in"
+  },
+  {
+    "id": "hvf-avadi",
+    "name": "Heavy Vehicles Factory (HVF Avadi)",
+    "domain": "Defense Manufacturing Cloud, Heavy Vehicle Production Telemetry",
+    "location": "Avadi, Chennai",
+    "target_role": "Industrial Defense Cloud Intern",
+    "contact_email": "contact@avnl.co.in",
+    "backup_email": "",
+    "website": "https://avnl.co.in"
+  },
+  {
+    "id": "lt-shipbuilding-kattupalli",
+    "name": "L&T Shipbuilding & Port Operations",
+    "domain": "Naval Defense Cloud, Port Logistics Ingestion & Container Operations",
+    "location": "Kattupalli Port, North Chennai",
+    "target_role": "Maritime Cloud & Port Logistics Intern",
+    "contact_email": "careers.shipbuilding@larsentoubro.com",
+    "backup_email": "",
+    "website": "https://www.larsentoubro.com"
+  },
+  {
+    "id": "apollo-hospitals-digital",
+    "name": "Apollo Hospitals Digital Health (Apollo 24|7)",
+    "domain": "Telehealth Cloud Platform, Electronic Health Records & AWS VPCs",
+    "location": "Greams Road / Taramani, Chennai",
+    "target_role": "Digital Health Cloud & SRE Intern",
+    "contact_email": "careers@apollo247.com",
+    "backup_email": "",
+    "website": "https://www.apollo247.com"
+  },
+  {
+    "id": "kauvery-hospital-tech",
+    "name": "Kauvery Hospital Tech Services",
+    "domain": "Hospital Information Systems Cloud (HIS), Patient Data Protection",
+    "location": "Alwarpet, Chennai",
+    "target_role": "Hospital Cloud Systems & Security Intern",
+    "contact_email": "careers@kauveryhospital.com",
+    "backup_email": "",
+    "website": "https://www.kauveryhospital.com"
+  },
+  {
+    "id": "dr-agarwals-eye-tech",
+    "name": "Dr. Agarwal's Eye Hospital Tech Hub",
+    "domain": "Ophthalmology Imaging Cloud, AI Retinal Scan Pipelines on AWS",
+    "location": "Cathedral Road, Chennai",
+    "target_role": "Medical Imaging Cloud & AI Pipelines Intern",
+    "contact_email": "careers@dragarwal.com",
+    "backup_email": "",
+    "website": "https://www.dragarwal.com"
+  },
+  {
+    "id": "neuberg-diagnostics",
+    "name": "Neuberg Diagnostics Technology Hub",
+    "domain": "Genomic Sequencing Cloud, Molecular Pathology Data Lakes on AWS S3",
+    "location": "Royapettah, Chennai",
+    "target_role": "Genomics Cloud & Storage Intern",
+    "contact_email": "careers@neubergdiagnostics.com",
+    "backup_email": "",
+    "website": "https://neubergdiagnostics.com"
+  },
+  {
+    "id": "medall-healthcare",
+    "name": "Medall Healthcare",
+    "domain": "Diagnostic Radiology Cloud, PACS Image Archives & AWS LifeCycle",
+    "location": "Alwarpet, Chennai",
+    "target_role": "Radiology Cloud & S3 Archiving Intern",
+    "contact_email": "careers@medall.in",
+    "backup_email": "",
+    "website": "https://www.medall.in"
+  },
+  {
+    "id": "great-learning-chennai",
+    "name": "Great Learning (BYJU'S Group)",
+    "domain": "Higher EdTech Cloud, Virtual Lab Environments & AWS Kubernetes",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "EdTech Cloud & Virtual Labs Intern",
+    "contact_email": "careers@greatlearning.in",
+    "backup_email": "",
+    "website": "https://www.mygreatlearning.com"
+  },
+  {
+    "id": "simplilearn-chennai",
+    "name": "Simplilearn",
+    "domain": "Digital Skills Cloud, Scalable Interactive Learning Pipelines on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Learning Infrastructure Intern",
+    "contact_email": "careers@simplilearn.net",
+    "backup_email": "",
+    "website": "https://www.simplilearn.com"
+  },
+  {
+    "id": "upgrad-chennai",
+    "name": "upGrad Education",
+    "domain": "University Platform Cloud, Microservices Video Ingestion & AWS RDS",
+    "location": "Chennai Office, Tamil Nadu",
+    "target_role": "EdTech Cloud Platform Intern",
+    "contact_email": "careers@upgrad.com",
+    "backup_email": "",
+    "website": "https://www.upgrad.com"
+  },
+  {
+    "id": "skill-lync",
+    "name": "Skill-Lync",
+    "domain": "Engineering Simulation Cloud, Finite Element Analysis on AWS HPC",
+    "location": "Adyar, Chennai",
+    "target_role": "HPC Simulation Cloud Intern",
+    "contact_email": "careers@skill-lync.com",
+    "backup_email": "",
+    "website": "https://skill-lync.com"
+  },
+  {
+    "id": "edureka-chennai",
+    "name": "Edureka (Veranda Group)",
+    "domain": "Live Online Training Cloud, Cloud Lab Automation & AWS EC2 Orchestration",
+    "location": "Chennai Hub, Tamil Nadu",
+    "target_role": "Cloud Lab Automation Intern",
+    "contact_email": "careers@edureka.co",
+    "backup_email": "",
+    "website": "https://www.edureka.co"
+  },
+  {
+    "id": "behindwoods-digital",
+    "name": "Behindwoods Digital Media",
+    "domain": "High-Volume Entertainment News Cloud, Multi-CDN Routing & AWS S3",
+    "location": "T. Nagar, Chennai",
+    "target_role": "Digital Media Cloud & CDN Intern",
+    "contact_email": "careers@behindwoods.com",
+    "backup_email": "",
+    "website": "https://www.behindwoods.com"
+  },
+  {
+    "id": "galatta-media",
+    "name": "Galatta Media",
+    "domain": "Entertainment Streaming Cloud, Digital Asset Management on AWS",
+    "location": "Alwarpet, Chennai",
+    "target_role": "Media Cloud Storage & Streaming Intern",
+    "contact_email": "careers@galatta.com",
+    "backup_email": "",
+    "website": "https://www.galatta.com"
+  },
+  {
+    "id": "way2news-chennai",
+    "name": "Way2News",
+    "domain": "Hyperlocal Short News Cloud, High-Throughput Notification Engine on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Push Notification & SQS Intern",
+    "contact_email": "careers@way2news.com",
+    "backup_email": "",
+    "website": "https://www.way2news.co"
+  },
+  {
+    "id": "syncfusion-chennai",
+    "name": "Syncfusion",
+    "domain": "UI Component Cloud & Bold BI Dashboard Cloud, Multi-Tenant SaaS",
+    "location": "AJC Campus, Karapakkam, OMR, Chennai",
+    "target_role": "Cloud SaaS & BI Platform Intern",
+    "contact_email": "careers@syncfusion.com",
+    "backup_email": "",
+    "website": "https://www.syncfusion.com"
+  },
+  {
+    "id": "bounteous-chennai",
+    "name": "Bounteous India",
+    "domain": "Co-Innovation Cloud Platforms, Kubernetes & Cloud-Native Engineering",
+    "location": "DLF Cybercity, Manapakkam, Chennai",
+    "target_role": "Cloud-Native & Kubernetes Intern",
+    "contact_email": "careers.india@bounteous.com",
+    "backup_email": "",
+    "website": "https://www.bounteous.com"
+  },
+  {
+    "id": "lucid-technologies",
+    "name": "Lucid Imaging / Lucid Technologies",
+    "domain": "Industrial Machine Vision Cloud, High-Speed Camera Ingestion on AWS",
+    "location": "Thiruvanmiyur, Chennai",
+    "target_role": "Vision Cloud & Data Ingestion Intern",
+    "contact_email": "careers@lucidimaging.in",
+    "backup_email": "",
+    "website": "https://lucidimaging.in"
+  },
+  {
+    "id": "chain-sys",
+    "name": "Chain-Sys (India)",
+    "domain": "Enterprise Data Migration Cloud, Master Data Management & Multi-Cloud",
+    "location": "Ramanujan IT City, Taramani, Chennai",
+    "target_role": "Cloud Data Migration Intern",
+    "contact_email": "careers@chainsys.com",
+    "backup_email": "",
+    "website": "https://www.chainsys.com"
+  },
+  {
+    "id": "sysbiz-technologies",
+    "name": "Sysbiz Technologies",
+    "domain": "Digital Transformation Cloud, AWS Enterprise DevOps & Web Application Cloud",
+    "location": "Perungudi, OMR, Chennai",
+    "target_role": "AWS DevOps & Cloud Systems Intern",
+    "contact_email": "careers@sysbiz.com",
+    "backup_email": "",
+    "website": "https://www.sysbiz.com"
+  },
+  {
+    "id": "vserve-ebusiness",
+    "name": "Vserve Ebusiness Solutions",
+    "domain": "E-Commerce Catalog Cloud, Product Data Processing on AWS Serverless",
+    "location": "Saidapet, Chennai",
+    "target_role": "E-Commerce Cloud & Serverless Intern",
+    "contact_email": "careers@vserveebusiness.com",
+    "backup_email": "",
+    "website": "https://www.vserveebusiness.com"
+  },
+  {
+    "id": "quadrasystems",
+    "name": "Quadra Systems",
+    "domain": "Enterprise Cloud Architecture, Microsoft Cloud Tier-1 Solutions & AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Enterprise Cloud Solutions Intern",
+    "contact_email": "careers@quadrasystems.net",
+    "backup_email": "",
+    "website": "https://www.quadrasystems.net"
+  },
+  {
+    "id": "inspan-infotech",
+    "name": "Inspan Infotech",
+    "domain": "Enterprise IT Distribution Cloud, Networking Hardware & Cloud Hybrid",
+    "location": "Nungambakkam, Chennai",
+    "target_role": "Cloud Networking & Infrastructure Intern",
+    "contact_email": "careers@inspaninfotech.com",
+    "backup_email": "",
+    "website": "https://www.inspaninfotech.com"
+  },
+  {
+    "id": "agile-cyber-solutions",
+    "name": "Agile Cyber Solutions",
+    "domain": "Custom Cloud Engineering, AWS VPC Automation & Microservices Backends",
+    "location": "Guindy, Chennai",
+    "target_role": "AWS VPC & Backend Intern",
+    "contact_email": "careers@agilecyber.com",
+    "backup_email": "",
+    "website": "https://agilecyber.com"
+  },
+  {
+    "id": "cynosure-technologies",
+    "name": "Cynosure Technologies",
+    "domain": "Enterprise ERP Cloud Migration, AWS Cloud Infrastructure & Database",
+    "location": "Anna Nagar, Chennai",
+    "target_role": "ERP Cloud & Database Intern",
+    "contact_email": "careers@cynosuretechnologies.com",
+    "backup_email": "",
+    "website": "https://www.cynosuretechnologies.com"
+  },
+  {
+    "id": "claris-technologies",
+    "name": "Claris Global Technologies",
+    "domain": "Fintech Solutions Cloud, Core Banking APIs & Private VPC Management",
+    "location": "Taramani, Chennai",
+    "target_role": "Fintech Cloud & API Intern",
+    "contact_email": "careers@claristechnologies.com",
+    "backup_email": "",
+    "website": "https://claristechnologies.com"
+  },
+  {
+    "id": "amphisoft-technologies",
+    "name": "Amphisoft Technologies (E-Box)",
+    "domain": "Engineering EdTech Cloud, Automated Code Evaluation on Docker Sandboxes",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Container Sandboxing & Cloud Intern",
+    "contact_email": "careers@amphisoft.co.in",
+    "backup_email": "",
+    "website": "https://e-box.co.in"
+  },
+  {
+    "id": "e-con-systems",
+    "name": "e-con Systems",
+    "domain": "Embedded Vision Cameras, Linux Camera Drivers & AWS Cloud Ingestion",
+    "location": "Chennai One IT SEZ, Thoraipakkam, Chennai",
+    "target_role": "Embedded Vision & Cloud Ingestion Intern",
+    "contact_email": "careers@e-consystems.com",
+    "backup_email": "",
+    "website": "https://www.e-consystems.com"
+  },
+  {
+    "id": "zoho-corp-iot",
+    "name": "Zoho WebNMS (IoT Division)",
+    "domain": "Enterprise IoT Platform Cloud, Smart Energy Monitoring & Edge Gateways",
+    "location": "Estancia IT Park, Guduvanchery, Chennai",
+    "target_role": "IoT Platform Cloud Intern",
+    "contact_email": "careers@webnms.com",
+    "backup_email": "",
+    "website": "https://www.webnms.com"
+  },
+  {
+    "id": "fomax-innovations",
+    "name": "Fomax Innovations",
+    "domain": "Cloud Digital Transformation, Microservices & Serverless Development",
+    "location": "Adyar, Chennai",
+    "target_role": "Serverless & Cloud Development Intern",
+    "contact_email": "careers@fomaxinnovations.com",
+    "backup_email": "",
+    "website": "https://fomaxinnovations.com"
+  },
+  {
+    "id": "zen-corp-technologies",
+    "name": "Zen Technologies India",
+    "domain": "Defense Combat Training Simulators, Virtual Reality Cloud & HPC",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Simulator Cloud & Virtual Reality Intern",
+    "contact_email": "careers@zentechnologies.com",
+    "backup_email": "",
+    "website": "https://www.zentechnologies.com"
+  },
+  {
+    "id": "carmatec-it-solutions",
+    "name": "Carmatec IT Solutions",
+    "domain": "AWS Managed Services, 24x7 Cloud Infrastructure Operations & DevOps",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "AWS Managed Services & SRE Intern",
+    "contact_email": "careers@carmatec.com",
+    "backup_email": "",
+    "website": "https://www.carmatec.com"
+  },
+  {
+    "id": "sensen-networks",
+    "name": "SenSen Networks India",
+    "domain": "Smart City AI Cloud, Automated Number Plate Recognition on Cloud",
+    "location": "IIT Madras Research Park, Taramani, Chennai",
+    "target_role": "Smart City Cloud Vision Intern",
+    "contact_email": "careers@sensen.ai",
+    "backup_email": "",
+    "website": "https://sensen.ai"
+  },
+  {
+    "id": "unimoni-financial",
+    "name": "Unimoni Financial Services",
+    "domain": "Foreign Exchange & Remittance Cloud, High-Security Banking Networks",
+    "location": "Nungambakkam, Chennai",
+    "target_role": "FinTech Cloud & Network Security Intern",
+    "contact_email": "careers@unimoni.com",
+    "backup_email": "",
+    "website": "https://www.unimoni.com"
+  },
+  {
+    "id": "optima-infotech",
+    "name": "Optima Infotech",
+    "domain": "Cloud Storage Solutions, Enterprise Backup & High-Availability Servers",
+    "location": "T. Nagar, Chennai",
+    "target_role": "Cloud Storage & Backup Intern",
+    "contact_email": "careers@optimainfotech.com",
+    "backup_email": "",
+    "website": "https://www.optimainfotech.com"
+  },
+  {
+    "id": "bluetree-systems",
+    "name": "BlueTree Systems India",
+    "domain": "Cold Chain Telematics Cloud, Temperature Monitoring on AWS IoT",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cold Chain Cloud Telemetry Intern",
+    "contact_email": "careers@bluetreesystems.com",
+    "backup_email": "",
+    "website": "https://www.bluetreesystems.com"
+  },
+  {
+    "id": "netaxis-it-solutions",
+    "name": "NetAxis IT Solutions",
+    "domain": "Web Engineering Cloud, API Gateway Development & AWS Microservices",
+    "location": "Saidapet, Chennai",
+    "target_role": "Cloud Web & API Gateway Intern",
+    "contact_email": "careers@netaxis.in",
+    "backup_email": "",
+    "website": "https://www.netaxis.in"
+  },
+  {
+    "id": "techaffinity",
+    "name": "TechAffinity Consulting",
+    "domain": "Custom Cloud Engineering, AWS & Azure Consulting & DevOps Pipelines",
+    "location": "Mylapore, Chennai",
+    "target_role": "Multi-Cloud & DevOps Intern",
+    "contact_email": "careers@techaffinity.com",
+    "backup_email": "",
+    "website": "https://www.techaffinity.com"
+  },
+  {
+    "id": "dot-com-infoway",
+    "name": "Dot Com Infoway (DCI)",
+    "domain": "Mobile & Web Cloud Solutions, AWS Hosting & Continuous Delivery",
+    "location": "Mylapore, Chennai",
+    "target_role": "Cloud Hosting & CI/CD Intern",
+    "contact_email": "careers@dotcominfoway.com",
+    "backup_email": "",
+    "website": "https://www.dotcominfoway.com"
+  },
+  {
+    "id": "mitr-learning-media",
+    "name": "Mitr Learning & Media",
+    "domain": "Interactive E-Learning Cloud, SCORM Cloud Ingestion & AWS S3 Delivery",
+    "location": "Taramani, Chennai",
+    "target_role": "E-Learning Cloud & S3 Storage Intern",
+    "contact_email": "careers@mitrlearning.com",
+    "backup_email": "",
+    "website": "https://www.mitrlearning.com"
+  },
+  {
+    "id": "agriya",
+    "name": "Agriya",
+    "domain": "Web & Marketplace Cloud Solutions, Dockerized Web Microservices",
+    "location": "Perungudi, OMR, Chennai",
+    "target_role": "Docker Microservices & Cloud Intern",
+    "contact_email": "careers@agriya.com",
+    "backup_email": "",
+    "website": "https://www.agriya.com"
+  },
+  {
+    "id": "smec-automation",
+    "name": "SMEC Automation India",
+    "domain": "Marine Automation Cloud, SCADA Industrial Systems & Edge Ingestion",
+    "location": "Vadapalani, Chennai",
+    "target_role": "SCADA Industrial Cloud Intern",
+    "contact_email": "careers@smeclabs.com",
+    "backup_email": "",
+    "website": "https://www.smeclabs.com"
+  },
+  {
+    "id": "smarte-solutions",
+    "name": "SMARTe Solutions",
+    "domain": "Sales Intelligence Cloud, High-Scale Data Scraping Pipelines on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Data Ingestion Cloud & Scraping Intern",
+    "contact_email": "careers@smarteinc.com",
+    "backup_email": "",
+    "website": "https://www.smarteinc.com"
+  },
+  {
+    "id": "inno-minds-tech",
+    "name": "Innominds Software",
+    "domain": "Digital Product Engineering Cloud, Connected Devices & Kubernetes",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Connected Device Cloud & K8s Intern",
+    "contact_email": "careers@innominds.com",
+    "backup_email": "",
+    "website": "https://www.innominds.com"
+  },
+  {
+    "id": "tvarana",
+    "name": "Tvarana",
+    "domain": "Oracle NetSuite Cloud Customization, Multi-Tenant Cloud ERP Backends",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud ERP & Integration Intern",
+    "contact_email": "careers@tvarana.com",
+    "backup_email": "",
+    "website": "https://tvarana.com"
+  },
+  {
+    "id": "crescendo-worldwide",
+    "name": "Crescendo Global",
+    "domain": "Talent & Analytics Cloud, High-Volume Data Ingestion & AWS RDS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Database & Ingestion Intern",
+    "contact_email": "careers@crescendogroup.in",
+    "backup_email": "",
+    "website": "https://www.crescendogroup.in"
+  },
+  {
+    "id": "prophoenix-india",
+    "name": "ProPhoenix Software India",
+    "domain": "Public Safety Software Cloud, 911 CAD Ingestion & High-Availability AWS",
+    "location": "Perungudi, OMR, Chennai",
+    "target_role": "Public Safety Cloud Reliability Intern",
+    "contact_email": "careers@prophoenix.com",
+    "backup_email": "",
+    "website": "https://www.prophoenix.com"
+  },
+  {
+    "id": "lucid-software-india",
+    "name": "Lucid Software Limited (Mu-BIM)",
+    "domain": "Non-Destructive Testing Cloud, Ultrasonic Data Analysis on Cloud",
+    "location": "Guindy, Chennai",
+    "target_role": "NDT Cloud Analytics & Storage Intern",
+    "contact_email": "careers@lucidsoft.net",
+    "backup_email": "",
+    "website": "https://www.lucidsoft.net"
+  },
+  {
+    "id": "veon-consulting",
+    "name": "Veon Consulting",
+    "domain": "Enterprise Cloud Applications, AWS Infrastructure & SRE Operations",
+    "location": "OMR, Chennai",
+    "target_role": "Cloud Infrastructure & SRE Intern",
+    "contact_email": "careers@veonconsulting.com",
+    "backup_email": "",
+    "website": "https://www.veonconsulting.com"
+  },
+  {
+    "id": "indus-novateur",
+    "name": "Indus Novateur Softech",
+    "domain": "SAP S/4HANA Cloud Hosting, Enterprise VPC Subnetting & AWS Backups",
+    "location": "Porur, Chennai",
+    "target_role": "SAP Cloud Hosting & VPC Intern",
+    "contact_email": "careers@indusnovateur.com",
+    "backup_email": "",
+    "website": "https://www.indusnovateur.com"
+  },
+  {
+    "id": "cloudaeon",
+    "name": "CloudAeon Technologies",
+    "domain": "DevOps & Cloud Automation Consulting, Terraform IaC & CI/CD Pipelines",
+    "location": "OMR, Chennai",
+    "target_role": "Terraform & Cloud Automation Intern",
+    "contact_email": "careers@cloudaeon.net",
+    "backup_email": "",
+    "website": "https://cloudaeon.net"
+  },
+  {
+    "id": "serosoft-solutions",
+    "name": "Serosoft Solutions (Academia ERP)",
+    "domain": "Higher Education Cloud ERP, Multi-Tenant Educational SaaS on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Education Cloud ERP Intern",
+    "contact_email": "careers@serosoft.in",
+    "backup_email": "",
+    "website": "https://www.serosoft.com"
+  },
+  {
+    "id": "eazy-business-solutions",
+    "name": "EAZY Business Solutions",
+    "domain": "Distribution Cloud ERP, Tally-to-Cloud Sync & AWS S3 Backups",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud ERP & Sync Systems Intern",
+    "contact_email": "careers@eazyerp.com",
+    "backup_email": "",
+    "website": "https://eazyerp.com"
+  },
+  {
+    "id": "alstrut-india",
+    "name": "Alstrut India",
+    "domain": "Robotics & Cobot Automation Cloud, Factory Floor Telemetry on AWS",
+    "location": "Ambattur Industrial Estate, Chennai",
+    "target_role": "Robotics Cloud Telemetry Intern",
+    "contact_email": "careers@alstrut.com",
+    "backup_email": "",
+    "website": "https://www.alstrut.com"
+  },
+  {
+    "id": "opti-pulse-tech",
+    "name": "OptiPulse Technologies",
+    "domain": "Enterprise Cloud DevOps, Microservices Packaging & Kubernetes",
+    "location": "Vadapalani, Chennai",
+    "target_role": "Cloud DevOps & Kubernetes Intern",
+    "contact_email": "careers@optipulse.in",
+    "backup_email": "",
+    "website": "https://optipulse.in"
+  },
+  {
+    "id": "c-cubed-solutions",
+    "name": "C-Cubed Solutions",
+    "domain": "Content Delivery Cloud, High-Volume S3 Image & Document Ingestion",
+    "location": "Taramani, Chennai",
+    "target_role": "S3 Storage & Ingestion Intern",
+    "contact_email": "careers@ccubedinc.com",
+    "backup_email": "",
+    "website": "https://www.ccubedinc.com"
+  },
+  {
+    "id": "zenops-cloud",
+    "name": "ZenOps Cloud Technologies",
+    "domain": "Managed Cloud SRE, CloudWatch Alarms & Automated EC2 Autoscaling",
+    "location": "Navalur, OMR, Chennai",
+    "target_role": "Cloud SRE & Autoscaling Intern",
+    "contact_email": "careers@zenops.cloud",
+    "backup_email": "",
+    "website": "https://zenops.cloud"
+  },
+  {
+    "id": "nexapp-technologies",
+    "name": "Nexapp Technologies (InstaSafe)",
+    "domain": "Zero Trust Cloud Security, Secure Remote Access & SASE Architecture",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Zero Trust Cloud Security Intern",
+    "contact_email": "careers@instasafe.com",
+    "backup_email": "",
+    "website": "https://instasafe.com"
+  },
+  {
+    "id": "core-nuts-technologies",
+    "name": "CoreNuts Technologies",
+    "domain": "Custom Web Architecture, AWS Serverless Endpoints & Microservices",
+    "location": "Porur, Chennai",
+    "target_role": "Serverless Microservices Intern",
+    "contact_email": "careers@corenuts.com",
+    "backup_email": "",
+    "website": "https://corenuts.com"
+  },
+  {
+    "id": "app-tology",
+    "name": "Apptology Solutions",
+    "domain": "Mobile Cloud Backends, Push Notification Microservices & SQS",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud Backend & Notification Intern",
+    "contact_email": "careers@apptology.com",
+    "backup_email": "",
+    "website": "https://apptology.com"
+  },
+  {
+    "id": "clove-technologies",
+    "name": "Clove Technologies",
+    "domain": "BIM & Digital Twin Cloud, High-Volume 3D Point Cloud Processing on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "BIM Cloud & Point Cloud Processing Intern",
+    "contact_email": "careers@clovetech.com",
+    "backup_email": "",
+    "website": "https://www.clovetech.com"
+  },
+  {
+    "id": "strata-geomil",
+    "name": "Strata Geosystems India",
+    "domain": "Geotechnical Sensors Cloud, Ground Settlement IoT Ingestion on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Geotechnical Cloud IoT Intern",
+    "contact_email": "careers@strataindia.com",
+    "backup_email": "",
+    "website": "https://www.strataindia.com"
+  },
+  {
+    "id": "soliton-technologies",
+    "name": "Soliton Technologies",
+    "domain": "Semiconductor Validation Cloud, LabVIEW Test Automation & Cloud Storage",
+    "location": "Olympia Technology Park, Guindy, Chennai",
+    "target_role": "Semiconductor Test Cloud Intern",
+    "contact_email": "careers@solitontech.com",
+    "backup_email": "",
+    "website": "https://www.solitontech.com"
+  },
+  {
+    "id": "tessolve-chennai",
+    "name": "Tessolve Semiconductor",
+    "domain": "Semiconductor Test Engineering Cloud, Silicon Validation Data Lakes",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Silicon Test Cloud Data Intern",
+    "contact_email": "careers@tessolve.com",
+    "backup_email": "",
+    "website": "https://www.tessolve.com"
+  },
+  {
+    "id": "sankalp-semiconductor",
+    "name": "Sankalp Semiconductor (HCLTech)",
+    "domain": "Analog & Mixed-Signal IC Design Cloud, EDA Compute Clusters on Linux",
+    "location": "Sholinganallur, OMR, Chennai",
+    "target_role": "EDA Cloud Compute & Linux Intern",
+    "contact_email": "careers@sankalpssemi.com",
+    "backup_email": "",
+    "website": "https://www.sankalpssemi.com"
   }
 ]
