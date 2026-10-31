@@ -1,6 +1,6 @@
 # 🚀 Automated Cloud Internship Cold Outreach Campaign (Chennai)
 
-This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 40 premier cloud consultancies, SaaS firms, and tech companies located in Chennai.
+This directory houses the end-to-end multi-agent outreach system designed to secure a **Cloud Engineering / DevOps / Cloud Architecture Internship** across 40 premier cloud consultancies, SaaS firms, and tech companies, plus 100 high-growth funded startups (with 55 applications delivered to date).
 
 ---
 
