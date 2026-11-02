@@ -4998,5 +4998,1005 @@
     "contact_email": "careers.cloud@tenable.com",
     "backup_email": "",
     "website": "https://www.tenable.com"
+  },
+  {
+    "id": "lowes-india",
+    "name": "Lowe's India",
+    "domain": "Omnichannel Retail Cloud, Microservices Architecture & High-Scale Ingestion",
+    "location": "Chennai / Bengaluru Tech Hub",
+    "target_role": "Retail Cloud Platform & DevOps Intern",
+    "contact_email": "careers.india@lowes.com",
+    "backup_email": "",
+    "website": "https://www.lowes.co.in"
+  },
+  {
+    "id": "jcpenney-india",
+    "name": "JCPenney India",
+    "domain": "Retail Cloud Infrastructure, E-Commerce Modernization & Kubernetes",
+    "location": "Chennai / Bengaluru Center",
+    "target_role": "Cloud Infrastructure & Kubernetes Intern",
+    "contact_email": "careers.india@jcp.com",
+    "backup_email": "",
+    "website": "https://jobs.jcp.com"
+  },
+  {
+    "id": "lululemon-india",
+    "name": "Lululemon India Technology Hub",
+    "domain": "Digital Commerce Cloud, Supply Chain Event Streaming & AWS Microservices",
+    "location": "Chennai / India Tech Center",
+    "target_role": "Digital Cloud Commerce Intern",
+    "contact_email": "careers.india@lululemon.com",
+    "backup_email": "",
+    "website": "https://corporate.lululemon.com"
+  },
+  {
+    "id": "hm-group-digital",
+    "name": "H&M Group Digital India",
+    "domain": "Fashion Retail Cloud SaaS, Kafka Event Streaming & Cloud Logistics",
+    "location": "Chennai / Regional Hub",
+    "target_role": "Cloud Event Streaming & DevOps Intern",
+    "contact_email": "careers.india@hm.com",
+    "backup_email": "",
+    "website": "https://career.hm.com"
+  },
+  {
+    "id": "ikea-digital-hub",
+    "name": "IKEA India Digital Hub (Ingka Group)",
+    "domain": "Global Omnichannel Cloud, Spatial AR Computing & AWS Data Lakehouse",
+    "location": "Chennai / Regional Hub",
+    "target_role": "Omnichannel Cloud & Data Platform Intern",
+    "contact_email": "careers.india@ingka.ikea.com",
+    "backup_email": "",
+    "website": "https://www.ikea.com/in/en/this-is-ikea/work-with-us"
+  },
+  {
+    "id": "nike-technology-india",
+    "name": "Nike Technology India",
+    "domain": "High-Throughput Global Commerce Cloud, Serverless APIs & Multi-Region AWS",
+    "location": "Chennai / India Technology Center",
+    "target_role": "Cloud Serverless & Microservices Intern",
+    "contact_email": "careers.india@nike.com",
+    "backup_email": "",
+    "website": "https://jobs.nike.com"
+  },
+  {
+    "id": "adidas-it-hub",
+    "name": "Adidas Global IT Hub India",
+    "domain": "Digital Brand Cloud, Consumer Analytics on AWS & Containerized K8s",
+    "location": "Chennai / Regional Center",
+    "target_role": "Cloud DevOps & Analytics Intern",
+    "contact_email": "careers.india@adidas.com",
+    "backup_email": "",
+    "website": "https://careers.adidas-group.com"
+  },
+  {
+    "id": "victorias-secret-tech",
+    "name": "Victoria's Secret & Co India Tech",
+    "domain": "Cloud Digital Platforms, Order Ingestion Engines & Multi-Cloud Ops",
+    "location": "Chennai / Regional Hub",
+    "target_role": "Cloud Platforms & SRE Intern",
+    "contact_email": "careers.india@victoriassecret.com",
+    "backup_email": "",
+    "website": "https://careers.victoriassecretandco.com"
+  },
+  {
+    "id": "levi-strauss-tech",
+    "name": "Levi Strauss & Co Tech Hub India",
+    "domain": "Direct-to-Consumer Cloud Infrastructure, Inventory Streaming on Cloud",
+    "location": "Chennai / Regional Tech Hub",
+    "target_role": "Cloud Systems & Inventory Ops Intern",
+    "contact_email": "careers.india@levi.com",
+    "backup_email": "",
+    "website": "https://www.levistrauss.com/careers"
+  },
+  {
+    "id": "tesco-technology-india",
+    "name": "Tesco Technology India",
+    "domain": "Grocery Supply Chain Cloud, Real-Time Fleet Ingestion & AWS Microservices",
+    "location": "Chennai / Regional Tech Center",
+    "target_role": "Supply Chain Cloud & Microservices Intern",
+    "contact_email": "careers.india@tesco.com",
+    "backup_email": "",
+    "website": "https://www.tesco.com/careers"
+  },
+  {
+    "id": "gitlab-india",
+    "name": "GitLab India",
+    "domain": "The One DevOps Platform, Cloud CI/CD Engine & Kubernetes Orchestration",
+    "location": "Chennai / Remote, India",
+    "target_role": "DevSecOps & Cloud Platform Intern",
+    "contact_email": "careers@gitlab.com",
+    "backup_email": "",
+    "website": "https://about.gitlab.com/jobs"
+  },
+  {
+    "id": "atlassian-india",
+    "name": "Atlassian India",
+    "domain": "Jira & Confluence Cloud Infrastructure, Global AWS Multi-Tenant Mesh",
+    "location": "Chennai / Regional Tech Center",
+    "target_role": "Cloud Infrastructure & SRE Intern",
+    "contact_email": "careers.india@atlassian.com",
+    "backup_email": "",
+    "website": "https://www.atlassian.com/company/careers"
+  },
+  {
+    "id": "github-india",
+    "name": "GitHub India",
+    "domain": "Developer Cloud Platform, GitHub Actions Runners & Codespaces on Azure",
+    "location": "Chennai / Remote, India",
+    "target_role": "Cloud Infrastructure & CI/CD Intern",
+    "contact_email": "careers@github.com",
+    "backup_email": "",
+    "website": "https://github.com/about/careers"
+  },
+  {
+    "id": "twilio-india",
+    "name": "Twilio India",
+    "domain": "Cloud Communications & Customer Data Platform (Segment) on AWS",
+    "location": "Chennai / Regional Hub",
+    "target_role": "Cloud Communications & Data Intern",
+    "contact_email": "careers.india@twilio.com",
+    "backup_email": "",
+    "website": "https://www.twilio.com/company/jobs"
+  },
+  {
+    "id": "snyk-india",
+    "name": "Snyk India",
+    "domain": "Developer Security Platform, Container Vulnerability Scanning Cloud",
+    "location": "Chennai / Remote, India",
+    "target_role": "Cloud Security & DevSecOps Intern",
+    "contact_email": "careers@snyk.io",
+    "backup_email": "",
+    "website": "https://snyk.io/careers"
+  },
+  {
+    "id": "jfrog-india",
+    "name": "JFrog India",
+    "domain": "Liquid Software Platform, Artifactory Cloud & Binary Repository DevOps",
+    "location": "Chennai / Regional Center",
+    "target_role": "DevOps & Binary Repository Cloud Intern",
+    "contact_email": "careers@jfrog.com",
+    "backup_email": "",
+    "website": "https://jfrog.com/careers"
+  },
+  {
+    "id": "circleci-india",
+    "name": "CircleCI India",
+    "domain": "Continuous Integration & Delivery Cloud, Container Runner Fleets",
+    "location": "Chennai / Remote, India",
+    "target_role": "CI/CD Cloud Infrastructure Intern",
+    "contact_email": "careers@circleci.com",
+    "backup_email": "",
+    "website": "https://circleci.com/careers"
+  },
+  {
+    "id": "postman-india",
+    "name": "Postman India",
+    "domain": "Global API Platform Cloud, API Testing Automation & Workspace Sync",
+    "location": "Chennai / Regional Hub",
+    "target_role": "API Platform Cloud & Systems Intern",
+    "contact_email": "careers@postman.com",
+    "backup_email": "",
+    "website": "https://www.postman.com/careers"
+  },
+  {
+    "id": "kong-inc-india",
+    "name": "Kong Inc India",
+    "domain": "Cloud-Native API Gateway, Service Mesh & Kong Konnect Multi-Cloud",
+    "location": "Chennai / Remote, India",
+    "target_role": "Cloud API Gateway & Service Mesh Intern",
+    "contact_email": "careers@konghq.com",
+    "backup_email": "",
+    "website": "https://konghq.com/careers"
+  },
+  {
+    "id": "wso2-india",
+    "name": "WSO2 India",
+    "domain": "Open-Source API Management, Choreo Internal Developer Cloud & IAM",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud API & Developer Platform Intern",
+    "contact_email": "careers@wso2.com",
+    "backup_email": "",
+    "website": "https://wso2.com/careers"
+  },
+  {
+    "id": "mulesoft-india",
+    "name": "MuleSoft India (Salesforce)",
+    "domain": "Anypoint Platform Cloud, Enterprise Microservices Integration on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Integration & Anypoint Intern",
+    "contact_email": "careers@mulesoft.com",
+    "backup_email": "",
+    "website": "https://www.mulesoft.com/careers"
+  },
+  {
+    "id": "boomi-india",
+    "name": "Boomi India",
+    "domain": "Intelligent Integration iPaaS Cloud, API Management & Event Ingestion",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "iPaaS Cloud & Integration Intern",
+    "contact_email": "careers@boomi.com",
+    "backup_email": "",
+    "website": "https://boomi.com/company/careers"
+  },
+  {
+    "id": "workato-india",
+    "name": "Workato India",
+    "domain": "Enterprise Automation Platform Cloud, Serverless Integration Workflows",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Serverless Automation & Cloud Intern",
+    "contact_email": "careers@workato.com",
+    "backup_email": "",
+    "website": "https://www.workato.com/careers"
+  },
+  {
+    "id": "zapier-india",
+    "name": "Zapier India",
+    "domain": "Workflow Automation Cloud, Distributed Webhook Architecture & AWS",
+    "location": "Chennai / Remote, India",
+    "target_role": "Cloud Automation & Webhook Systems Intern",
+    "contact_email": "careers@zapier.com",
+    "backup_email": "",
+    "website": "https://zapier.com/jobs"
+  },
+  {
+    "id": "asana-india",
+    "name": "Asana India",
+    "domain": "Work Management Cloud, High-Concurrency Real-Time Sync & Multi-AZ RDS",
+    "location": "Chennai / Remote, India",
+    "target_role": "Cloud Reliability & Multi-AZ Database Intern",
+    "contact_email": "careers@asana.com",
+    "backup_email": "",
+    "website": "https://asana.com/jobs"
+  },
+  {
+    "id": "monday-com-india",
+    "name": "Monday.com India",
+    "domain": "Cloud Work OS, Multi-Tenant SaaS Architecture & Kubernetes",
+    "location": "Chennai / Remote, India",
+    "target_role": "Work OS Cloud & DevOps Intern",
+    "contact_email": "careers@monday.com",
+    "backup_email": "",
+    "website": "https://monday.com/careers"
+  },
+  {
+    "id": "clickup-india",
+    "name": "ClickUp India",
+    "domain": "Productivity Cloud Platform, High-Throughput Event Streaming on AWS",
+    "location": "Chennai / Remote, India",
+    "target_role": "Cloud Streaming & Backend Intern",
+    "contact_email": "careers@clickup.com",
+    "backup_email": "",
+    "website": "https://clickup.com/careers"
+  },
+  {
+    "id": "notion-india",
+    "name": "Notion India",
+    "domain": "Connected Workspace Cloud, Distributed Block Database & Edge Ingress",
+    "location": "Chennai / Remote, India",
+    "target_role": "Distributed Cloud Systems Intern",
+    "contact_email": "careers@makenotion.com",
+    "backup_email": "",
+    "website": "https://www.notion.so/careers"
+  },
+  {
+    "id": "figma-india",
+    "name": "Figma India",
+    "domain": "Collaborative Design Cloud, WebAssembly Infrastructure & Multi-Region S3",
+    "location": "Chennai / Remote, India",
+    "target_role": "Cloud Storage & WebAssembly Infrastructure Intern",
+    "contact_email": "careers@figma.com",
+    "backup_email": "",
+    "website": "https://www.figma.com/careers"
+  },
+  {
+    "id": "canva-india",
+    "name": "Canva India",
+    "domain": "Visual Communications Cloud, Serverless Asset Processing & CloudFront",
+    "location": "Chennai / Remote, India",
+    "target_role": "Serverless Asset Pipeline & CDN Intern",
+    "contact_email": "careers@canva.com",
+    "backup_email": "",
+    "website": "https://www.canva.com/careers"
+  },
+  {
+    "id": "databricks-india",
+    "name": "Databricks India",
+    "domain": "Data Intelligence Platform, Delta Lake Lakehouse & Apache Spark on AWS",
+    "location": "Chennai / Regional Tech Hub",
+    "target_role": "Lakehouse Cloud Platform & Spark Intern",
+    "contact_email": "careers.india@databricks.com",
+    "backup_email": "",
+    "website": "https://www.databricks.com/company/careers"
+  },
+  {
+    "id": "mongodb-india",
+    "name": "MongoDB India",
+    "domain": "Developer Data Platform, MongoDB Atlas Multi-Cloud DBaaS & Automation",
+    "location": "Chennai / Regional Hub",
+    "target_role": "Cloud DBaaS & Atlas Infrastructure Intern",
+    "contact_email": "careers.india@mongodb.com",
+    "backup_email": "",
+    "website": "https://www.mongodb.com/careers"
+  },
+  {
+    "id": "redis-labs-india",
+    "name": "Redis Labs India",
+    "domain": "In-Memory Real-Time Data Platform, Redis Enterprise Cloud & Clustering",
+    "location": "Chennai / Regional Center",
+    "target_role": "In-Memory Cloud & Redis Clustering Intern",
+    "contact_email": "careers.india@redis.com",
+    "backup_email": "",
+    "website": "https://redis.io/careers"
+  },
+  {
+    "id": "couchbase-india",
+    "name": "Couchbase India",
+    "domain": "NoSQL Database Cloud, Couchbase Capella Multi-Cloud DBaaS on AWS",
+    "location": "Chennai / Regional Center",
+    "target_role": "NoSQL DBaaS & Cloud Storage Intern",
+    "contact_email": "careers.india@couchbase.com",
+    "backup_email": "",
+    "website": "https://www.couchbase.com/careers"
+  },
+  {
+    "id": "datastax-india",
+    "name": "DataStax India",
+    "domain": "Astra DB Multi-Cloud DBaaS, Apache Cassandra on Kubernetes & Vector Search",
+    "location": "Chennai / Regional Hub",
+    "target_role": "Astra DB Cloud & Cassandra Intern",
+    "contact_email": "careers.india@datastax.com",
+    "backup_email": "",
+    "website": "https://www.datastax.com/company/careers"
+  },
+  {
+    "id": "singlestore-india",
+    "name": "SingleStore India",
+    "domain": "Real-Time Distributed SQL Database Cloud, Streaming Ingestion & S3 Tiering",
+    "location": "Chennai / Remote, India",
+    "target_role": "Distributed Database Cloud Intern",
+    "contact_email": "careers@singlestore.com",
+    "backup_email": "",
+    "website": "https://www.singlestore.com/careers"
+  },
+  {
+    "id": "cockroach-labs-india",
+    "name": "Cockroach Labs India",
+    "domain": "CockroachDB Dedicated & Serverless Cloud, Distributed Multi-Region SQL",
+    "location": "Chennai / Remote, India",
+    "target_role": "Serverless Database Cloud Intern",
+    "contact_email": "careers@cockroachlabs.com",
+    "backup_email": "",
+    "website": "https://www.cockroachlabs.com/careers"
+  },
+  {
+    "id": "yugabyte-india",
+    "name": "Yugabyte India",
+    "domain": "YugabyteDB Managed Cloud, Distributed PostgreSQL on Kubernetes",
+    "location": "Chennai / Remote, India",
+    "target_role": "Distributed PostgreSQL Cloud Intern",
+    "contact_email": "careers@yugabyte.com",
+    "backup_email": "",
+    "website": "https://www.yugabyte.com/careers"
+  },
+  {
+    "id": "timescale-india",
+    "name": "Timescale India",
+    "domain": "Timescale Cloud Time-Series Database, IoT Telemetry Analytics on AWS",
+    "location": "Chennai / Remote, India",
+    "target_role": "Time-Series Cloud Database Intern",
+    "contact_email": "careers@timescale.com",
+    "backup_email": "",
+    "website": "https://www.timescale.com/careers"
+  },
+  {
+    "id": "clickhouse-india",
+    "name": "ClickHouse India",
+    "domain": "ClickHouse Cloud Real-Time Analytics, Columnar Ingestion & S3 Storage",
+    "location": "Chennai / Remote, India",
+    "target_role": "Columnar Analytics Cloud Intern",
+    "contact_email": "careers@clickhouse.com",
+    "backup_email": "",
+    "website": "https://clickhouse.com/company/careers"
+  },
+  {
+    "id": "dbt-labs-india",
+    "name": "dbt Labs India",
+    "domain": "dbt Cloud Analytics Engineering, Data Transformation on Snowflake & AWS",
+    "location": "Chennai / Remote, India",
+    "target_role": "Analytics Engineering Cloud Intern",
+    "contact_email": "careers@getdbt.com",
+    "backup_email": "",
+    "website": "https://www.getdbt.com/careers"
+  },
+  {
+    "id": "fivetran-india",
+    "name": "Fivetran India",
+    "domain": "Automated Data Movement Cloud, Managed ELT Connectors on Multi-Cloud",
+    "location": "Chennai / Regional Center",
+    "target_role": "Automated Data Movement Cloud Intern",
+    "contact_email": "careers@fivetran.com",
+    "backup_email": "",
+    "website": "https://fivetran.com/careers"
+  },
+  {
+    "id": "airbyte-india",
+    "name": "Airbyte India",
+    "domain": "Open-Source Data Integration Cloud, Containerized Pipeline Connectors",
+    "location": "Chennai / Remote, India",
+    "target_role": "Data Pipeline & Containerization Intern",
+    "contact_email": "careers@airbyte.com",
+    "backup_email": "",
+    "website": "https://airbyte.com/careers"
+  },
+  {
+    "id": "starburst-data-india",
+    "name": "Starburst Data India",
+    "domain": "Starburst Galaxy Cloud, Trino SQL Query Engine across Multi-Cloud Lakes",
+    "location": "Chennai / Remote, India",
+    "target_role": "Data Lake Query Cloud Intern",
+    "contact_email": "careers@starburst.io",
+    "backup_email": "",
+    "website": "https://www.starburst.io/careers"
+  },
+  {
+    "id": "dremio-india",
+    "name": "Dremio India",
+    "domain": "Self-Service Data Lakehouse Cloud, Apache Arrow In-Memory Query Engine",
+    "location": "Chennai / Remote, India",
+    "target_role": "Data Lakehouse Cloud Systems Intern",
+    "contact_email": "careers@dremio.com",
+    "backup_email": "",
+    "website": "https://www.dremio.com/careers"
+  },
+  {
+    "id": "qualcomm-india",
+    "name": "Qualcomm India",
+    "domain": "Snapdragon 5G Cloud, Automotive Telematics Silicon & Edge AI Ingestion",
+    "location": "Ramanujan IT City / Chennai Hub",
+    "target_role": "Edge Silicon & 5G Cloud Telemetry Intern",
+    "contact_email": "india-recruiting@qualcomm.com",
+    "backup_email": "",
+    "website": "https://www.qualcomm.com/company/careers"
+  },
+  {
+    "id": "intel-india",
+    "name": "Intel Technology India",
+    "domain": "Cloud Datacenter Silicon, Xeon Processors, OpenVINO & OneAPI Cloud",
+    "location": "Chennai / Regional Technology Hub",
+    "target_role": "Datacenter Cloud & Accelerated Compute Intern",
+    "contact_email": "careers.india@intel.com",
+    "backup_email": "",
+    "website": "https://www.intel.com/jobs"
+  },
+  {
+    "id": "amd-india",
+    "name": "AMD India",
+    "domain": "EPYC Cloud Server Silicon, Instinct GPU Clusters & ROCm Platform",
+    "location": "Chennai / Regional Center",
+    "target_role": "GPU Cloud Compute & Serverless Intern",
+    "contact_email": "careers.india@amd.com",
+    "backup_email": "",
+    "website": "https://www.amd.com/en/corporate/careers"
+  },
+  {
+    "id": "nvidia-india",
+    "name": "NVIDIA India",
+    "domain": "NVIDIA DGX Cloud, AI Supercomputing Infrastructure & CUDA MLOps",
+    "location": "Chennai / Regional Hub",
+    "target_role": "AI Supercomputing Cloud & MLOps Intern",
+    "contact_email": "india-recruiting@nvidia.com",
+    "backup_email": "",
+    "website": "https://www.nvidia.com/en-us/about-nvidia/careers"
+  },
+  {
+    "id": "arm-india",
+    "name": "Arm India",
+    "domain": "Neoverse Cloud Processor Architecture, IoT Silicon IP & Embedded Linux",
+    "location": "Chennai / Regional Hub",
+    "target_role": "Neoverse Cloud Architecture Intern",
+    "contact_email": "careers.india@arm.com",
+    "backup_email": "",
+    "website": "https://www.arm.com/company/careers"
+  },
+  {
+    "id": "broadcom-semiconductor",
+    "name": "Broadcom India Semiconductor",
+    "domain": "Cloud Switching Silicon (Tomahawk), PCIe Fabrics & Datacenter Storage",
+    "location": "Chennai / Regional Hub",
+    "target_role": "Datacenter Silicon & Network Cloud Intern",
+    "contact_email": "careers.india@broadcom.com",
+    "backup_email": "",
+    "website": "https://www.broadcom.com/company/careers"
+  },
+  {
+    "id": "marvell-technology-india",
+    "name": "Marvell Technology India",
+    "domain": "Data Infrastructure Semiconductor Cloud, Custom Cloud ASICs & Optical DSPs",
+    "location": "Chennai / Regional Center",
+    "target_role": "Cloud ASIC & Optical DSP Systems Intern",
+    "contact_email": "careers.india@marvell.com",
+    "backup_email": "",
+    "website": "https://www.marvell.com/company/careers.html"
+  },
+  {
+    "id": "mediatek-india",
+    "name": "MediaTek India",
+    "domain": "Dimensity 5G Cloud Connectivity, Automotive Telematics SoC & IoT",
+    "location": "Chennai / Regional Hub",
+    "target_role": "5G Telematics & IoT Cloud Intern",
+    "contact_email": "careers.india@mediatek.com",
+    "backup_email": "",
+    "website": "https://www.mediatek.com/about/careers"
+  },
+  {
+    "id": "nxp-semiconductors-india",
+    "name": "NXP Semiconductors India",
+    "domain": "Automotive Microcontrollers, S32 Vehicle Cloud Compute & Secure Edge",
+    "location": "Chennai / Regional Center",
+    "target_role": "Vehicle Cloud Compute & Secure Edge Intern",
+    "contact_email": "careers.india@nxp.com",
+    "backup_email": "",
+    "website": "https://www.nxp.com/company/about-nxp/careers:CAREERS"
+  },
+  {
+    "id": "texas-instruments-india",
+    "name": "Texas Instruments India",
+    "domain": "Embedded Processing, Sitara Cloud Linux Processors & Industrial IoT",
+    "location": "Chennai / Regional Center",
+    "target_role": "Embedded Linux & Industrial Cloud Intern",
+    "contact_email": "careers.india@ti.com",
+    "backup_email": "",
+    "website": "https://careers.ti.com"
+  },
+  {
+    "id": "analog-devices-india",
+    "name": "Analog Devices India",
+    "domain": "Precision Signal Cloud, Automotive Battery Management Systems (BMS) IoT",
+    "location": "Chennai / Regional Center",
+    "target_role": "Battery Cloud IoT & Signal Processing Intern",
+    "contact_email": "careers.india@analog.com",
+    "backup_email": "",
+    "website": "https://careers.analog.com"
+  },
+  {
+    "id": "microchip-technology-india",
+    "name": "Microchip Technology India",
+    "domain": "Smart Connected Cloud, PolarFire FPGA on Cloud & Secure Provisioning",
+    "location": "Chennai / Regional Hub",
+    "target_role": "FPGA Cloud & Secure Provisioning Intern",
+    "contact_email": "careers.india@microchip.com",
+    "backup_email": "",
+    "website": "https://careers.microchip.com"
+  },
+  {
+    "id": "synopsys-india",
+    "name": "Synopsys India",
+    "domain": "Electronic Design Automation (EDA) Cloud, Silicon Lifecycle Management",
+    "location": "Chennai / Regional Center",
+    "target_role": "EDA Cloud & Compute Infrastructure Intern",
+    "contact_email": "careers.india@synopsys.com",
+    "backup_email": "",
+    "website": "https://www.synopsys.com/careers.html"
+  },
+  {
+    "id": "cadence-design-india",
+    "name": "Cadence Design Systems India",
+    "domain": "Cadence OnCloud EDA Platform, Palladium Emulation on AWS & Cloud HPC",
+    "location": "Chennai / Regional Center",
+    "target_role": "OnCloud EDA & HPC Infrastructure Intern",
+    "contact_email": "careers.india@cadence.com",
+    "backup_email": "",
+    "website": "https://www.cadence.com/en_US/home/company/careers.html"
+  },
+  {
+    "id": "siemens-eda-mentor",
+    "name": "Siemens EDA India (Mentor Graphics)",
+    "domain": "IC Verification Cloud, Calibre DRC/LVS Distributed Compute on Linux",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "IC Verification Cloud & Linux Compute Intern",
+    "contact_email": "careers.india@mentor.com",
+    "backup_email": "",
+    "website": "https://eda.sw.siemens.com"
+  },
+  {
+    "id": "cloudflare-india",
+    "name": "Cloudflare India",
+    "domain": "Global Edge Cloud Network, Cloudflare Workers Serverless & Zero Trust",
+    "location": "Chennai / Remote, India",
+    "target_role": "Edge Cloud & Workers Serverless Intern",
+    "contact_email": "careers.india@cloudflare.com",
+    "backup_email": "",
+    "website": "https://www.cloudflare.com/careers"
+  },
+  {
+    "id": "fastly-india",
+    "name": "Fastly India",
+    "domain": "Edge Cloud Platform, Compute@Edge WebAssembly & Programmable CDN",
+    "location": "Chennai / Remote, India",
+    "target_role": "Compute@Edge & CDN Operations Intern",
+    "contact_email": "careers@fastly.com",
+    "backup_email": "",
+    "website": "https://www.fastly.com/about/careers"
+  },
+  {
+    "id": "checkpoint-software-india",
+    "name": "Check Point Software India",
+    "domain": "CloudGuard Network Security, Posture Management (CSPM) & Cloud Threat",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "CloudGuard Network Security Intern",
+    "contact_email": "careers.india@checkpoint.com",
+    "backup_email": "",
+    "website": "https://careers.checkpoint.com"
+  },
+  {
+    "id": "sonicwall-india",
+    "name": "SonicWall India",
+    "domain": "Capture Security Center Cloud, Cloud Managed Firewalls & Zero Trust",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Firewall & Network Security Intern",
+    "contact_email": "careers.india@sonicwall.com",
+    "backup_email": "",
+    "website": "https://www.sonicwall.com/careers"
+  },
+  {
+    "id": "watchguard-technologies",
+    "name": "WatchGuard Technologies India",
+    "domain": "WatchGuard Cloud Security, Multi-Tenant Cloud Visibility & Endpoint",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Multi-Tenant Cloud Security Intern",
+    "contact_email": "careers.india@watchguard.com",
+    "backup_email": "",
+    "website": "https://www.watchguard.com/wgrd-about/careers"
+  },
+  {
+    "id": "netgear-india",
+    "name": "Netgear India",
+    "domain": "Insight Cloud Management, Smart Switch Telemetry & Cloud Backends",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Network Management Intern",
+    "contact_email": "careers.india@netgear.com",
+    "backup_email": "",
+    "website": "https://www.netgear.com/about/careers"
+  },
+  {
+    "id": "d-link-india",
+    "name": "D-Link India",
+    "domain": "Nuclias Cloud Network Solution, SD-WAN & Cloud Managed APs",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Nuclias Cloud & SD-WAN Intern",
+    "contact_email": "careers@in.dlink.com",
+    "backup_email": "",
+    "website": "https://in.dlink.com/in/en/careers"
+  },
+  {
+    "id": "tp-link-india",
+    "name": "TP-Link India",
+    "domain": "Omada Cloud SDN, Multi-Site Network Centralization on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Omada Cloud SDN Intern",
+    "contact_email": "careers.in@tp-link.com",
+    "backup_email": "",
+    "website": "https://www.tp-link.com/in/about-us/careers"
+  },
+  {
+    "id": "commscope-india",
+    "name": "CommScope India",
+    "domain": "RUCKUS Cloud AI-Driven Wi-Fi, Converged Network Cloud Infrastructure",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "RUCKUS Cloud & Wireless Ops Intern",
+    "contact_email": "careers.india@commscope.com",
+    "backup_email": "",
+    "website": "https://www.commscope.com/about-us/careers"
+  },
+  {
+    "id": "mavenir-india",
+    "name": "Mavenir India",
+    "domain": "Cloud-Native Open RAN, 5G Core Virtualization on Kubernetes & AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Open RAN & 5G Cloud Core Intern",
+    "contact_email": "careers.india@mavenir.com",
+    "backup_email": "",
+    "website": "https://www.mavenir.com/careers"
+  },
+  {
+    "id": "radisys-india",
+    "name": "Radisys India (Jio Group)",
+    "domain": "Disaggregated Open Telecom Cloud, Broadband Access & Kubernetes Mesh",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Telecom Cloud & Kubernetes Mesh Intern",
+    "contact_email": "careers@radisys.com",
+    "backup_email": "",
+    "website": "https://www.radisys.com/careers"
+  },
+  {
+    "id": "tejas-networks",
+    "name": "Tejas Networks (Tata Group)",
+    "domain": "Optical Network Management Cloud, TJ5500 Orchestration & Linux Systems",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Optical Cloud & Linux Systems Intern",
+    "contact_email": "careers@tejasnetworks.com",
+    "backup_email": "",
+    "website": "https://www.tejasnetworks.com/careers.php"
+  },
+  {
+    "id": "sterlite-tech-stl",
+    "name": "Sterlite Technologies (STL)",
+    "domain": "Digital Network Cloud, Lead 360 Optical Cloud & Smart Connectivity",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Digital Network Cloud & Infrastructure Intern",
+    "contact_email": "careers@stl.tech",
+    "backup_email": "",
+    "website": "https://www.stl.tech/careers"
+  },
+  {
+    "id": "ge-healthcare-india",
+    "name": "GE HealthCare India",
+    "domain": "Edison Health Cloud Platform, Medical Imaging Ingestion on AWS & HIPAA",
+    "location": "Chennai Technology Center, Tamil Nadu",
+    "target_role": "Edison Health Cloud & Medical Data Intern",
+    "contact_email": "careers.india@gehealthcare.com",
+    "backup_email": "",
+    "website": "https://jobs.gecareers.com"
+  },
+  {
+    "id": "illumina-india",
+    "name": "Illumina India",
+    "domain": "Genomics Cloud, Illumina Connected Analytics on AWS & BaseSpace",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Genomics Cloud & Analytics Platform Intern",
+    "contact_email": "careers.india@illumina.com",
+    "backup_email": "",
+    "website": "https://www.illumina.com/company/careers.html"
+  },
+  {
+    "id": "thermo-fisher-india",
+    "name": "Thermo Fisher Scientific India",
+    "domain": "Connect Platform Cloud, Scientific Instruments IoT & Lab Data on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Scientific IoT & Cloud Platform Intern",
+    "contact_email": "careers.india@thermofisher.com",
+    "backup_email": "",
+    "website": "https://jobs.thermofisher.com"
+  },
+  {
+    "id": "danaher-digital-india",
+    "name": "Danaher Digital India",
+    "domain": "Life Sciences Digital Cloud, Clinical Ingestion & Microservices on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Life Sciences Cloud & Microservices Intern",
+    "contact_email": "careers.india@danaher.com",
+    "backup_email": "",
+    "website": "https://jobs.danaher.com"
+  },
+  {
+    "id": "veeva-systems-india",
+    "name": "Veeva Systems India",
+    "domain": "Veeva Vault Life Sciences Cloud, Multi-Tenant Document Cloud on AWS",
+    "location": "Chennai / Regional Center",
+    "target_role": "Veeva Vault Cloud & Reliability Intern",
+    "contact_email": "careers.india@veeva.com",
+    "backup_email": "",
+    "website": "https://www.veeva.com/careers"
+  },
+  {
+    "id": "iqvia-india",
+    "name": "IQVIA India",
+    "domain": "Human Data Science Cloud, Clinical Trial Orchestration on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Clinical Trial Cloud & Data Intern",
+    "contact_email": "careers.india@iqvia.com",
+    "backup_email": "",
+    "website": "https://jobs.iqvia.com"
+  },
+  {
+    "id": "parexel-india",
+    "name": "Parexel International India",
+    "domain": "Clinical Research Cloud, Electronic Data Capture (EDC) on AWS VPCs",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Clinical EDC Cloud & Infrastructure Intern",
+    "contact_email": "careers.india@parexel.com",
+    "backup_email": "",
+    "website": "https://jobs.parexel.com"
+  },
+  {
+    "id": "labcorp-drug-dev",
+    "name": "Labcorp Drug Development India",
+    "domain": "Central Laboratory Data Cloud, Clinical Testing Telemetry on Cloud",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Clinical Lab Cloud Telemetry Intern",
+    "contact_email": "careers.india@labcorp.com",
+    "backup_email": "",
+    "website": "https://careers.labcorp.com"
+  },
+  {
+    "id": "syneos-health-india",
+    "name": "Syneos Health India",
+    "domain": "Biopharmaceutical Cloud Solutions, Decentralized Clinical Trials on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Biopharma Cloud & Security Intern",
+    "contact_email": "careers.india@syneoshealth.com",
+    "backup_email": "",
+    "website": "https://www.syneoshealth.com/careers"
+  },
+  {
+    "id": "icon-plc-india",
+    "name": "ICON plc India",
+    "domain": "Healthcare Intelligence Cloud, Medical Imaging Data Lakes on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Medical Imaging Cloud & Storage Intern",
+    "contact_email": "careers.india@iconplc.com",
+    "backup_email": "",
+    "website": "https://careers.iconplc.com"
+  },
+  {
+    "id": "fiserv-india",
+    "name": "Fiserv India",
+    "domain": "Clover Cloud Platform, Core Account Processing & Financial Microservices",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Clover Cloud Platform & DevOps Intern",
+    "contact_email": "careers.india@fiserv.com",
+    "backup_email": "",
+    "website": "https://www.fiserv.com/en/about-fiserv/careers.html"
+  },
+  {
+    "id": "fis-global-india",
+    "name": "FIS Global India",
+    "domain": "Modern Banking Cloud, Real-Time Payment Ingestion & AWS Architecture",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Payment Ingestion Cloud & AWS Intern",
+    "contact_email": "careers.india@fisglobal.com",
+    "backup_email": "",
+    "website": "https://www.fisglobal.com/en/careers"
+  },
+  {
+    "id": "ncr-voyix-india",
+    "name": "NCR Voyix India",
+    "domain": "Voyix Commerce Platform Cloud, Point-of-Sale Microservices on AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Commerce Cloud & Microservices Intern",
+    "contact_email": "careers.india@ncrvoyix.com",
+    "backup_email": "",
+    "website": "https://www.ncrvoyix.com/company/careers"
+  },
+  {
+    "id": "diebold-nixdorf-india",
+    "name": "Diebold Nixdorf India",
+    "domain": "Vynamic Connected Banking Cloud, ATM Telematics & AWS Hybrid Cloud",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Banking Telematics & Hybrid Cloud Intern",
+    "contact_email": "careers.india@dieboldnixdorf.com",
+    "backup_email": "",
+    "website": "https://www.dieboldnixdorf.com/en-us/careers"
+  },
+  {
+    "id": "mastercard-india",
+    "name": "Mastercard India Tech Hub",
+    "domain": "Mastercard Processing Cloud, Open Banking APIs & Zero-Downtime EKS",
+    "location": "Chennai / Regional Center",
+    "target_role": "Global Payments Cloud & EKS Intern",
+    "contact_email": "careers.india@mastercard.com",
+    "backup_email": "",
+    "website": "https://careers.mastercard.com"
+  },
+  {
+    "id": "visa-india-tech",
+    "name": "Visa India Technology Center",
+    "domain": "VisaNet Cloud Modernization, CyberSource Payment Cloud & Kafka",
+    "location": "Chennai / Regional Tech Center",
+    "target_role": "VisaNet Cloud Modernization Intern",
+    "contact_email": "careers.india@visa.com",
+    "backup_email": "",
+    "website": "https://www.visa.co.in/careers.html"
+  },
+  {
+    "id": "american-express-india",
+    "name": "American Express India",
+    "domain": "Amex Cloud Native Architecture, High-Speed Financial Feeds & Kubernetes",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Cloud Native Architecture & Kubernetes Intern",
+    "contact_email": "careers.india@aexp.com",
+    "backup_email": "",
+    "website": "https://www.americanexpress.com/en-in/careers"
+  },
+  {
+    "id": "discover-financial-india",
+    "name": "Discover Financial Services India",
+    "domain": "Discover Global Network Cloud, Cloud-Native Financial Microservices",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Card Network Cloud & Microservices Intern",
+    "contact_email": "careers.india@discover.com",
+    "backup_email": "",
+    "website": "https://jobs.discover.com"
+  },
+  {
+    "id": "capital-one-india",
+    "name": "Capital One India Tech",
+    "domain": "100% AWS Cloud Native Banking, Serverless Financial Pipelines & IAM",
+    "location": "Chennai / Regional Tech Center",
+    "target_role": "Serverless Cloud Banking Intern",
+    "contact_email": "careers.india@capitalone.com",
+    "backup_email": "",
+    "website": "https://www.capitalonecareers.com"
+  },
+  {
+    "id": "synchrony-india",
+    "name": "Synchrony India",
+    "domain": "Consumer Financial Cloud, CareCredit Platform on AWS & Multi-Cloud",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Consumer Cloud Platform & SRE Intern",
+    "contact_email": "careers.india@synchrony.com",
+    "backup_email": "",
+    "website": "https://www.synchronycareers.com"
+  },
+  {
+    "id": "affirm-india",
+    "name": "Affirm India",
+    "domain": "Pay-Over-Time FinTech Cloud, Real-Time Loan Underwriting on AWS",
+    "location": "Chennai / Remote, India",
+    "target_role": "Underwriting Cloud & Real-Time Data Intern",
+    "contact_email": "careers@affirm.com",
+    "backup_email": "",
+    "website": "https://www.affirm.com/careers"
+  },
+  {
+    "id": "klarna-india",
+    "name": "Klarna India",
+    "domain": "AI-Powered Payments Cloud, Buy Now Pay Later High-Scale Cloud Engine",
+    "location": "Chennai / Remote, India",
+    "target_role": "Payments Cloud & AI Systems Intern",
+    "contact_email": "careers.india@klarna.com",
+    "backup_email": "",
+    "website": "https://www.klarna.com/careers"
+  },
+  {
+    "id": "stripe-india",
+    "name": "Stripe India",
+    "domain": "Global Payment Infrastructure Cloud, Financial APIs on AWS & K8s",
+    "location": "Chennai / Remote, India",
+    "target_role": "Payment Infrastructure Cloud Intern",
+    "contact_email": "careers@stripe.com",
+    "backup_email": "",
+    "website": "https://stripe.com/jobs"
+  },
+  {
+    "id": "adyen-india",
+    "name": "Adyen India",
+    "domain": "Single Global Payments Platform Cloud, Direct-to-Scheme Processing",
+    "location": "Chennai / Regional Center",
+    "target_role": "Payments Platform Cloud & SRE Intern",
+    "contact_email": "careers@adyen.com",
+    "backup_email": "",
+    "website": "https://careers.adyen.com"
+  },
+  {
+    "id": "broadridge-india",
+    "name": "Broadridge Financial Solutions India",
+    "domain": "Securities Processing Cloud, Investor Communications SaaS & Multi-AZ RDS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Securities Cloud & Multi-AZ Database Intern",
+    "contact_email": "careers.india@broadridge.com",
+    "backup_email": "",
+    "website": "https://www.broadridge.com/about/careers"
+  },
+  {
+    "id": "factset-india",
+    "name": "FactSet India",
+    "domain": "Financial Data Cloud, Real-Time Market Telemetry & Microservices",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Financial Telemetry Cloud Intern",
+    "contact_email": "careers.india@factset.com",
+    "backup_email": "",
+    "website": "https://www.factset.com/careers"
+  },
+  {
+    "id": "tradeweb-india",
+    "name": "Tradeweb Markets India",
+    "domain": "Electronic Fixed Income Trading Cloud, Low-Latency Networking & AWS",
+    "location": "Chennai Center, Tamil Nadu",
+    "target_role": "Trading Cloud & Low-Latency Networks Intern",
+    "contact_email": "careers.india@tradeweb.com",
+    "backup_email": "",
+    "website": "https://www.tradeweb.com/about-us/careers"
   }
 ]
