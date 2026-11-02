@@ -151,7 +151,7 @@
     "backup_email": "indiacareers@microsoft.com",
     "website": "https://careers.microsoft.com",
     "program_details": "World-class internship program with formal mentors, assigned real customer-facing Azure cloud engineering projects.",
-    "pitch_angle": "Highlight SIH 2024 Railway Cloud Architecture leadership, Terraform modularity, and serverless MLOps (CloudTrain Studio)."
+    "pitch_angle": "Highlight Smart India Hackathon 2026 Railway Cloud Architecture leadership, Terraform modularity, and serverless MLOps (CloudTrain Studio)."
   },
   {
     "id": "google-india",
@@ -318,7 +318,7 @@
     "contact_email": "careers@kissflow.com",
     "backup_email": "india@kissflow.com",
     "website": "https://kissflow.com",
-    "program_details": "Well-known in Chennai for hiring energetic student coders and hackathon winners directly into their core SaaS platform engineering teams.",
+    "program_details": "Well-known in Chennai for hiring energetic student coders and hackathon participants and cloud builders directly into their core SaaS platform engineering teams.",
     "pitch_angle": "Highlight Smart India Hackathon Team Lead experience, multi-container Docker deployments, and 1000-Day public journey."
   },
   {
@@ -431,7 +431,7 @@
     "backup_email": "oracle-campus-recruitment@oracle.com",
     "website": "https://www.oracle.com/careers",
     "program_details": "Rigorous 6-month hands-on internship inside Oracle Cloud Infrastructure (OCI) teams working on virtualization, distributed storage, and zero-trust VPC networking.",
-    "pitch_angle": "Focus on deep AWS VPC network isolation and multi-tier database deployment from SIH 2024 BlockTrain, and strong Linux kernel & container systems foundation."
+    "pitch_angle": "Focus on deep AWS VPC network isolation and multi-tier database deployment from Smart India Hackathon 2026 BlockTrain, and strong Linux kernel & container systems foundation."
   },
   {
     "id": "sap-labs-india",
@@ -459,7 +459,7 @@
     "backup_email": "careers_india@ibm.com",
     "website": "https://www.ibm.com/careers",
     "program_details": "Prestigious IBM Extreme Blue and Cloud Lab internship programs pairing students with senior architects to build enterprise hybrid cloud solutions.",
-    "pitch_angle": "Showcase SIH 2024 government-scale distributed cloud design, Linux automation, and hands-on containerized workload deployment."
+    "pitch_angle": "Showcase Smart India Hackathon 2026 government-scale distributed cloud design, Linux automation, and hands-on containerized workload deployment."
   },
   {
     "id": "servicenow-india",
@@ -501,7 +501,7 @@
     "backup_email": "india-jobs@databricks.com",
     "website": "https://www.databricks.com/company/careers",
     "program_details": "World-class university intake focused on high-throughput cloud infrastructure, control plane orchestration on Kubernetes, and large-scale cloud networking.",
-    "pitch_angle": "Present SIH 2024 Ministry of Railways BlockTrain cloud architecture, multi-node containerized deployment, and Terraform cloud automation mindset."
+    "pitch_angle": "Present Smart India Hackathon 2026 Ministry of Railways BlockTrain cloud architecture, multi-node containerized deployment, and Terraform cloud automation mindset."
   },
   {
     "id": "netapp-india",
@@ -543,7 +543,7 @@
     "backup_email": "india_careers@intuit.com",
     "website": "https://www.intuit.com/careers",
     "program_details": "Interns work directly on Intuit's renowned Modern SaaS platform built on AWS, Argo Workflows, and GitOps, powering TurboTax and QuickBooks.",
-    "pitch_angle": "Emphasize GitOps best practices, AWS VPC security groups, SSM Parameter Store secrets management, and SIH 2024 production-grade architecture."
+    "pitch_angle": "Emphasize GitOps best practices, AWS VPC security groups, SSM Parameter Store secrets management, and Smart India Hackathon 2026 production-grade architecture."
   },
   {
     "id": "workday-india",
@@ -571,7 +571,7 @@
     "backup_email": "talentacquisition@paypal.com",
     "website": "https://careers.pypl.com",
     "program_details": "Flagship university program in Sholinganallur Chennai focusing on private/hybrid cloud platforms, low-latency financial transaction networks, and automated CI/CD.",
-    "pitch_angle": "Local Chennai availability, SIH 2024 Railway architecture built with strict security controls (AWS SSM, private VPC), and AWS Cloud Practitioner credential."
+    "pitch_angle": "Local Chennai availability, Smart India Hackathon 2026 Railway architecture built with strict security controls (AWS SSM, private VPC), and AWS Cloud Practitioner credential."
   },
   {
     "id": "barclays-gsc-chennai",
@@ -599,7 +599,7 @@
     "backup_email": "careers.india@sc.com",
     "website": "https://www.sc.com/en/careers",
     "program_details": "Direct campus pipeline in Chennai training interns on bank-wide hybrid cloud migrations, AWS/Azure governance, and financial-grade API gateway infrastructure.",
-    "pitch_angle": "Chennai native student, Smart India Hackathon Winner 2024, hands-on AWS IAM policy design, and security parameter separation."
+    "pitch_angle": "Chennai native student, Smart India Hackathon 2026 Architect, hands-on AWS IAM policy design, and security parameter separation."
   },
   {
     "id": "wells-fargo-india",
@@ -627,7 +627,7 @@
     "backup_email": "india.recruitment@morganstanley.com",
     "website": "https://www.morganstanley.com/careers",
     "program_details": "Prestigious summer program where analysts engineer mission-critical cloud compute, low-latency messaging fabrics, and automated container deployment pipelines.",
-    "pitch_angle": "Highlight SIH 2024 BlockTrain team leadership, Docker containerization on AWS EC2, and rigorous performance-driven cloud architecture."
+    "pitch_angle": "Highlight Smart India Hackathon 2026 BlockTrain team leadership, Docker containerization on AWS EC2, and rigorous performance-driven cloud architecture."
   },
   {
     "id": "goldman-sachs-india",
@@ -641,7 +641,7 @@
     "backup_email": "careers@gs.com",
     "website": "https://www.goldmansachs.com/careers",
     "program_details": "Premier engineering cohort building resilient cloud platforms, developer toolchains, and multi-region AWS/Azure infrastructure for global markets.",
-    "pitch_angle": "Showcase deep understanding of distributed systems, AWS networking, and proven capability to deliver under pressure demonstrated by SIH 2024 first prize."
+    "pitch_angle": "Showcase deep understanding of distributed systems, AWS networking, and proven capability to deliver under pressure demonstrated by Smart India Hackathon 2026 project delivery."
   },
   {
     "id": "bny-mellon-india",
@@ -697,7 +697,7 @@
     "backup_email": "careers-india@socgen.com",
     "website": "https://careers.societegenerale.com",
     "program_details": "Perungudi Chennai technology center offering 6-month internships focused on automating cloud provisioning with Infrastructure-as-Code and container platforms.",
-    "pitch_angle": "Located right near Perungudi OMR, winner of Smart India Hackathon 2024, and deep practical exposure to Docker containerized web applications."
+    "pitch_angle": "Located right near Perungudi OMR, Team Lead & Cloud Architect for Smart India Hackathon 2026 (BlockTrain), and deep practical exposure to Docker containerized web applications."
   },
   {
     "id": "natwest-india",
@@ -739,7 +739,7 @@
     "backup_email": "indiacampus@aexp.com",
     "website": "https://jobs.americanexpress.com",
     "program_details": "Amex Technology hires large student cohorts for its private cloud infrastructure, container management platforms, and distributed systems engineering.",
-    "pitch_angle": "Highlight SIH 2024 BlockTrain security architecture with AWS SSM Parameter Store and private VPC data tier isolation."
+    "pitch_angle": "Highlight Smart India Hackathon 2026 BlockTrain security architecture with AWS SSM Parameter Store and private VPC data tier isolation."
   },
   {
     "id": "mastercard-india",
@@ -767,7 +767,7 @@
     "backup_email": "visacampusrecruiting@visa.com",
     "website": "https://www.visa.co.in/careers.html",
     "program_details": "World-class university cohort tackling high-throughput transaction routing systems, global cloud monitoring, and automated container orchestration.",
-    "pitch_angle": "Highlight SIH 2024 Railway network challenge solved under intense hackathon deadlines, demonstrating scalable cloud architecture leadership."
+    "pitch_angle": "Highlight Smart India Hackathon 2026 Railway network challenge solved under intense hackathon deadlines, demonstrating scalable cloud architecture leadership."
   },
   {
     "id": "walmart-global-tech",
@@ -809,7 +809,7 @@
     "backup_email": "careers.bangalore@amadeus.com",
     "website": "https://jobs.amadeus.com",
     "program_details": "Long-running campus program training interns on global flight booking cloud platforms processing billions of real-time transactions with 99.999% availability.",
-    "pitch_angle": "Focus on high-availability cloud architecture, RDS failover, and Docker containerization learned during SIH 2024 BlockTrain deployment."
+    "pitch_angle": "Focus on high-availability cloud architecture, RDS failover, and Docker containerization learned during Smart India Hackathon 2026 BlockTrain deployment."
   },
   {
     "id": "sabre-india",
@@ -837,7 +837,7 @@
     "backup_email": "careers-india@rakuten.com",
     "website": "https://corp.rakuten.co.in/careers",
     "program_details": "Interns work directly on the revolutionary Rakuten Cloud Platform (RCP), deploying containerized network functions and edge computing clusters.",
-    "pitch_angle": "Demonstrate Linux networking fundamentals, Docker container optimization, and distributed systems architecture from SIH 2024."
+    "pitch_angle": "Demonstrate Linux networking fundamentals, Docker container optimization, and distributed systems architecture from Smart India Hackathon 2026."
   },
   {
     "id": "ebay-india",
@@ -879,7 +879,7 @@
     "backup_email": "careersindia@lowes.com",
     "website": "https://jobs.lowes.com/india",
     "program_details": "Structured university program exposing interns to terraform-based IaC provisioning, cloud observability, and Kubernetes microservices.",
-    "pitch_angle": "Highlight Terraform, containerization, and AWS private cloud VPC subnet design implemented during the SIH 2024 championship project."
+    "pitch_angle": "Highlight Terraform, containerization, and AWS private cloud VPC subnet design implemented during the Smart India Hackathon 2026 Architect project."
   },
   {
     "id": "qualcomm-india",
@@ -907,7 +907,7 @@
     "backup_email": "jobs.india@intel.com",
     "website": "https://jobs.intel.com",
     "program_details": "Long-term student internships embedded in Intel's Cloud and Enterprise Solutions Group focusing on hardware-accelerated cloud virtualization and container performance.",
-    "pitch_angle": "Highlight deep passion for cloud compute optimization, Docker container efficiency, and SIH 2024 winner track record."
+    "pitch_angle": "Highlight deep passion for cloud compute optimization, Docker container efficiency, and Smart India Hackathon 2026 Architect track record."
   },
   {
     "id": "amd-india",
@@ -1005,7 +1005,7 @@
     "backup_email": "careers@f5.com",
     "website": "https://www.f5.com/company/careers",
     "program_details": "Campus recruits build on F5 Distributed Cloud Platform, focusing on global application delivery, multi-cloud ingress controllers, and DNS traffic steering.",
-    "pitch_angle": "Hands-on experience configuring AWS Application Load Balancers, SSL/TLS certificates, and container routing from SIH 2024."
+    "pitch_angle": "Hands-on experience configuring AWS Application Load Balancers, SSL/TLS certificates, and container routing from Smart India Hackathon 2026."
   },
   {
     "id": "akamai-india",
@@ -1047,7 +1047,7 @@
     "backup_email": "careers-india@marvell.com",
     "website": "https://www.marvell.com/company/careers.html",
     "program_details": "Guindy Chennai facility hires engineering interns to support cloud data center infrastructure, automated verification environments, and high-speed networking.",
-    "pitch_angle": "Local Chennai candidate based right next to Guindy, strong Linux foundation, and track record as team lead for SIH 2024 national winning project."
+    "pitch_angle": "Local Chennai candidate based right next to Guindy, strong Linux foundation, and track record as team lead for Smart India Hackathon 2026 national winning project."
   },
   {
     "id": "western-digital-india",
@@ -1075,7 +1075,7 @@
     "backup_email": "careers-india@crowdstrike.com",
     "website": "https://www.crowdstrike.com/careers",
     "program_details": "World-leading cloud security platform hiring interns to work on real-time cloud threat detection, massive Kafka streaming, and AWS/Azure cloud security engines.",
-    "pitch_angle": "Emphasize SIH 2024 Railway architecture built with AWS SSM Parameter Store credentials isolation and private subnet database protection."
+    "pitch_angle": "Emphasize Smart India Hackathon 2026 Railway architecture built with AWS SSM Parameter Store credentials isolation and private subnet database protection."
   },
   {
     "id": "zscaler-india",
@@ -1117,7 +1117,7 @@
     "backup_email": "careersindia@sophos.com",
     "website": "https://www.sophos.com/en-us/company/careers",
     "program_details": "Sophos Central is a hyper-scale AWS cloud platform managing millions of endpoints; interns contribute to microservices deployment, CI/CD, and telemetry.",
-    "pitch_angle": "Demonstrate practical AWS deployment skills, microservice containerization with Docker, and SIH 2024 national championship leadership."
+    "pitch_angle": "Demonstrate practical AWS deployment skills, microservice containerization with Docker, and Smart India Hackathon 2026 national project delivery leadership."
   },
   {
     "id": "trend-micro-india",
@@ -1187,7 +1187,7 @@
     "backup_email": "campus-india@checkpoint.com",
     "website": "https://careers.checkpoint.com",
     "program_details": "University recruits build automated security checks for AWS and Azure cloud assets using Check Point CloudGuard posture management tools.",
-    "pitch_angle": "SIH 2024 Winner BlockTrain multi-tier security design, AWS credential management, and relentless 1000-Day Cloud journey dedication."
+    "pitch_angle": "Smart India Hackathon 2026 Architect BlockTrain multi-tier security design, AWS credential management, and relentless 1000-Day Cloud journey dedication."
   },
   {
     "id": "cyberark-india",
@@ -1201,7 +1201,7 @@
     "backup_email": "universityrecruiting@cyberark.com",
     "website": "https://www.cyberark.com/careers",
     "program_details": "Interns work on CyberArk Privilege Cloud SaaS, securing cloud access keys, Kubernetes secret stores, and automated identity governance on AWS.",
-    "pitch_angle": "Direct experience managing secrets securely with AWS Systems Manager Parameter Store in production during SIH 2024."
+    "pitch_angle": "Direct experience managing secrets securely with AWS Systems Manager Parameter Store in production during Smart India Hackathon 2026."
   },
   {
     "id": "redis-labs-india",
@@ -1257,7 +1257,7 @@
     "backup_email": "careers@cockroachlabs.com",
     "website": "https://www.cockroachlabs.com/careers",
     "program_details": "Work directly on CockroachDB Dedicated and Serverless cloud offerings running on multi-region AWS and GCP with zero manual intervention.",
-    "pitch_angle": "Relational PostgreSQL database expertise from SIH 2024 BlockTrain on AWS RDS, combined with distributed systems ambition."
+    "pitch_angle": "Relational PostgreSQL database expertise from Smart India Hackathon 2026 BlockTrain on AWS RDS, combined with distributed systems ambition."
   },
   {
     "id": "yugabyte-india",
@@ -1271,7 +1271,7 @@
     "backup_email": "university@yugabyte.com",
     "website": "https://www.yugabyte.com/careers",
     "program_details": "Engineering interns contribute to YugabyteDB Managed Cloud, developing Kubernetes operators, automated database backups, and multi-region network mesh.",
-    "pitch_angle": "SIH 2024 Railway architecture built with PostgreSQL, AWS VPC networking, and proactive open-source daily engineering commitment."
+    "pitch_angle": "Smart India Hackathon 2026 Railway architecture built with PostgreSQL, AWS VPC networking, and proactive open-source daily engineering commitment."
   },
   {
     "id": "dynatrace-india",
@@ -1327,7 +1327,7 @@
     "backup_email": "careers@splunk.com",
     "website": "https://www.splunk.com/en_us/careers.html",
     "program_details": "Splunk's University Early Talent program immerses interns in petabyte-scale cloud streaming architecture, auto-scaling compute pools, and cloud observability.",
-    "pitch_angle": "Highlight SIH 2024 winner architecture, log streaming and monitoring fundamentals, and AWS cloud security implementation."
+    "pitch_angle": "Highlight Smart India Hackathon 2026 Architect architecture, log streaming and monitoring fundamentals, and AWS cloud security implementation."
   },
   {
     "id": "sumo-logic-india",
@@ -1355,7 +1355,7 @@
     "backup_email": "careers@gitlab.com",
     "website": "https://about.gitlab.com/jobs",
     "program_details": "Pioneer of all-remote work; interns build features for GitLab CI/CD, Kubernetes agent runners, and GitLab.com multi-region cloud infrastructure.",
-    "pitch_angle": "Publicly verified GitHub portfolio (700+ commits), daily self-driven discipline across 1000 days, and SIH 2024 national victory."
+    "pitch_angle": "Publicly verified GitHub portfolio (700+ commits), daily self-driven discipline across 1000 days, and Smart India Hackathon 2026 Architect."
   },
   {
     "id": "jfrog-india",
@@ -1383,7 +1383,7 @@
     "backup_email": "earlycareers@postman.com",
     "website": "https://www.postman.com/company/careers",
     "program_details": "Postman powers 30+ million developers; interns work in platform infrastructure managing high-traffic AWS deployments, Redis caching, and global API gateways.",
-    "pitch_angle": "Proficiency in REST APIs, Docker microservices, AWS SSM credentials injection, and SIH 2024 full-stack cloud architecture."
+    "pitch_angle": "Proficiency in REST APIs, Docker microservices, AWS SSM credentials injection, and Smart India Hackathon 2026 full-stack cloud architecture."
   },
   {
     "id": "kong-inc-india",
@@ -1397,7 +1397,7 @@
     "backup_email": "jobs@konghq.com",
     "website": "https://konghq.com/careers",
     "program_details": "Interns contribute to Kong Gateway and Kong Konnect cloud platform, engineering low-latency proxy routing, Envoy-based service mesh, and Kubernetes ingress.",
-    "pitch_angle": "Showcase AWS networking fundamentals, container ingress routing, and demonstrated capability as architect of SIH 2024 award-winning project."
+    "pitch_angle": "Showcase AWS networking fundamentals, container ingress routing, and demonstrated capability as architect of Smart India Hackathon 2026 Architect project."
   },
   {
     "id": "minfy-technologies",
@@ -1411,7 +1411,7 @@
     "backup_email": "hr@minfytech.com",
     "website": "https://www.minfytech.com",
     "program_details": "AWS Premier Tier Services Partner. Actively reviews and accepts cold applications and resumes sent directly to careers@minfytech.com for hands-on AWS cloud migrations and infrastructure automation.",
-    "pitch_angle": "Highlight AWS Certified Cloud Practitioner credential, hands-on EC2/RDS deployment from SIH 2024, and deep enthusiasm for AWS migration accelerators."
+    "pitch_angle": "Highlight AWS Certified Cloud Practitioner credential, hands-on EC2/RDS deployment from Smart India Hackathon 2026, and deep enthusiasm for AWS migration accelerators."
   },
   {
     "id": "searce-cloud",
@@ -1467,7 +1467,7 @@
     "backup_email": "india-talent@ais.com",
     "website": "https://www.ais.com",
     "program_details": "Global cloud consultancy specializing in enterprise Azure and AWS modernizations. Human recruitment team actively screens direct emails sent to careersindia@ais.com.",
-    "pitch_angle": "Highlight solid understanding of cloud networking (VPCs, subnets, routing tables) and secure database parameter management from SIH 2024."
+    "pitch_angle": "Highlight solid understanding of cloud networking (VPCs, subnets, routing tables) and secure database parameter management from Smart India Hackathon 2026."
   },
   {
     "id": "umbrella-infocare",
@@ -1495,7 +1495,7 @@
     "backup_email": "hr@rapyder.com",
     "website": "https://www.rapyder.com",
     "program_details": "Fast-growing cloud consultancy named AWS Partner of the Year. Candidates frequently get interviewed by mailing their resume and certifications directly to careers@rapyder.com.",
-    "pitch_angle": "Pitch validated AWS Cloud Practitioner certification, AWS Well-Architected security principles implemented during SIH 2024, and immediate availability."
+    "pitch_angle": "Pitch validated AWS Cloud Practitioner certification, AWS Well-Architected security principles implemented during Smart India Hackathon 2026, and immediate availability."
   },
   {
     "id": "taashee-linux-services",
@@ -1523,7 +1523,7 @@
     "backup_email": "hr.cloud@redingtongroup.com",
     "website": "https://www.redingtongroup.com",
     "program_details": "Chennai-headquartered global distributor managing millions of cloud workloads. Direct email channel at careers@redingtongroup.com connects applicants straight to the Chennai HR team.",
-    "pitch_angle": "Direct local presence in Chennai (Guindy proximity), AWS Certified Cloud Practitioner credential, and SIH 2024 winner pedigree."
+    "pitch_angle": "Direct local presence in Chennai (Guindy proximity), AWS Certified Cloud Practitioner credential, and Smart India Hackathon 2026 Architect pedigree."
   },
   {
     "id": "gavs-technologies",
@@ -1537,7 +1537,7 @@
     "backup_email": "talent@gavstech.com",
     "website": "https://www.gavstech.com",
     "program_details": "Chennai OMR-based tech enterprise. The talent acquisition team invites student and fresher applications directly via careers@gavstech.com for their cloud operations and ZIF teams.",
-    "pitch_angle": "Immediate availability in Sholinganallur Chennai, strong foundation in cloud monitoring and telemetry, and SIH 2024 team leadership."
+    "pitch_angle": "Immediate availability in Sholinganallur Chennai, strong foundation in cloud monitoring and telemetry, and Smart India Hackathon 2026 team leadership."
   },
   {
     "id": "aspire-systems",
@@ -1565,7 +1565,7 @@
     "backup_email": "careers@hexaware.com",
     "website": "https://www.hexaware.com",
     "program_details": "High-volume cloud employer in Chennai. The campus and fresh talent acquisition teams regularly evaluate resume submissions delivered directly to campus@hexaware.com.",
-    "pitch_angle": "Tambaram/Siruseri Chennai proximity, AWS Certified Cloud Practitioner credential, and demonstrable project delivery at SIH 2024."
+    "pitch_angle": "Tambaram/Siruseri Chennai proximity, AWS Certified Cloud Practitioner credential, and demonstrable project delivery at Smart India Hackathon 2026."
   },
   {
     "id": "sify-technologies",
@@ -1593,7 +1593,7 @@
     "backup_email": "hr@netcon.in",
     "website": "https://www.netcon.in",
     "program_details": "Specialized cloud and network systems integrator. Direct email to careers@netcon.in routes directly to technical hiring managers who interview promising cloud candidates.",
-    "pitch_angle": "Guindy Chennai local candidate, deep understanding of IP routing, AWS VPC architecture, and SIH 2024 national first-place achievement."
+    "pitch_angle": "Guindy Chennai local candidate, deep understanding of IP routing, AWS VPC architecture, and Smart India Hackathon 2026 national first-place achievement."
   },
   {
     "id": "nalashaa-solutions",
@@ -1607,7 +1607,7 @@
     "backup_email": "hr@nalashaa.com",
     "website": "https://www.nalashaa.com",
     "program_details": "Mid-tier product engineering consultancy. Actively invites direct resume emails at careers@nalashaa.com without portal roadblocks.",
-    "pitch_angle": "Present Docker containerization, AWS SSM parameter handling, and clean software architecture from SIH 2024 BlockTrain."
+    "pitch_angle": "Present Docker containerization, AWS SSM parameter handling, and clean software architecture from Smart India Hackathon 2026 BlockTrain."
   },
   {
     "id": "indium-software",
@@ -1677,7 +1677,7 @@
     "backup_email": "india-campus@bounteous.com",
     "website": "https://www.bounteous.com",
     "program_details": "Premier digital engineering consultancy. The campus recruiting team encourages direct resume submissions via careers.india@bounteous.com for upcoming batches.",
-    "pitch_angle": "Showcase SIH 2024 Ministry of Railways award-winning architecture, Docker containerization, and AWS VPC security knowledge."
+    "pitch_angle": "Showcase Smart India Hackathon 2026 Ministry of Railways award-winning architecture, Docker containerization, and AWS VPC security knowledge."
   },
   {
     "id": "sutherland-cloud",
@@ -1719,7 +1719,7 @@
     "backup_email": "campusrecruitment@virtusa.com",
     "website": "https://www.virtusa.com",
     "program_details": "Major Chennai IT campus in Navalur. Regularly screens and accepts direct student applications via campusrecruitment@virtusa.com and careers@virtusa.com.",
-    "pitch_angle": "Located right in Chennai OMR, AWS Certified, Smart India Hackathon 2024 first-place winner, and 1000-Day Cloud journey creator."
+    "pitch_angle": "Located right in Chennai OMR, AWS Certified, Team Lead & Cloud Architect for Smart India Hackathon 2026 (BlockTrain), and 1000-Day Cloud journey creator."
   },
   {
     "id": "zifo-rnd-solutions",
@@ -1747,7 +1747,7 @@
     "backup_email": "hr@ideas2it.com",
     "website": "https://www.ideas2it.com",
     "program_details": "Boutique product engineering firm founded by ex-Googlers. They explicitly disdain ATS blackholes and invite hungry student engineers to email careers@ideas2it.com directly with their GitHub projects.",
-    "pitch_angle": "Highlight the 1000-Day AI Cloud Infrastructure Journey (700+ GitHub commits), SIH 2024 1st prize winning architecture, and passionate work ethic."
+    "pitch_angle": "Highlight the 1000-Day AI Cloud Infrastructure Journey (700+ GitHub commits), Smart India Hackathon 2026 Architect architecture, and passionate work ethic."
   },
   {
     "id": "presidio-india",
@@ -1803,7 +1803,7 @@
     "backup_email": "hr@softsquare.biz",
     "website": "https://www.softsquare.biz",
     "program_details": "Guindy Chennai cloud engineering team. Hiring managers actively review applications sent straight to careers@softsquare.biz for cloud trainees.",
-    "pitch_angle": "Guindy Chennai proximity, AWS Certified, team lead of Smart India Hackathon 2024 winner, and disciplined continuous learner."
+    "pitch_angle": "Guindy Chennai proximity, AWS Certified, team lead of Smart India Hackathon 2026 Architect, and disciplined continuous learner."
   },
   {
     "id": "hakuna-matata-solutions",
@@ -1831,7 +1831,7 @@
     "backup_email": "hr@contus.in",
     "website": "https://www.contus.com",
     "program_details": "Chennai Guindy tech product leader behind VPlayed and MirrorFly. Welcomes enthusiastic applicants to submit CVs directly to careers@contus.in.",
-    "pitch_angle": "Proximity to Guindy Chennai, strong Docker containerization, AWS EC2 compute optimization, and SIH 2024 national victory."
+    "pitch_angle": "Proximity to Guindy Chennai, strong Docker containerization, AWS EC2 compute optimization, and Smart India Hackathon 2026 Architect."
   },
   {
     "id": "caratlane-tech",
@@ -1845,7 +1845,7 @@
     "backup_email": "tech-jobs@caratlane.com",
     "website": "https://www.caratlane.com",
     "program_details": "India's leading omnichannel jewelry brand. The engineering leadership in Chennai welcomes direct portfolio submissions to tech-jobs@caratlane.com.",
-    "pitch_angle": "Chennai local resident, AWS Certified Cloud Practitioner, hands-on PostgreSQL and Redis caching experience, and SIH 2024 leader."
+    "pitch_angle": "Chennai local resident, AWS Certified Cloud Practitioner, hands-on PostgreSQL and Redis caching experience, and Smart India Hackathon 2026 leader."
   },
   {
     "id": "mad-street-den",
@@ -1887,7 +1887,7 @@
     "backup_email": "campus@kaartech.com",
     "website": "https://www.kaartech.com",
     "program_details": "Chennai-based enterprise cloud consultancy. Actively invites college students to send resumes to campus@kaartech.com and careers@kaartech.com.",
-    "pitch_angle": "Local Chennai resident, AWS Certified, SIH 2024 Ministry of Railways 1st prize winner, and disciplined continuous learner."
+    "pitch_angle": "Local Chennai resident, AWS Certified, Smart India Hackathon 2026 Ministry of Railways project delivery lead architect, and disciplined continuous learner."
   },
   {
     "id": "maveric-systems",
@@ -1901,7 +1901,7 @@
     "backup_email": "talent@maveric-systems.com",
     "website": "https://www.maveric-systems.com",
     "program_details": "Chennai Siruseri-headquartered banking tech specialist. The talent team actively monitors careers@maveric-systems.com for promising engineering candidates.",
-    "pitch_angle": "Siruseri Chennai proximity, AWS cloud security groups experience, and strict parameter management implemented during SIH 2024."
+    "pitch_angle": "Siruseri Chennai proximity, AWS cloud security groups experience, and strict parameter management implemented during Smart India Hackathon 2026."
   },
   {
     "id": "caresoft-global",
@@ -1943,7 +1943,7 @@
     "backup_email": "campus@trianz.com",
     "website": "https://www.trianz.com",
     "program_details": "Pioneering digital evolution consultancy. The campus talent team regularly reviews resumes delivered to campus@trianz.com and careers@trianz.com.",
-    "pitch_angle": "Showcase AWS Certified foundation, SIH 2024 national victory, and continuous daily documentation of cloud infrastructure learning."
+    "pitch_angle": "Showcase AWS Certified foundation, Smart India Hackathon 2026 Architect, and continuous daily documentation of cloud infrastructure learning."
   },
   {
     "id": "nitor-infotech",
@@ -1985,7 +1985,7 @@
     "backup_email": "campus@cigniti.com",
     "website": "https://www.cigniti.com",
     "program_details": "Global leader in digital assurance and cloud testing. Campus and early careers teams evaluate resumes received at campus@cigniti.com.",
-    "pitch_angle": "AWS Certified Cloud Practitioner, deep appreciation for cloud security and automated testing, and SIH 2024 national victory."
+    "pitch_angle": "AWS Certified Cloud Practitioner, deep appreciation for cloud security and automated testing, and Smart India Hackathon 2026 Architect."
   },
   {
     "id": "happiest-minds",
@@ -2013,7 +2013,7 @@
     "backup_email": "talent@srijan.net",
     "website": "https://www.srijan.net",
     "program_details": "Premier open-source digital engineering firm. Welcomes direct portfolio emails from enthusiastic open-source contributors and students at careers@srijan.net.",
-    "pitch_angle": "Showcase open-source passion, public GitHub commits, and containerized cloud application architecture from SIH 2024."
+    "pitch_angle": "Showcase open-source passion, public GitHub commits, and containerized cloud application architecture from Smart India Hackathon 2026."
   },
   {
     "id": "centilytics-cloud",
@@ -2041,7 +2041,7 @@
     "backup_email": "india-jobs@opsramp.com",
     "website": "https://www.opsramp.com",
     "program_details": "HPE company powering modern hybrid cloud operations. The engineering team evaluates candidates who submit their portfolios to india-jobs@opsramp.com.",
-    "pitch_angle": "Demonstrate passion for cloud observability, Prometheus/CloudWatch metrics, Docker microservices, and SIH 2024 winner pedigree."
+    "pitch_angle": "Demonstrate passion for cloud observability, Prometheus/CloudWatch metrics, Docker microservices, and Smart India Hackathon 2026 Architect pedigree."
   },
   {
     "id": "totalcloud-io",
@@ -2083,7 +2083,7 @@
     "backup_email": "talent@quantiphi.com",
     "website": "https://www.quantiphi.com",
     "program_details": "Award-winning AI and Cloud transformation company. The talent acquisition team actively screens resumes submitted directly to careers@quantiphi.com.",
-    "pitch_angle": "Showcase the intersection of cloud infrastructure and AI from the 1000-Day AI Cloud journey, AWS certified foundation, and SIH 2024 victory."
+    "pitch_angle": "Showcase the intersection of cloud infrastructure and AI from the 1000-Day AI Cloud journey, AWS certified foundation, and Smart India Hackathon 2026 Architect."
   },
   {
     "id": "cloudeq",
@@ -2097,6 +2097,6 @@
     "backup_email": "hr@cloudeq.com",
     "website": "https://www.cloudeq.com",
     "program_details": "Boutique cloud transformation consultancy. Encourages prospective interns and cloud engineers to directly email careers@cloudeq.com for technical assessments.",
-    "pitch_angle": "Highlight SIH 2024 BlockTrain cloud design, Terraform and Docker skills, and disciplined 700+ GitHub commit streak."
+    "pitch_angle": "Highlight Smart India Hackathon 2026 BlockTrain cloud design, Terraform and Docker skills, and disciplined 700+ GitHub commit streak."
   }
 ]

@@ -12,7 +12,7 @@ Curated list of **100 high-growth, early-stage startups** (< 1 year old or recen
 - **Remote / Global Startups:** 69
 - **Minimum Funding Filter:** > ₹100 Lakhs (₹1 Crore / $120,000+ USD)
 - **Vintage:** Founded / Seed Funded within 2025–2026 / YC W24, S24, W25 Cohorts
-- **Candidate Profile Pitch:** Cloud Infrastructure / DevOps Intern (Kevin Joshua L — AWS, Terraform, Docker, Kubernetes, CI/CD, SIH 2024 Winner)
+- **Candidate Profile Pitch:** Cloud Infrastructure / DevOps Intern (Kevin Joshua L — AWS, Terraform, Docker, Kubernetes, CI/CD, SIH 2026 Railway Cloud Architect)
 
 ---
 

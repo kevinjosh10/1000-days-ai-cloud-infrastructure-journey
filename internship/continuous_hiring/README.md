@@ -9,7 +9,7 @@ A definitive, verified intelligence repository of **150 global tech giants, clou
 - **Dedicated Campus & Early Career Pipelines (Entries 1 - 100):** Formal annual/semi-annual cohorts, hackathons, and off-campus drives specifically targeting Cloud Systems, DevOps, SRE, and Infrastructure Architecture.
 - **Direct Email Accepting Companies (Entries 101 - 150):** Premier AWS/Azure/GCP consulting partners, cloud-native MSPs, and high-growth product firms that **specifically review and accept internship applications directly via email** (`careers@`, `jobs@`, `hr@`), bypassing rigid ATS portal blackholes.
 - **High PPO / Full-Time Conversion:** Over 70% of interns at these firms convert into full-time Associate Cloud Engineers, Cloud Consultants, or Site Reliability Engineers.
-- **Tailored for Kevin Joshua L:** Custom pitch angles emphasizing **Smart India Hackathon 2024 Winner** (Ministry of Railways BlockTrain on AWS), **AWS Certified Cloud Practitioner**, and the **1000-Day Cloud Infrastructure Journey**.
+- **Tailored for Kevin Joshua L:** Custom pitch angles emphasizing **Team Lead & Cloud Architect for 'BlockTrain'** (Smart India Hackathon 2026 - Ministry of Railways), **AWS Certified Cloud Practitioner**, and the **1000-Day Cloud Infrastructure Journey**.
 
 ---
 
@@ -184,7 +184,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Regional Hubs & Remote / Pan-India
 - **Website:** [https://www.minfytech.com](https://www.minfytech.com)
 - **Email Acceptance Details:** AWS Premier Tier Services Partner. Actively reviews and accepts cold applications and resumes sent directly to careers@minfytech.com for hands-on AWS cloud migrations and infrastructure automation.
-- **Personalized Pitch Angle:** Highlight AWS Certified Cloud Practitioner credential, hands-on EC2/RDS deployment from SIH 2024, and deep enthusiasm for AWS migration accelerators.
+- **Personalized Pitch Angle:** Highlight AWS Certified Cloud Practitioner credential, hands-on EC2/RDS deployment from Smart India Hackathon 2026, and deep enthusiasm for AWS migration accelerators.
 
 ### 102. Searce Inc
 - **Program / Path:** Searce Cloud & Infrastructure Modernization Internship
@@ -232,7 +232,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Hyderabad, Bengaluru & Remote India
 - **Website:** [https://www.ais.com](https://www.ais.com)
 - **Email Acceptance Details:** Global cloud consultancy specializing in enterprise Azure and AWS modernizations. Human recruitment team actively screens direct emails sent to careersindia@ais.com.
-- **Personalized Pitch Angle:** Highlight solid understanding of cloud networking (VPCs, subnets, routing tables) and secure database parameter management from SIH 2024.
+- **Personalized Pitch Angle:** Highlight solid understanding of cloud networking (VPCs, subnets, routing tables) and secure database parameter management from Smart India Hackathon 2026.
 
 ### 106. Umbrella Infocare (A Noventiq Company)
 - **Program / Path:** Umbrella AWS Cloud Operations & DevOps Trainee Program
@@ -256,7 +256,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Bengaluru & Remote India
 - **Website:** [https://www.rapyder.com](https://www.rapyder.com)
 - **Email Acceptance Details:** Fast-growing cloud consultancy named AWS Partner of the Year. Candidates frequently get interviewed by mailing their resume and certifications directly to careers@rapyder.com.
-- **Personalized Pitch Angle:** Pitch validated AWS Cloud Practitioner certification, AWS Well-Architected security principles implemented during SIH 2024, and immediate availability.
+- **Personalized Pitch Angle:** Pitch validated AWS Cloud Practitioner certification, AWS Well-Architected security principles implemented during Smart India Hackathon 2026, and immediate availability.
 
 ### 108. Taashee Linux Services
 - **Program / Path:** Taashee Enterprise Linux & Cloud Infrastructure Trainee Program
@@ -280,7 +280,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Guindy, Chennai (Global Headquarters)
 - **Website:** [https://www.redingtongroup.com](https://www.redingtongroup.com)
 - **Email Acceptance Details:** Chennai-headquartered global distributor managing millions of cloud workloads. Direct email channel at careers@redingtongroup.com connects applicants straight to the Chennai HR team.
-- **Personalized Pitch Angle:** Direct local presence in Chennai (Guindy proximity), AWS Certified Cloud Practitioner credential, and SIH 2024 winner pedigree.
+- **Personalized Pitch Angle:** Direct local presence in Chennai (Guindy proximity), AWS Certified Cloud Practitioner credential, and Smart India Hackathon 2026 Architect pedigree.
 
 ### 110. GAVS Technologies
 - **Program / Path:** GAVS Zero Incident Framework (ZIF) AIOps & Cloud Internship
@@ -292,7 +292,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Sholinganallur, OMR, Chennai (Headquarters)
 - **Website:** [https://www.gavstech.com](https://www.gavstech.com)
 - **Email Acceptance Details:** Chennai OMR-based tech enterprise. The talent acquisition team invites student and fresher applications directly via careers@gavstech.com for their cloud operations and ZIF teams.
-- **Personalized Pitch Angle:** Immediate availability in Sholinganallur Chennai, strong foundation in cloud monitoring and telemetry, and SIH 2024 team leadership.
+- **Personalized Pitch Angle:** Immediate availability in Sholinganallur Chennai, strong foundation in cloud monitoring and telemetry, and Smart India Hackathon 2026 team leadership.
 
 ### 111. Aspire Systems
 - **Program / Path:** Aspire Cloud Solutions & Infrastructure DevOps Internship
@@ -316,7 +316,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** MEPZ, Tambaram / Siruseri, Chennai
 - **Website:** [https://www.hexaware.com](https://www.hexaware.com)
 - **Email Acceptance Details:** High-volume cloud employer in Chennai. The campus and fresh talent acquisition teams regularly evaluate resume submissions delivered directly to campus@hexaware.com.
-- **Personalized Pitch Angle:** Tambaram/Siruseri Chennai proximity, AWS Certified Cloud Practitioner credential, and demonstrable project delivery at SIH 2024.
+- **Personalized Pitch Angle:** Tambaram/Siruseri Chennai proximity, AWS Certified Cloud Practitioner credential, and demonstrable project delivery at Smart India Hackathon 2026.
 
 ### 113. Sify Technologies
 - **Program / Path:** Sify Enterprise Cloud & Data Center Operations Internship
@@ -340,7 +340,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Guindy, Chennai & Coimbatore
 - **Website:** [https://www.netcon.in](https://www.netcon.in)
 - **Email Acceptance Details:** Specialized cloud and network systems integrator. Direct email to careers@netcon.in routes directly to technical hiring managers who interview promising cloud candidates.
-- **Personalized Pitch Angle:** Guindy Chennai local candidate, deep understanding of IP routing, AWS VPC architecture, and SIH 2024 national first-place achievement.
+- **Personalized Pitch Angle:** Guindy Chennai local candidate, deep understanding of IP routing, AWS VPC architecture, and Smart India Hackathon 2026 national first-place achievement.
 
 ### 115. Nalashaa Solutions
 - **Program / Path:** Nalashaa Cloud-Native & Azure/AWS Platform Internship
@@ -352,7 +352,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Bengaluru & Remote India
 - **Website:** [https://www.nalashaa.com](https://www.nalashaa.com)
 - **Email Acceptance Details:** Mid-tier product engineering consultancy. Actively invites direct resume emails at careers@nalashaa.com without portal roadblocks.
-- **Personalized Pitch Angle:** Present Docker containerization, AWS SSM parameter handling, and clean software architecture from SIH 2024 BlockTrain.
+- **Personalized Pitch Angle:** Present Docker containerization, AWS SSM parameter handling, and clean software architecture from Smart India Hackathon 2026 BlockTrain.
 
 ### 116. Indium Software
 - **Program / Path:** Indium Cloud Engineering & DataOps Internship Program
@@ -412,7 +412,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Chennai Office / Bengaluru & Hyderabad
 - **Website:** [https://www.bounteous.com](https://www.bounteous.com)
 - **Email Acceptance Details:** Premier digital engineering consultancy. The campus recruiting team encourages direct resume submissions via careers.india@bounteous.com for upcoming batches.
-- **Personalized Pitch Angle:** Showcase SIH 2024 Ministry of Railways award-winning architecture, Docker containerization, and AWS VPC security knowledge.
+- **Personalized Pitch Angle:** Showcase Smart India Hackathon 2026 Ministry of Railways award-winning architecture, Docker containerization, and AWS VPC security knowledge.
 
 ### 121. Sutherland Global Services
 - **Program / Path:** Sutherland Cloud Operations & Infrastructure Trainee Program
@@ -448,7 +448,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Navalur, OMR, Chennai
 - **Website:** [https://www.virtusa.com](https://www.virtusa.com)
 - **Email Acceptance Details:** Major Chennai IT campus in Navalur. Regularly screens and accepts direct student applications via campusrecruitment@virtusa.com and careers@virtusa.com.
-- **Personalized Pitch Angle:** Located right in Chennai OMR, AWS Certified, Smart India Hackathon 2024 first-place winner, and 1000-Day Cloud journey creator.
+- **Personalized Pitch Angle:** Located right in Chennai OMR, AWS Certified, Team Lead & Cloud Architect for Smart India Hackathon 2026 (BlockTrain), and 1000-Day Cloud journey creator.
 
 ### 124. Zifo RnD Solutions
 - **Program / Path:** Zifo Scientific Cloud Infrastructure & AWS HPC Internship
@@ -472,7 +472,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Guindy, Chennai (Global Headquarters)
 - **Website:** [https://www.ideas2it.com](https://www.ideas2it.com)
 - **Email Acceptance Details:** Boutique product engineering firm founded by ex-Googlers. They explicitly disdain ATS blackholes and invite hungry student engineers to email careers@ideas2it.com directly with their GitHub projects.
-- **Personalized Pitch Angle:** Highlight the 1000-Day AI Cloud Infrastructure Journey (700+ GitHub commits), SIH 2024 1st prize winning architecture, and passionate work ethic.
+- **Personalized Pitch Angle:** Highlight the 1000-Day AI Cloud Infrastructure Journey (700+ GitHub commits), Smart India Hackathon 2026 Architect architecture, and passionate work ethic.
 
 ### 126. Presidio India
 - **Program / Path:** Presidio Cloud Engineering & DevOps Internship Program
@@ -520,7 +520,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Guindy, Chennai
 - **Website:** [https://www.softsquare.biz](https://www.softsquare.biz)
 - **Email Acceptance Details:** Guindy Chennai cloud engineering team. Hiring managers actively review applications sent straight to careers@softsquare.biz for cloud trainees.
-- **Personalized Pitch Angle:** Guindy Chennai proximity, AWS Certified, team lead of Smart India Hackathon 2024 winner, and disciplined continuous learner.
+- **Personalized Pitch Angle:** Guindy Chennai proximity, AWS Certified, team lead of Smart India Hackathon 2026 Architect, and disciplined continuous learner.
 
 ### 130. Hakuna Matata Solutions
 - **Program / Path:** Hakuna Matata Cloud IoT & AWS Infrastructure Internship
@@ -544,7 +544,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Guindy Industrial Estate, Chennai
 - **Website:** [https://www.contus.com](https://www.contus.com)
 - **Email Acceptance Details:** Chennai Guindy tech product leader behind VPlayed and MirrorFly. Welcomes enthusiastic applicants to submit CVs directly to careers@contus.in.
-- **Personalized Pitch Angle:** Proximity to Guindy Chennai, strong Docker containerization, AWS EC2 compute optimization, and SIH 2024 national victory.
+- **Personalized Pitch Angle:** Proximity to Guindy Chennai, strong Docker containerization, AWS EC2 compute optimization, and Smart India Hackathon 2026 Architect.
 
 ### 132. CaratLane Tech (A Tanishq / Titan Partnership)
 - **Program / Path:** CaratLane E-Commerce Cloud Platform & SRE Internship
@@ -556,7 +556,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Tidel Park / Thiruvanmiyur, Chennai
 - **Website:** [https://www.caratlane.com](https://www.caratlane.com)
 - **Email Acceptance Details:** India's leading omnichannel jewelry brand. The engineering leadership in Chennai welcomes direct portfolio submissions to tech-jobs@caratlane.com.
-- **Personalized Pitch Angle:** Chennai local resident, AWS Certified Cloud Practitioner, hands-on PostgreSQL and Redis caching experience, and SIH 2024 leader.
+- **Personalized Pitch Angle:** Chennai local resident, AWS Certified Cloud Practitioner, hands-on PostgreSQL and Redis caching experience, and Smart India Hackathon 2026 leader.
 
 ### 133. Mad Street Den (Vue.ai)
 - **Program / Path:** Vue.ai Cloud AI Infrastructure & GPU Cluster Internship
@@ -592,7 +592,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Anna Nagar / Guindy, Chennai (Headquarters)
 - **Website:** [https://www.kaartech.com](https://www.kaartech.com)
 - **Email Acceptance Details:** Chennai-based enterprise cloud consultancy. Actively invites college students to send resumes to campus@kaartech.com and careers@kaartech.com.
-- **Personalized Pitch Angle:** Local Chennai resident, AWS Certified, SIH 2024 Ministry of Railways 1st prize winner, and disciplined continuous learner.
+- **Personalized Pitch Angle:** Local Chennai resident, AWS Certified, Smart India Hackathon 2026 Ministry of Railways project delivery lead architect, and disciplined continuous learner.
 
 ### 136. Maveric Systems
 - **Program / Path:** Maveric Banking Cloud & DevSecOps Trainee Program
@@ -604,7 +604,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Siruseri IT Park, Chennai (Headquarters)
 - **Website:** [https://www.maveric-systems.com](https://www.maveric-systems.com)
 - **Email Acceptance Details:** Chennai Siruseri-headquartered banking tech specialist. The talent team actively monitors careers@maveric-systems.com for promising engineering candidates.
-- **Personalized Pitch Angle:** Siruseri Chennai proximity, AWS cloud security groups experience, and strict parameter management implemented during SIH 2024.
+- **Personalized Pitch Angle:** Siruseri Chennai proximity, AWS cloud security groups experience, and strict parameter management implemented during Smart India Hackathon 2026.
 
 ### 137. Caresoft Global
 - **Program / Path:** Caresoft Cloud HPC & Compute Simulation Trainee
@@ -640,7 +640,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Chennai Center / Bengaluru & Hyderabad
 - **Website:** [https://www.trianz.com](https://www.trianz.com)
 - **Email Acceptance Details:** Pioneering digital evolution consultancy. The campus talent team regularly reviews resumes delivered to campus@trianz.com and careers@trianz.com.
-- **Personalized Pitch Angle:** Showcase AWS Certified foundation, SIH 2024 national victory, and continuous daily documentation of cloud infrastructure learning.
+- **Personalized Pitch Angle:** Showcase AWS Certified foundation, Smart India Hackathon 2026 Architect, and continuous daily documentation of cloud infrastructure learning.
 
 ### 140. Nitor Infotech
 - **Program / Path:** Nitor Cloud Product Engineering & DevOps Internship
@@ -676,7 +676,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Hyderabad, Bengaluru & Regional Hubs
 - **Website:** [https://www.cigniti.com](https://www.cigniti.com)
 - **Email Acceptance Details:** Global leader in digital assurance and cloud testing. Campus and early careers teams evaluate resumes received at campus@cigniti.com.
-- **Personalized Pitch Angle:** AWS Certified Cloud Practitioner, deep appreciation for cloud security and automated testing, and SIH 2024 national victory.
+- **Personalized Pitch Angle:** AWS Certified Cloud Practitioner, deep appreciation for cloud security and automated testing, and Smart India Hackathon 2026 Architect.
 
 ### 143. Happiest Minds Technologies
 - **Program / Path:** Happiest Minds Cloud Infrastructure & Security (CISS) Trainee
@@ -700,7 +700,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Delhi NCR, Bengaluru & Remote India
 - **Website:** [https://www.srijan.net](https://www.srijan.net)
 - **Email Acceptance Details:** Premier open-source digital engineering firm. Welcomes direct portfolio emails from enthusiastic open-source contributors and students at careers@srijan.net.
-- **Personalized Pitch Angle:** Showcase open-source passion, public GitHub commits, and containerized cloud application architecture from SIH 2024.
+- **Personalized Pitch Angle:** Showcase open-source passion, public GitHub commits, and containerized cloud application architecture from Smart India Hackathon 2026.
 
 ### 145. Centilytics (Cognitive Convergence)
 - **Program / Path:** Centilytics Intelligent Cloud Management & FinOps Internship
@@ -724,7 +724,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Hyderabad & Bengaluru Centers
 - **Website:** [https://www.opsramp.com](https://www.opsramp.com)
 - **Email Acceptance Details:** HPE company powering modern hybrid cloud operations. The engineering team evaluates candidates who submit their portfolios to india-jobs@opsramp.com.
-- **Personalized Pitch Angle:** Demonstrate passion for cloud observability, Prometheus/CloudWatch metrics, Docker microservices, and SIH 2024 winner pedigree.
+- **Personalized Pitch Angle:** Demonstrate passion for cloud observability, Prometheus/CloudWatch metrics, Docker microservices, and Smart India Hackathon 2026 Architect pedigree.
 
 ### 147. TotalCloud
 - **Program / Path:** TotalCloud Visual Cloud Management & Autonomous AWS Internship
@@ -760,7 +760,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Bengaluru, Mumbai & Regional Hubs
 - **Website:** [https://www.quantiphi.com](https://www.quantiphi.com)
 - **Email Acceptance Details:** Award-winning AI and Cloud transformation company. The talent acquisition team actively screens resumes submitted directly to careers@quantiphi.com.
-- **Personalized Pitch Angle:** Showcase the intersection of cloud infrastructure and AI from the 1000-Day AI Cloud journey, AWS certified foundation, and SIH 2024 victory.
+- **Personalized Pitch Angle:** Showcase the intersection of cloud infrastructure and AI from the 1000-Day AI Cloud journey, AWS certified foundation, and Smart India Hackathon 2026 Architect.
 
 ### 150. CloudEQ
 - **Program / Path:** CloudEQ Cloud Transformation & SRE Automation Internship
@@ -772,7 +772,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hub:** Chandigarh, Bengaluru & Remote India
 - **Website:** [https://www.cloudeq.com](https://www.cloudeq.com)
 - **Email Acceptance Details:** Boutique cloud transformation consultancy. Encourages prospective interns and cloud engineers to directly email careers@cloudeq.com for technical assessments.
-- **Personalized Pitch Angle:** Highlight SIH 2024 BlockTrain cloud design, Terraform and Docker skills, and disciplined 700+ GitHub commit streak.
+- **Personalized Pitch Angle:** Highlight Smart India Hackathon 2026 BlockTrain cloud design, Terraform and Docker skills, and disciplined 700+ GitHub commit streak.
 
 ---
 
@@ -908,7 +908,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Chennai Technology Center / Hyderabad / Bengaluru
 - **Careers Portal:** [https://careers.microsoft.com](https://careers.microsoft.com)
 - **Program Details:** World-class internship program with formal mentors, assigned real customer-facing Azure cloud engineering projects.
-- **Custom Pitch Angle (Kevin Joshua L):** Highlight SIH 2024 Railway Cloud Architecture leadership, Terraform modularity, and serverless MLOps (CloudTrain Studio).
+- **Custom Pitch Angle (Kevin Joshua L):** Highlight Smart India Hackathon 2026 Railway Cloud Architecture leadership, Terraform modularity, and serverless MLOps (CloudTrain Studio).
 
 ### 12. Google India
 - **Program Name:** Google Cloud Platform (GCP) & Site Reliability Engineering (SRE) Internship
@@ -1051,7 +1051,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Backup Recruiting Email:** `india@kissflow.com`
 - **Location Hubs:** World Trade Center, Perungudi, OMR, Chennai
 - **Careers Portal:** [https://kissflow.com](https://kissflow.com)
-- **Program Details:** Well-known in Chennai for hiring energetic student coders and hackathon winners directly into their core SaaS platform engineering teams.
+- **Program Details:** Well-known in Chennai for hiring energetic student coders and hackathon participants and cloud builders directly into their core SaaS platform engineering teams.
 - **Custom Pitch Angle (Kevin Joshua L):** Highlight Smart India Hackathon Team Lead experience, multi-container Docker deployments, and 1000-Day public journey.
 
 ### 24. Chargebee
@@ -1148,7 +1148,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Ambattur / Taramani, Chennai, Bengaluru & Hyderabad
 - **Careers Portal:** [https://www.oracle.com/careers](https://www.oracle.com/careers)
 - **Program Details:** Rigorous 6-month hands-on internship inside Oracle Cloud Infrastructure (OCI) teams working on virtualization, distributed storage, and zero-trust VPC networking.
-- **Custom Pitch Angle (Kevin Joshua L):** Focus on deep AWS VPC network isolation and multi-tier database deployment from SIH 2024 BlockTrain, and strong Linux kernel & container systems foundation.
+- **Custom Pitch Angle (Kevin Joshua L):** Focus on deep AWS VPC network isolation and multi-tier database deployment from Smart India Hackathon 2026 BlockTrain, and strong Linux kernel & container systems foundation.
 
 ### 32. SAP Labs India
 - **Program Name:** SAP Business Technology Platform (BTP) & Cloud Native Internship
@@ -1172,7 +1172,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** DLF Cybercity, Manapakkam, Chennai & Bengaluru
 - **Careers Portal:** [https://www.ibm.com/careers](https://www.ibm.com/careers)
 - **Program Details:** Prestigious IBM Extreme Blue and Cloud Lab internship programs pairing students with senior architects to build enterprise hybrid cloud solutions.
-- **Custom Pitch Angle (Kevin Joshua L):** Showcase SIH 2024 government-scale distributed cloud design, Linux automation, and hands-on containerized workload deployment.
+- **Custom Pitch Angle (Kevin Joshua L):** Showcase Smart India Hackathon 2026 government-scale distributed cloud design, Linux automation, and hands-on containerized workload deployment.
 
 ### 34. ServiceNow India
 - **Program Name:** ServiceNow Cloud Foundation & Infrastructure Engineering Internship
@@ -1208,7 +1208,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Bengaluru Hub & Remote India
 - **Careers Portal:** [https://www.databricks.com/company/careers](https://www.databricks.com/company/careers)
 - **Program Details:** World-class university intake focused on high-throughput cloud infrastructure, control plane orchestration on Kubernetes, and large-scale cloud networking.
-- **Custom Pitch Angle (Kevin Joshua L):** Present SIH 2024 Ministry of Railways BlockTrain cloud architecture, multi-node containerized deployment, and Terraform cloud automation mindset.
+- **Custom Pitch Angle (Kevin Joshua L):** Present Smart India Hackathon 2026 Ministry of Railways BlockTrain cloud architecture, multi-node containerized deployment, and Terraform cloud automation mindset.
 
 ### 37. NetApp India
 - **Program Name:** NetApp Cloud Data Services & Storage SRE Internship Program
@@ -1244,7 +1244,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** EcoWorld, Bellandur, Bengaluru
 - **Careers Portal:** [https://www.intuit.com/careers](https://www.intuit.com/careers)
 - **Program Details:** Interns work directly on Intuit's renowned Modern SaaS platform built on AWS, Argo Workflows, and GitOps, powering TurboTax and QuickBooks.
-- **Custom Pitch Angle (Kevin Joshua L):** Emphasize GitOps best practices, AWS VPC security groups, SSM Parameter Store secrets management, and SIH 2024 production-grade architecture.
+- **Custom Pitch Angle (Kevin Joshua L):** Emphasize GitOps best practices, AWS VPC security groups, SSM Parameter Store secrets management, and Smart India Hackathon 2026 production-grade architecture.
 
 ### 40. Workday India
 - **Program Name:** Workday Enterprise Cloud Infrastructure & Platform Internship
@@ -1268,7 +1268,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Futura IT Park, Sholinganallur, OMR, Chennai
 - **Careers Portal:** [https://careers.pypl.com](https://careers.pypl.com)
 - **Program Details:** Flagship university program in Sholinganallur Chennai focusing on private/hybrid cloud platforms, low-latency financial transaction networks, and automated CI/CD.
-- **Custom Pitch Angle (Kevin Joshua L):** Local Chennai availability, SIH 2024 Railway architecture built with strict security controls (AWS SSM, private VPC), and AWS Cloud Practitioner credential.
+- **Custom Pitch Angle (Kevin Joshua L):** Local Chennai availability, Smart India Hackathon 2026 Railway architecture built with strict security controls (AWS SSM, private VPC), and AWS Cloud Practitioner credential.
 
 ### 42. Barclays Global Service Centre (Barclays GSC)
 - **Program Name:** Barclays Enterprise Cloud Foundation & DevOps Graduate/Intern Program
@@ -1292,7 +1292,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** DLF Cybercity, Manapakkam / Haddows Road, Nungambakkam, Chennai
 - **Careers Portal:** [https://www.sc.com/en/careers](https://www.sc.com/en/careers)
 - **Program Details:** Direct campus pipeline in Chennai training interns on bank-wide hybrid cloud migrations, AWS/Azure governance, and financial-grade API gateway infrastructure.
-- **Custom Pitch Angle (Kevin Joshua L):** Chennai native student, Smart India Hackathon Winner 2024, hands-on AWS IAM policy design, and security parameter separation.
+- **Custom Pitch Angle (Kevin Joshua L):** Chennai native student, Smart India Hackathon 2026 Architect, hands-on AWS IAM policy design, and security parameter separation.
 
 ### 44. Wells Fargo India Solutions
 - **Program Name:** Wells Fargo Technology Cloud Infrastructure Intern Program
@@ -1316,7 +1316,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Mumbai & Bengaluru Hubs
 - **Careers Portal:** [https://www.morganstanley.com/careers](https://www.morganstanley.com/careers)
 - **Program Details:** Prestigious summer program where analysts engineer mission-critical cloud compute, low-latency messaging fabrics, and automated container deployment pipelines.
-- **Custom Pitch Angle (Kevin Joshua L):** Highlight SIH 2024 BlockTrain team leadership, Docker containerization on AWS EC2, and rigorous performance-driven cloud architecture.
+- **Custom Pitch Angle (Kevin Joshua L):** Highlight Smart India Hackathon 2026 BlockTrain team leadership, Docker containerization on AWS EC2, and rigorous performance-driven cloud architecture.
 
 ### 46. Goldman Sachs India
 - **Program Name:** Goldman Sachs Core Engineering & Cloud Infrastructure Summer Analyst
@@ -1328,7 +1328,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Bengaluru & Hyderabad Technology Centers
 - **Careers Portal:** [https://www.goldmansachs.com/careers](https://www.goldmansachs.com/careers)
 - **Program Details:** Premier engineering cohort building resilient cloud platforms, developer toolchains, and multi-region AWS/Azure infrastructure for global markets.
-- **Custom Pitch Angle (Kevin Joshua L):** Showcase deep understanding of distributed systems, AWS networking, and proven capability to deliver under pressure demonstrated by SIH 2024 first prize.
+- **Custom Pitch Angle (Kevin Joshua L):** Showcase deep understanding of distributed systems, AWS networking, and proven capability to deliver under pressure demonstrated by Smart India Hackathon 2026 project delivery.
 
 ### 47. BNY Mellon India (Bank of New York Mellon)
 - **Program Name:** BNY Mellon Enterprise Cloud Platform & DevSecOps Campus Program
@@ -1376,7 +1376,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** RMZ Millenia Business Park, Perungudi, Chennai & Bengaluru
 - **Careers Portal:** [https://careers.societegenerale.com](https://careers.societegenerale.com)
 - **Program Details:** Perungudi Chennai technology center offering 6-month internships focused on automating cloud provisioning with Infrastructure-as-Code and container platforms.
-- **Custom Pitch Angle (Kevin Joshua L):** Located right near Perungudi OMR, winner of Smart India Hackathon 2024, and deep practical exposure to Docker containerized web applications.
+- **Custom Pitch Angle (Kevin Joshua L):** Located right near Perungudi OMR, Team Lead & Cloud Architect for Smart India Hackathon 2026 (BlockTrain), and deep practical exposure to Docker containerized web applications.
 
 ### 51. NatWest Group India
 - **Program Name:** NatWest Cloud & Platform Engineering Internship
@@ -1412,7 +1412,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Gurugram & Bengaluru Technology Centers
 - **Careers Portal:** [https://jobs.americanexpress.com](https://jobs.americanexpress.com)
 - **Program Details:** Amex Technology hires large student cohorts for its private cloud infrastructure, container management platforms, and distributed systems engineering.
-- **Custom Pitch Angle (Kevin Joshua L):** Highlight SIH 2024 BlockTrain security architecture with AWS SSM Parameter Store and private VPC data tier isolation.
+- **Custom Pitch Angle (Kevin Joshua L):** Highlight Smart India Hackathon 2026 BlockTrain security architecture with AWS SSM Parameter Store and private VPC data tier isolation.
 
 ### 54. Mastercard India
 - **Program Name:** Mastercard Operations & Cloud Technology Campus Program
@@ -1436,7 +1436,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Bagmane World Tech Park, Bengaluru & Mumbai
 - **Careers Portal:** [https://www.visa.co.in/careers.html](https://www.visa.co.in/careers.html)
 - **Program Details:** World-class university cohort tackling high-throughput transaction routing systems, global cloud monitoring, and automated container orchestration.
-- **Custom Pitch Angle (Kevin Joshua L):** Highlight SIH 2024 Railway network challenge solved under intense hackathon deadlines, demonstrating scalable cloud architecture leadership.
+- **Custom Pitch Angle (Kevin Joshua L):** Highlight Smart India Hackathon 2026 Railway network challenge solved under intense hackathon deadlines, demonstrating scalable cloud architecture leadership.
 
 ### 56. Walmart Global Tech India
 - **Program Name:** Walmart Cloud Platform & SRE University Internship
@@ -1472,7 +1472,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Bengaluru Hub & Remote India
 - **Careers Portal:** [https://jobs.amadeus.com](https://jobs.amadeus.com)
 - **Program Details:** Long-running campus program training interns on global flight booking cloud platforms processing billions of real-time transactions with 99.999% availability.
-- **Custom Pitch Angle (Kevin Joshua L):** Focus on high-availability cloud architecture, RDS failover, and Docker containerization learned during SIH 2024 BlockTrain deployment.
+- **Custom Pitch Angle (Kevin Joshua L):** Focus on high-availability cloud architecture, RDS failover, and Docker containerization learned during Smart India Hackathon 2026 BlockTrain deployment.
 
 ### 59. Sabre Corporation India
 - **Program Name:** Sabre Travel Cloud Modernization & SRE Internship
@@ -1496,7 +1496,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Crimson House, Bengaluru
 - **Careers Portal:** [https://corp.rakuten.co.in/careers](https://corp.rakuten.co.in/careers)
 - **Program Details:** Interns work directly on the revolutionary Rakuten Cloud Platform (RCP), deploying containerized network functions and edge computing clusters.
-- **Custom Pitch Angle (Kevin Joshua L):** Demonstrate Linux networking fundamentals, Docker container optimization, and distributed systems architecture from SIH 2024.
+- **Custom Pitch Angle (Kevin Joshua L):** Demonstrate Linux networking fundamentals, Docker container optimization, and distributed systems architecture from Smart India Hackathon 2026.
 
 ### 61. eBay India Development Center
 - **Program Name:** eBay Cloud Platform & Infrastructure Engineering Internship
@@ -1532,7 +1532,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Manyata Tech Park, Bengaluru
 - **Careers Portal:** [https://jobs.lowes.com/india](https://jobs.lowes.com/india)
 - **Program Details:** Structured university program exposing interns to terraform-based IaC provisioning, cloud observability, and Kubernetes microservices.
-- **Custom Pitch Angle (Kevin Joshua L):** Highlight Terraform, containerization, and AWS private cloud VPC subnet design implemented during the SIH 2024 championship project.
+- **Custom Pitch Angle (Kevin Joshua L):** Highlight Terraform, containerization, and AWS private cloud VPC subnet design implemented during the Smart India Hackathon 2026 Architect project.
 
 ### 64. Qualcomm India
 - **Program Name:** Qualcomm Cloud Systems & Compute Infrastructure Internship
@@ -1556,7 +1556,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Bengaluru & Hyderabad Campuses
 - **Careers Portal:** [https://jobs.intel.com](https://jobs.intel.com)
 - **Program Details:** Long-term student internships embedded in Intel's Cloud and Enterprise Solutions Group focusing on hardware-accelerated cloud virtualization and container performance.
-- **Custom Pitch Angle (Kevin Joshua L):** Highlight deep passion for cloud compute optimization, Docker container efficiency, and SIH 2024 winner track record.
+- **Custom Pitch Angle (Kevin Joshua L):** Highlight deep passion for cloud compute optimization, Docker container efficiency, and Smart India Hackathon 2026 Architect track record.
 
 ### 66. AMD India (Advanced Micro Devices)
 - **Program Name:** AMD Enterprise Cloud & HPC Systems Engineering Internship
@@ -1640,7 +1640,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Hyderabad & Bengaluru Technology Centers
 - **Careers Portal:** [https://www.f5.com/company/careers](https://www.f5.com/company/careers)
 - **Program Details:** Campus recruits build on F5 Distributed Cloud Platform, focusing on global application delivery, multi-cloud ingress controllers, and DNS traffic steering.
-- **Custom Pitch Angle (Kevin Joshua L):** Hands-on experience configuring AWS Application Load Balancers, SSL/TLS certificates, and container routing from SIH 2024.
+- **Custom Pitch Angle (Kevin Joshua L):** Hands-on experience configuring AWS Application Load Balancers, SSL/TLS certificates, and container routing from Smart India Hackathon 2026.
 
 ### 73. Akamai Technologies India
 - **Program Name:** Akamai Edge Cloud & Distributed Platform Engineering Internship
@@ -1676,7 +1676,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Olympia Tech Park, Guindy, Chennai & Pune
 - **Careers Portal:** [https://www.marvell.com/company/careers.html](https://www.marvell.com/company/careers.html)
 - **Program Details:** Guindy Chennai facility hires engineering interns to support cloud data center infrastructure, automated verification environments, and high-speed networking.
-- **Custom Pitch Angle (Kevin Joshua L):** Local Chennai candidate based right next to Guindy, strong Linux foundation, and track record as team lead for SIH 2024 national winning project.
+- **Custom Pitch Angle (Kevin Joshua L):** Local Chennai candidate based right next to Guindy, strong Linux foundation, and track record as team lead for Smart India Hackathon 2026 national winning project.
 
 ### 76. Western Digital India (WDC)
 - **Program Name:** Western Digital Enterprise Cloud Storage & Systems Internship
@@ -1700,7 +1700,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Pune Hub & Remote India
 - **Careers Portal:** [https://www.crowdstrike.com/careers](https://www.crowdstrike.com/careers)
 - **Program Details:** World-leading cloud security platform hiring interns to work on real-time cloud threat detection, massive Kafka streaming, and AWS/Azure cloud security engines.
-- **Custom Pitch Angle (Kevin Joshua L):** Emphasize SIH 2024 Railway architecture built with AWS SSM Parameter Store credentials isolation and private subnet database protection.
+- **Custom Pitch Angle (Kevin Joshua L):** Emphasize Smart India Hackathon 2026 Railway architecture built with AWS SSM Parameter Store credentials isolation and private subnet database protection.
 
 ### 78. Zscaler India
 - **Program Name:** Zscaler Zero Trust Cloud & SRE University Internship
@@ -1736,7 +1736,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Ahmedabad & Bengaluru Centers
 - **Careers Portal:** [https://www.sophos.com/en-us/company/careers](https://www.sophos.com/en-us/company/careers)
 - **Program Details:** Sophos Central is a hyper-scale AWS cloud platform managing millions of endpoints; interns contribute to microservices deployment, CI/CD, and telemetry.
-- **Custom Pitch Angle (Kevin Joshua L):** Demonstrate practical AWS deployment skills, microservice containerization with Docker, and SIH 2024 national championship leadership.
+- **Custom Pitch Angle (Kevin Joshua L):** Demonstrate practical AWS deployment skills, microservice containerization with Docker, and Smart India Hackathon 2026 national project delivery leadership.
 
 ### 81. Trend Micro India
 - **Program Name:** Trend Micro Cloud One & Cloud Security Internship
@@ -1796,7 +1796,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Bengaluru & Delhi NCR Hubs
 - **Careers Portal:** [https://careers.checkpoint.com](https://careers.checkpoint.com)
 - **Program Details:** University recruits build automated security checks for AWS and Azure cloud assets using Check Point CloudGuard posture management tools.
-- **Custom Pitch Angle (Kevin Joshua L):** SIH 2024 Winner BlockTrain multi-tier security design, AWS credential management, and relentless 1000-Day Cloud journey dedication.
+- **Custom Pitch Angle (Kevin Joshua L):** Smart India Hackathon 2026 Architect BlockTrain multi-tier security design, AWS credential management, and relentless 1000-Day Cloud journey dedication.
 
 ### 86. CyberArk Software India
 - **Program Name:** CyberArk Privilege Cloud & Identity Security Internship
@@ -1808,7 +1808,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Hyderabad Hub & Remote India
 - **Careers Portal:** [https://www.cyberark.com/careers](https://www.cyberark.com/careers)
 - **Program Details:** Interns work on CyberArk Privilege Cloud SaaS, securing cloud access keys, Kubernetes secret stores, and automated identity governance on AWS.
-- **Custom Pitch Angle (Kevin Joshua L):** Direct experience managing secrets securely with AWS Systems Manager Parameter Store in production during SIH 2024.
+- **Custom Pitch Angle (Kevin Joshua L):** Direct experience managing secrets securely with AWS Systems Manager Parameter Store in production during Smart India Hackathon 2026.
 
 ### 87. Redis Labs India
 - **Program Name:** Redis Enterprise Cloud & Distributed Systems Internship
@@ -1856,7 +1856,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Remote, India
 - **Careers Portal:** [https://www.cockroachlabs.com/careers](https://www.cockroachlabs.com/careers)
 - **Program Details:** Work directly on CockroachDB Dedicated and Serverless cloud offerings running on multi-region AWS and GCP with zero manual intervention.
-- **Custom Pitch Angle (Kevin Joshua L):** Relational PostgreSQL database expertise from SIH 2024 BlockTrain on AWS RDS, combined with distributed systems ambition.
+- **Custom Pitch Angle (Kevin Joshua L):** Relational PostgreSQL database expertise from Smart India Hackathon 2026 BlockTrain on AWS RDS, combined with distributed systems ambition.
 
 ### 91. Yugabyte India
 - **Program Name:** YugabyteDB Distributed Cloud-Native PostgreSQL Internship
@@ -1868,7 +1868,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Pune, Bengaluru & Remote India
 - **Careers Portal:** [https://www.yugabyte.com/careers](https://www.yugabyte.com/careers)
 - **Program Details:** Engineering interns contribute to YugabyteDB Managed Cloud, developing Kubernetes operators, automated database backups, and multi-region network mesh.
-- **Custom Pitch Angle (Kevin Joshua L):** SIH 2024 Railway architecture built with PostgreSQL, AWS VPC networking, and proactive open-source daily engineering commitment.
+- **Custom Pitch Angle (Kevin Joshua L):** Smart India Hackathon 2026 Railway architecture built with PostgreSQL, AWS VPC networking, and proactive open-source daily engineering commitment.
 
 ### 92. Dynatrace India
 - **Program Name:** Dynatrace Cloud Observability & Platform DevOps Internship
@@ -1916,7 +1916,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Hyderabad & Bengaluru Centers
 - **Careers Portal:** [https://www.splunk.com/en_us/careers.html](https://www.splunk.com/en_us/careers.html)
 - **Program Details:** Splunk's University Early Talent program immerses interns in petabyte-scale cloud streaming architecture, auto-scaling compute pools, and cloud observability.
-- **Custom Pitch Angle (Kevin Joshua L):** Highlight SIH 2024 winner architecture, log streaming and monitoring fundamentals, and AWS cloud security implementation.
+- **Custom Pitch Angle (Kevin Joshua L):** Highlight Smart India Hackathon 2026 Architect architecture, log streaming and monitoring fundamentals, and AWS cloud security implementation.
 
 ### 96. Sumo Logic India
 - **Program Name:** Sumo Logic Cloud-Native Log Analytics & SRE Internship
@@ -1940,7 +1940,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Remote, India
 - **Careers Portal:** [https://about.gitlab.com/jobs](https://about.gitlab.com/jobs)
 - **Program Details:** Pioneer of all-remote work; interns build features for GitLab CI/CD, Kubernetes agent runners, and GitLab.com multi-region cloud infrastructure.
-- **Custom Pitch Angle (Kevin Joshua L):** Publicly verified GitHub portfolio (700+ commits), daily self-driven discipline across 1000 days, and SIH 2024 national victory.
+- **Custom Pitch Angle (Kevin Joshua L):** Publicly verified GitHub portfolio (700+ commits), daily self-driven discipline across 1000 days, and Smart India Hackathon 2026 Architect.
 
 ### 98. JFrog India
 - **Program Name:** JFrog Artifactory Cloud & DevOps Pipeline Internship
@@ -1964,7 +1964,7 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Bengaluru Hub & Remote India
 - **Careers Portal:** [https://www.postman.com/company/careers](https://www.postman.com/company/careers)
 - **Program Details:** Postman powers 30+ million developers; interns work in platform infrastructure managing high-traffic AWS deployments, Redis caching, and global API gateways.
-- **Custom Pitch Angle (Kevin Joshua L):** Proficiency in REST APIs, Docker microservices, AWS SSM credentials injection, and SIH 2024 full-stack cloud architecture.
+- **Custom Pitch Angle (Kevin Joshua L):** Proficiency in REST APIs, Docker microservices, AWS SSM credentials injection, and Smart India Hackathon 2026 full-stack cloud architecture.
 
 ### 100. Kong Inc India
 - **Program Name:** Kong API Gateway & Cloud Connectivity Internship
@@ -1976,23 +1976,23 @@ These 50 organizations (AWS Premier/Advanced Partners, CNCF Kubernetes consultan
 - **Location Hubs:** Bengaluru Hub & Remote India
 - **Careers Portal:** [https://konghq.com/careers](https://konghq.com/careers)
 - **Program Details:** Interns contribute to Kong Gateway and Kong Konnect cloud platform, engineering low-latency proxy routing, Envoy-based service mesh, and Kubernetes ingress.
-- **Custom Pitch Angle (Kevin Joshua L):** Showcase AWS networking fundamentals, container ingress routing, and demonstrated capability as architect of SIH 2024 award-winning project.
+- **Custom Pitch Angle (Kevin Joshua L):** Showcase AWS networking fundamentals, container ingress routing, and demonstrated capability as architect of Smart India Hackathon 2026 Architect project.
 
 ---
 
 ## ✉️ High-Conversion Direct Email Pitch Template
 
 ```text
-Subject: Cloud / DevOps Intern Application - Kevin Joshua L (AWS Certified | SIH 2024 Winner)
+Subject: Cloud / DevOps Intern Application - Kevin Joshua L (AWS Certified | Smart India Hackathon Architect)
 
 Dear [Hiring Manager / Talent Acquisition Team],
 
 I am writing to express my strong interest in joining [Company Name] as a Cloud Engineering / DevOps Intern.
 
-I am a B.E. Computer Science student at Jerusalem College of Engineering, Chennai, an AWS Certified Cloud Practitioner, and Team Lead & Cloud Architect of the 1st prize-winning team at Smart India Hackathon (SIH) 2024 (Ministry of Railways).
+I am a B.E. Computer Science student at Jerusalem College of Engineering, Chennai, an AWS Certified Cloud Practitioner, and Team Lead & Cloud Architect for 'BlockTrain' (developed for the Smart India Hackathon 2026 - Ministry of Railways problem statement).
 
 Key Technical Competencies & Project Experience:
-• Cloud Architecture & Security: Built 'BlockTrain' at SIH 2024—a containerized Railway inspection system hosted on AWS EC2, isolated with Amazon RDS PostgreSQL in private subnets, and configured with AWS SSM Parameter Store.
+• Cloud Architecture & Security: Built 'BlockTrain' for Smart India Hackathon 2026—a containerized Railway inspection system hosted on AWS EC2, isolated with Amazon RDS PostgreSQL in private subnets, and configured with AWS SSM Parameter Store for secure credentials management.
 • DevOps & Infrastructure-as-Code: Actively building on Docker, Kubernetes, Terraform, and CI/CD pipelines as part of my 1000-Day AI Cloud Infrastructure Journey (Day 226+, 700+ GitHub commits).
 • Ready for Immediate Contribution: Available immediately in Chennai (or remote) for an internship, requiring zero ramp-up time on Linux and AWS core services.
 
