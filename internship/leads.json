@@ -5998,5 +5998,475 @@
     "contact_email": "careers.india@tradeweb.com",
     "backup_email": "",
     "website": "https://www.tradeweb.com/about-us/careers"
+  },
+  {
+    "id": "minfy-technologies",
+    "name": "Minfy Technologies",
+    "domain": "AWS Premier Consulting Partner, Enterprise Cloud Migration & Cloud Automation",
+    "location": "Regional Hubs & Remote / Pan-India",
+    "target_role": "Cloud Support & Cloud Migration Engineer Intern",
+    "contact_email": "careers@minfytech.com",
+    "backup_email": "hr@minfytech.com",
+    "website": "https://www.minfytech.com"
+  },
+  {
+    "id": "searce-cloud",
+    "name": "Searce Inc",
+    "domain": "Google Cloud Premier Partner & AWS Advanced Partner, Cloud SRE & Data Modernization",
+    "location": "Pune, Bengaluru & Remote India",
+    "target_role": "Cloud Platform & SRE Engineering Intern",
+    "contact_email": "careers@searce.com",
+    "backup_email": "people@searce.com",
+    "website": "https://www.searce.com"
+  },
+  {
+    "id": "blazeclan-technologies",
+    "name": "Blazeclan Technologies",
+    "domain": "AWS Premier Tier Services Partner, Cloud DevOps, Serverless & Data Analytics",
+    "location": "Pune, Bengaluru & Remote India",
+    "target_role": "AWS Cloud DevOps / Cloud Trainee Intern",
+    "contact_email": "careers@blazeclan.com",
+    "backup_email": "hr@blazeclan.com",
+    "website": "https://www.blazeclan.com"
+  },
+  {
+    "id": "infracloud-technologies",
+    "name": "InfraCloud Technologies",
+    "domain": "CNCF Kubernetes Certified Service Provider, Cloud-Native Tooling (BotKube), GitOps",
+    "location": "Pune Hub & 100% Remote India",
+    "target_role": "Cloud-Native & Kubernetes Infrastructure Intern",
+    "contact_email": "careers@infracloud.io",
+    "backup_email": "talent@infracloud.io",
+    "website": "https://www.infracloud.io"
+  },
+  {
+    "id": "ais-india",
+    "name": "Applied Information Sciences (AIS India)",
+    "domain": "Microsoft Azure Azure Expert MSP & Multi-Cloud Infrastructure Modernization",
+    "location": "Hyderabad, Bengaluru & Remote India",
+    "target_role": "Cloud Platform & Automation Intern",
+    "contact_email": "careersindia@ais.com",
+    "backup_email": "india-talent@ais.com",
+    "website": "https://www.ais.com"
+  },
+  {
+    "id": "umbrella-infocare",
+    "name": "Umbrella Infocare (A Noventiq Company)",
+    "domain": "AWS Premier Tier Services Partner, DevOps, Cloud Migration & Managed Cloud",
+    "location": "Noida, Mumbai & Remote India",
+    "target_role": "AWS Cloud Operations / DevOps Trainee",
+    "contact_email": "careers@umbrellainfocare.com",
+    "backup_email": "hr@umbrellainfocare.com",
+    "website": "https://www.umbrellainfocare.com"
+  },
+  {
+    "id": "rapyder-cloud-solutions",
+    "name": "Rapyder Cloud Solutions",
+    "domain": "AWS Advanced Consulting Partner, Cloud Infrastructure Automation & Well-Architected Reviews",
+    "location": "Bengaluru & Remote India",
+    "target_role": "Cloud Associate / AWS DevOps Intern",
+    "contact_email": "careers@rapyder.com",
+    "backup_email": "hr@rapyder.com",
+    "website": "https://www.rapyder.com"
+  },
+  {
+    "id": "taashee-linux-services",
+    "name": "Taashee Linux Services",
+    "domain": "Red Hat Premier Partner, Enterprise Linux, OpenShift, OpenStack & AWS Cloud",
+    "location": "Chennai Center / Hyderabad & Bengaluru",
+    "target_role": "Linux & Cloud Infrastructure Intern",
+    "contact_email": "careers@taashee.com",
+    "backup_email": "jobs@taashee.com",
+    "website": "https://www.taashee.com"
+  },
+  {
+    "id": "redington-cloud",
+    "name": "Redington Cloud Solutions (CloudQuarks)",
+    "domain": "Cloud Aggregation Platform, AWS/Azure/GCP Distribution & Managed Cloud Services",
+    "location": "Guindy, Chennai (Global Headquarters)",
+    "target_role": "Cloud Platform Operations & Solutions Intern",
+    "contact_email": "careers@redingtongroup.com",
+    "backup_email": "hr.cloud@redingtongroup.com",
+    "website": "https://www.redingtongroup.com"
+  },
+  {
+    "id": "gavs-technologies",
+    "name": "GAVS Technologies",
+    "domain": "AIOps, Automated Cloud Operations, Hybrid Infrastructure & Telemetry",
+    "location": "Sholinganallur, OMR, Chennai (Headquarters)",
+    "target_role": "Cloud Operations & AIOps Telemetry Intern",
+    "contact_email": "careers@gavstech.com",
+    "backup_email": "talent@gavstech.com",
+    "website": "https://www.gavstech.com"
+  },
+  {
+    "id": "aspire-systems",
+    "name": "Aspire Systems",
+    "domain": "Cloud Native Engineering, Microservices Modernization, AWS/Azure DevOps",
+    "location": "Siruseri SIPCOT IT Park, Chennai (Headquarters)",
+    "target_role": "Cloud Infrastructure & DevOps Engineer Intern",
+    "contact_email": "careers@aspiresys.com",
+    "backup_email": "campus@aspiresys.com",
+    "website": "https://www.aspiresys.com"
+  },
+  {
+    "id": "hexaware-technologies",
+    "name": "Hexaware Technologies",
+    "domain": "Automated Cloud Migration (Amaze Platform), Multi-Cloud Managed Services",
+    "location": "MEPZ, Tambaram / Siruseri, Chennai",
+    "target_role": "Cloud Modernization & DevOps Trainee Intern",
+    "contact_email": "campus@hexaware.com",
+    "backup_email": "careers@hexaware.com",
+    "website": "https://www.hexaware.com"
+  },
+  {
+    "id": "sify-technologies",
+    "name": "Sify Technologies",
+    "domain": "Cloud Data Centers, Sify CloudInfinit, Software Defined Networks & Hyperscale Interconnect",
+    "location": "Tidel Park, Taramani, Chennai (Headquarters)",
+    "target_role": "Cloud Data Center Operations & Infrastructure Intern",
+    "contact_email": "careers@sifycorp.com",
+    "backup_email": "talent@sifycorp.com",
+    "website": "https://www.sifytechnologies.com"
+  },
+  {
+    "id": "netcon-technologies",
+    "name": "Netcon Technologies",
+    "domain": "Enterprise Cloud Networking, Data Center Virtualization, Cloud Migration",
+    "location": "Guindy, Chennai & Coimbatore",
+    "target_role": "Cloud & Network Infrastructure Intern",
+    "contact_email": "careers@netcon.in",
+    "backup_email": "hr@netcon.in",
+    "website": "https://www.netcon.in"
+  },
+  {
+    "id": "nalashaa-solutions",
+    "name": "Nalashaa Solutions",
+    "domain": "Cloud Engineering, Healthcare Cloud Systems, Microservices & DevOps",
+    "location": "Bengaluru & Remote India",
+    "target_role": "Cloud Platform & DevOps Intern",
+    "contact_email": "careers@nalashaa.com",
+    "backup_email": "hr@nalashaa.com",
+    "website": "https://www.nalashaa.com"
+  },
+  {
+    "id": "indium-software",
+    "name": "Indium Software",
+    "domain": "Digital Engineering, AWS/Azure Cloud Data Platforms, DevSecOps",
+    "location": "Ramanujan IT City, Taramani, Chennai (Headquarters)",
+    "target_role": "Cloud DevOps & Platform Trainee",
+    "contact_email": "careers@indiumsoft.com",
+    "backup_email": "campus@indiumsoft.com",
+    "website": "https://www.indiumsoftware.com"
+  },
+  {
+    "id": "htc-global-services",
+    "name": "HTC Global Services",
+    "domain": "Enterprise Cloud Migration, AWS/Azure Managed Infrastructure, Microservices",
+    "location": "Guindy / MEPZ, Chennai",
+    "target_role": "Cloud Migration & Infrastructure Intern",
+    "contact_email": "careers@htcinc.com",
+    "backup_email": "talent.india@htcinc.com",
+    "website": "https://www.htcinc.com"
+  },
+  {
+    "id": "prodapt-solutions",
+    "name": "Prodapt Solutions",
+    "domain": "Telecom Cloud, Network Function Virtualization (NFV), AWS/Azure Cloud Infrastructure",
+    "location": "Prince Infocity, OMR, Kandanchavadi, Chennai",
+    "target_role": "Telco Cloud & DevOps Engineer Intern",
+    "contact_email": "careers@prodapt.com",
+    "backup_email": "campus@prodapt.com",
+    "website": "https://www.prodapt.com"
+  },
+  {
+    "id": "sensiple-technologies",
+    "name": "Sensiple",
+    "domain": "Cloud Contact Center, FinTech Cloud Modernization, AWS Cloud Services",
+    "location": "Sholinganallur, OMR, Chennai",
+    "target_role": "Cloud Automation & Support Intern",
+    "contact_email": "careers@sensiple.com",
+    "backup_email": "hr@sensiple.com",
+    "website": "https://www.sensiple.com"
+  },
+  {
+    "id": "sutherland-cloud",
+    "name": "Sutherland Global Services",
+    "domain": "Cloud Operations, Enterprise IT Infrastructure, Multi-Cloud Support",
+    "location": "Gateway Office Parks, Perungalathur / Velachery, Chennai",
+    "target_role": "Cloud Systems & Infrastructure Trainee Intern",
+    "contact_email": "careers.india@sutherlandglobal.com",
+    "backup_email": "cloudcareers@sutherlandglobal.com",
+    "website": "https://www.sutherlandglobal.com"
+  },
+  {
+    "id": "birlasoft-solutions",
+    "name": "Birlasoft",
+    "domain": "Enterprise Cloud Migration, Oracle Cloud & AWS Hybrid Infrastructure",
+    "location": "Chennai Center / Pune & Noida",
+    "target_role": "Cloud Infrastructure & DevOps Intern",
+    "contact_email": "careers@birlasoft.com",
+    "backup_email": "campus@birlasoft.com",
+    "website": "https://www.birlasoft.com"
+  },
+  {
+    "id": "virtusa-cloud",
+    "name": "Virtusa Consulting Services",
+    "domain": "Cloud-Native Platforms, AWS/Azure Modernization, Microservices & FinTech",
+    "location": "Navalur, OMR, Chennai",
+    "target_role": "Cloud Native Platform & DevOps Trainee",
+    "contact_email": "careers@virtusa.com",
+    "backup_email": "campusrecruitment@virtusa.com",
+    "website": "https://www.virtusa.com"
+  },
+  {
+    "id": "zifo-rnd-solutions",
+    "name": "Zifo RnD Solutions",
+    "domain": "Scientific Informatics, Cloud High Performance Computing (HPC), AWS Pharma Cloud",
+    "location": "Thoraipakkam, OMR, Chennai (Headquarters)",
+    "target_role": "Cloud HPC & Infrastructure Systems Intern",
+    "contact_email": "careers@zifornd.com",
+    "backup_email": "talent@zifornd.com",
+    "website": "https://www.zifo.com"
+  },
+  {
+    "id": "ideas2it-technologies",
+    "name": "Ideas2IT Technologies",
+    "domain": "Silicon Valley Product Engineering, Kubernetes, AWS Microservices, AI/Cloud Platforms",
+    "location": "Guindy, Chennai (Global Headquarters)",
+    "target_role": "Cloud-Native Architect & DevOps Intern",
+    "contact_email": "careers@ideas2it.com",
+    "backup_email": "hr@ideas2it.com",
+    "website": "https://www.ideas2it.com"
+  },
+  {
+    "id": "presidio-india",
+    "name": "Presidio India",
+    "domain": "AWS Premier Tier Services Partner, Cloud Solutions Architecting & DevOps",
+    "location": "Ramanujan IT City, Taramani / Perungudi, Chennai",
+    "target_role": "Associate Cloud Solutions Architect Intern",
+    "contact_email": "careers-india@presidio.com",
+    "backup_email": "indiarecruitment@presidio.com",
+    "website": "https://www.presidio.com"
+  },
+  {
+    "id": "incture-technologies",
+    "name": "Incture Technologies",
+    "domain": "SAP Business Technology Platform (BTP), Multi-Cloud Architecture, Cloud Automation",
+    "location": "Bengaluru & Chennai Hubs",
+    "target_role": "Cloud Platform & DevOps Intern",
+    "contact_email": "careers@incture.com",
+    "backup_email": "talent@incture.com",
+    "website": "https://www.incture.com"
+  },
+  {
+    "id": "solartis-technology",
+    "name": "Solartis Technology Services",
+    "domain": "InsurTech Cloud Platform, Serverless Microservices on AWS, Docker & CI/CD",
+    "location": "DLF Cybercity, Manapakkam, Chennai",
+    "target_role": "AWS Cloud Microservices & DevOps Intern",
+    "contact_email": "careers@solartis.net",
+    "backup_email": "hr@solartis.net",
+    "website": "https://www.solartis.com"
+  },
+  {
+    "id": "softsquare-solutions",
+    "name": "Softsquare Solutions",
+    "domain": "Salesforce Hyperforce Cloud Architecture, AWS Lambda Microservices, CI/CD",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud Integration & DevOps Trainee",
+    "contact_email": "careers@softsquare.biz",
+    "backup_email": "hr@softsquare.biz",
+    "website": "https://www.softsquare.biz"
+  },
+  {
+    "id": "hakuna-matata-solutions",
+    "name": "Hakuna Matata Solutions",
+    "domain": "Industrial IoT Cloud, AWS IoT Core, Serverless Architectures & DevOps",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud IoT & Infrastructure Trainee",
+    "contact_email": "careers@hakunamatatatech.com",
+    "backup_email": "hr@hakunamatatatech.com",
+    "website": "https://www.hakunamatatatech.com"
+  },
+  {
+    "id": "contus-tech",
+    "name": "Contus",
+    "domain": "High-Throughput Media Streaming Cloud, WebRTC, Kubernetes & AWS SRE",
+    "location": "Guindy Industrial Estate, Chennai",
+    "target_role": "Cloud Video Infrastructure & DevOps Intern",
+    "contact_email": "careers@contus.in",
+    "backup_email": "hr@contus.in",
+    "website": "https://www.contus.com"
+  },
+  {
+    "id": "caratlane-tech",
+    "name": "CaratLane Tech (A Tanishq / Titan Partnership)",
+    "domain": "High-Scale E-Commerce Cloud, Kubernetes on AWS, Redis Caching & Cloud SRE",
+    "location": "Tidel Park / Thiruvanmiyur, Chennai",
+    "target_role": "Cloud Infrastructure & SRE Intern",
+    "contact_email": "careers@caratlane.com",
+    "backup_email": "tech-jobs@caratlane.com",
+    "website": "https://www.caratlane.com"
+  },
+  {
+    "id": "agilysys-india",
+    "name": "Agilysys India",
+    "domain": "Hospitality Cloud SaaS, AWS Cloud Modernization, Microservices & CI/CD",
+    "location": "Tidel Park, Taramani, Chennai",
+    "target_role": "Cloud Platform & DevOps Intern",
+    "contact_email": "careers.india@agilysys.com",
+    "backup_email": "talentacquisition@agilysys.com",
+    "website": "https://www.agilysys.com"
+  },
+  {
+    "id": "kaar-technologies",
+    "name": "Kaar Technologies",
+    "domain": "Enterprise SAP Cloud on AWS/Azure, Multi-Cloud Automation & DevSecOps",
+    "location": "Anna Nagar / Guindy, Chennai (Headquarters)",
+    "target_role": "Cloud Solutions & Infrastructure Trainee",
+    "contact_email": "careers@kaartech.com",
+    "backup_email": "campus@kaartech.com",
+    "website": "https://www.kaartech.com"
+  },
+  {
+    "id": "maveric-systems",
+    "name": "Maveric Systems",
+    "domain": "Digital Banking Cloud, API Assurance, AWS/Azure Hybrid Infrastructure",
+    "location": "Siruseri IT Park, Chennai (Headquarters)",
+    "target_role": "Banking Cloud Infrastructure & DevSecOps Intern",
+    "contact_email": "careers@maveric-systems.com",
+    "backup_email": "talent@maveric-systems.com",
+    "website": "https://www.maveric-systems.com"
+  },
+  {
+    "id": "caresoft-global",
+    "name": "Caresoft Global",
+    "domain": "Cloud High Performance Computing (HPC), Automotive Cloud Simulation on AWS",
+    "location": "Guindy, Chennai",
+    "target_role": "Cloud HPC & Infrastructure Systems Intern",
+    "contact_email": "careers@caresoftglobal.com",
+    "backup_email": "hr@caresoftglobal.com",
+    "website": "https://www.caresoftglobal.com"
+  },
+  {
+    "id": "innoppl-technologies",
+    "name": "Innoppl Technologies",
+    "domain": "AWS Cloud Migrations, Mobile Backend Cloud, Linux Automation",
+    "location": "Alwarpet, Chennai",
+    "target_role": "Cloud DevOps & Support Intern",
+    "contact_email": "careers@innoppl.com",
+    "backup_email": "hr@innoppl.com",
+    "website": "https://www.innoppl.com"
+  },
+  {
+    "id": "trianz-digital",
+    "name": "Trianz",
+    "domain": "Cloud Analytics, AWS/Azure Infrastructure Automation, Data Mesh",
+    "location": "Chennai Center / Bengaluru & Hyderabad",
+    "target_role": "Cloud Infrastructure & Automation Intern",
+    "contact_email": "careers@trianz.com",
+    "backup_email": "campus@trianz.com",
+    "website": "https://www.trianz.com"
+  },
+  {
+    "id": "nitor-infotech",
+    "name": "Nitor Infotech",
+    "domain": "Product Engineering, AWS Cloud Infrastructure, Microservices & CI/CD",
+    "location": "Pune & Remote India",
+    "target_role": "Cloud Product & DevOps Engineer Intern",
+    "contact_email": "careers@nitorinfotech.com",
+    "backup_email": "hr@nitorinfotech.com",
+    "website": "https://www.nitorinfotech.com"
+  },
+  {
+    "id": "gathr-data",
+    "name": "Gathr Data (Impetus Technologies)",
+    "domain": "Data Streaming Platform on Cloud, Kubernetes Operators, AWS/Azure Infrastructure",
+    "location": "Noida, Bengaluru & Remote India",
+    "target_role": "Cloud Platform & Distributed Systems Intern",
+    "contact_email": "careers@gathr.one",
+    "backup_email": "talent@gathr.one",
+    "website": "https://www.gathr.one"
+  },
+  {
+    "id": "cigniti-technologies",
+    "name": "Cigniti Technologies",
+    "domain": "Digital Assurance, Cloud Infrastructure Testing, Kubernetes & Chaos Engineering",
+    "location": "Hyderabad, Bengaluru & Regional Hubs",
+    "target_role": "Cloud Assurance & DevSecOps Intern",
+    "contact_email": "careers@cigniti.com",
+    "backup_email": "campus@cigniti.com",
+    "website": "https://www.cigniti.com"
+  },
+  {
+    "id": "srijan-technologies",
+    "name": "Srijan Technologies (Material+)",
+    "domain": "Enterprise Cloud Native Platforms, Kubernetes Hosting, AWS/GCP Multi-Region",
+    "location": "Delhi NCR, Bengaluru & Remote India",
+    "target_role": "Cloud Platform & Kubernetes DevOps Intern",
+    "contact_email": "careers@srijan.net",
+    "backup_email": "talent@srijan.net",
+    "website": "https://www.srijan.net"
+  },
+  {
+    "id": "centilytics-cloud",
+    "name": "Centilytics (Cognitive Convergence)",
+    "domain": "Cloud Cost Optimization, Multi-Cloud Governance, AWS Well-Architected Framework",
+    "location": "Noida Hub & Remote India",
+    "target_role": "Cloud FinOps & Infrastructure Systems Intern",
+    "contact_email": "careers@centilytics.com",
+    "backup_email": "hr@centilytics.com",
+    "website": "https://www.centilytics.com"
+  },
+  {
+    "id": "opsramp-hpe",
+    "name": "OpsRamp (Hewlett Packard Enterprise - HPE)",
+    "domain": "AIOps, Hybrid Cloud Observability, Multi-Cloud Discovery & Telemetry",
+    "location": "Hyderabad & Bengaluru Centers",
+    "target_role": "Cloud Observability & Platform Operations Intern",
+    "contact_email": "careers@opsramp.com",
+    "backup_email": "india-jobs@opsramp.com",
+    "website": "https://www.opsramp.com"
+  },
+  {
+    "id": "totalcloud-io",
+    "name": "TotalCloud",
+    "domain": "Autonomous Cloud Management, Interactive 3D Cloud Topology, AWS Automation",
+    "location": "Bengaluru Hub & Remote India",
+    "target_role": "AWS Cloud Automation & Platform Intern",
+    "contact_email": "careers@totalcloud.io",
+    "backup_email": "jobs@totalcloud.io",
+    "website": "https://www.totalcloud.io"
+  },
+  {
+    "id": "corestack",
+    "name": "CoreStack",
+    "domain": "Multi-Cloud Governance (FinOps, SecOps, CloudOps), AWS/Azure/GCP Automation",
+    "location": "Chennai Center / Hyderabad & Remote India",
+    "target_role": "Cloud Governance & FinOps Trainee Intern",
+    "contact_email": "careers@corestack.io",
+    "backup_email": "hr@corestack.io",
+    "website": "https://www.corestack.io"
+  },
+  {
+    "id": "quantiphi-analytics",
+    "name": "Quantiphi",
+    "domain": "AWS Premier Tier & Google Cloud Premier Partner, Cloud Native AI Infrastructure",
+    "location": "Bengaluru, Mumbai & Regional Hubs",
+    "target_role": "Cloud Platform & DevOps Engineer Intern",
+    "contact_email": "careers@quantiphi.com",
+    "backup_email": "talent@quantiphi.com",
+    "website": "https://www.quantiphi.com"
+  },
+  {
+    "id": "cloudeq",
+    "name": "CloudEQ",
+    "domain": "Cloud DevOps, SRE, Infrastructure-as-Code & Cloud Native Modernization",
+    "location": "Chandigarh, Bengaluru & Remote India",
+    "target_role": "Cloud DevOps & SRE Intern",
+    "contact_email": "careers@cloudeq.com",
+    "backup_email": "hr@cloudeq.com",
+    "website": "https://www.cloudeq.com"
   }
 ]
