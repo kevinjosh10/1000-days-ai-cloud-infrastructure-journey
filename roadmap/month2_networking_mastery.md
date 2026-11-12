@@ -12,6 +12,7 @@
 | **Week 2** | Routing, Cloud VPCs & Hybrid Connectivity | Routing tables, ARP, VPC building blocks, NAT, Peering, Transit Gateways, VPN/Direct Connect, DNS roots |
 | **Week 3** | DNS in Depth, Transport & Application Protocols | DNS record types, Split-horizon DNS, Service Discovery, TCP lifecycle, MTU/MSS, UDP/QUIC |
 | **Week 4** | Application Layer Security, Load Balancing & K8s | HTTP/1.1-2-3, TLS 1.3/mTLS, Security Groups/NACLs, L4/L7 Load Balancing, CNI & K8s Services, Systematic Troubleshooting |
+| **Capstones (Days 29–30)** | Full Revision, Synthesis & Troubleshooting Drills | Core concept consolidation (Weeks 1–4), scenario drills, AI infra networking (RDMA/InfiniBand), end-to-end architecture reviews |
 
 ---
 
@@ -217,6 +218,56 @@
   4. **Port and listener:** Is the database listening on the expected interface and port?
   5. **TLS and application:** Does the handshake and authentication succeed?
   6. **Load balancer and target health:** Are targets healthy and registered?
+
+---
+
+## 🔁 Capstone Revision & Synthesis (Days 29–30)
+
+### Day 29: Comprehensive Revision I — Addressing, Routing, Hybrid Networks & DNS (Weeks 1–2 Synthesis)
+- **Layer 1–3 Foundation Drill:** OSI vs TCP/IP mapping, packet encapsulation/decapsulation from wire to application buffer
+- **Subnetting & CIDR Speed Run:** Calculating netmask, usable hosts, broadcast, and cloud-reserved IPs in under 60 seconds
+- **Address Architecture Review:** RFC 1918 allocations, non-overlapping VPC designs, VLSM sizing, and IPv4/IPv6 dual-stack considerations
+- **Routing Decision Engine:** Longest prefix match rules, default routes (`0.0.0.0/0`), static vs propagated BGP routes, ARP resolution flow
+- **VPC Interconnectivity Comparison:**
+  - VPC Peering (non-transitive, lowest latency, no bandwidth bottlenecks)
+  - Transit Gateway (hub-and-spoke, transitive, route domains, cross-account scale)
+  - VPC Endpoints: Gateway (S3/DynamoDB) vs Interface / PrivateLink (ENI, TCP services, cross-account without IP overlap)
+- **Hybrid Connectivity Breakdown:**
+  - Site-to-Site IPsec VPN (dual-tunnel redundancy, BGP dynamic vs static routing)
+  - Dedicated links (AWS Direct Connect / Azure ExpressRoute / GCP Interconnect: private VIF, transit VIF, backup over VPN)
+  - BGP core mechanics: AS numbers, prefix advertisement, AS-Path prepending, MED, route propagation
+- **DNS Resolution Deep Dive:**
+  - Step-by-step query traversal: Stub -> Recursive Resolver -> Root -> TLD -> Authoritative
+  - Record types: A, AAAA, CNAME vs Alias/ANAME, PTR, TXT, SRV, CAA
+  - Split-horizon DNS architectures and VPC Inbound/Outbound Resolver Endpoints for hybrid resolution
+  - Negative caching (NXDOMAIN), TTL pitfalls, and error differentiation (NXDOMAIN vs SERVFAIL vs Client Timeout)
+- **Hands-on Scenario Drill 1:** *"On-premises server cannot resolve or connect to a private RDS instance in a peered VPC"* — trace the packet, identify the 4 failure points (DNS forwarding, routing/transit, Security Group/NACL, listener port).
+
+### Day 30: Comprehensive Revision II — Transport, Security, Load Balancing, K8s & AI Infrastructure (Weeks 3–4 Synthesis)
+- **Transport Layer & Protocol Deep Dive:**
+  - TCP handshake (SYN, SYN-ACK, ACK), state machine (ESTABLISHED, TIME_WAIT, CLOSE_WAIT), and socket exhaustion
+  - Flow control vs Congestion control; MTU/MSS negotiation and PMTUD "black hole" detection
+  - UDP vs QUIC: Why HTTP/3 moves transport to UDP to eliminate head-of-line blocking
+- **Application Layer & Security Matrix:**
+  - HTTP status codes (2xx, 3xx, 4xx, 5xx), critical headers (`Host`, `X-Forwarded-For`, `X-Forwarded-Proto`), and connection pooling
+  - TLS 1.3 cryptographic handshake, SNI multiplexing, mTLS for zero-trust service meshes, and certificate authority chains
+  - Security Groups (stateful, instance-level, allow-only, SG-referencing) vs NACLs (stateless, subnet-level, allow/deny, numbered rules, ephemeral port rules)
+  - WAF vs Cloud Network Firewalls: Layer 7 payload inspection vs Layer 3/4 stateful inspection
+- **Load Balancing Architectures:**
+  - Layer 4 (NLB/IP-level, ultra-high throughput, static IPs) vs Layer 7 (ALB/path-based, cookie stickiness, TLS termination)
+  - Target group health checks, cross-zone load balancing, deregistration delay (connection draining)
+- **Kubernetes Networking Demystified:**
+  - The Pod-to-Pod network guarantee (flat IP space without NAT)
+  - CNI plugins (AWS VPC CNI, Calico, Cilium with eBPF)
+  - Kubernetes Services under the hood: ClusterIP, NodePort, LoadBalancer via `kube-proxy` (iptables vs IPVS)
+  - Ingress controllers and the Kubernetes Gateway API
+  - NetworkPolicy ingress/egress rule enforcement
+- **AI Infrastructure Networking (Crucial Extension):**
+  - East-West vs North-South traffic patterns in distributed training clusters
+  - RoCEv2 (RDMA over Converged Ethernet) vs InfiniBand: Zero-copy, kernel bypass, ultra-low latency for all-reduce collective ops
+  - High-throughput storage access: FSx for Lustre, GPUDirect Storage (GDS), and S3 Gateway Endpoint optimizations
+- **Hands-on Scenario Drill 2:** Systematic 6-Layer Debugging Blitz:
+  - Incident diagnosis: *"Microservice in Kubernetes Pod gets intermittent 504 Gateway Timeout connecting to external AI inference API across a NAT Gateway"* — analyze connection tracking limits, ephemeral port exhaustion, DNS caching, and backend target health.
 
 ---
 
