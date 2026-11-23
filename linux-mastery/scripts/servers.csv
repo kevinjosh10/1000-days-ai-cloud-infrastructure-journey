@@ -1,0 +1,6 @@
+server_name,region,instance_type,environment,status
+web-server-01,ap-south-1,t3.micro,production,active
+database-server-01,ap-south-1,t3.small,production,active
+cache-server-01,us-east-1,t3.micro,development,active
+backup-server-01,eu-west-1,t3.small,staging,inactive
+invalid-server,,t3.micro,production,active
