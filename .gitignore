@@ -16,6 +16,7 @@ dist/
 
 # Logs
 *.log
+!linux-mastery/scripts/sample_auth.log
 
 # OS files
 .DS_Store
